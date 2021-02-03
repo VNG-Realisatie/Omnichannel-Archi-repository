@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisaties API"
+    id="id-fffcac2325044f2aa0834049f59bb1d1"
+    documentation="API voor het benaderen van het autorisatiesregister op zaaktype niveau."/>

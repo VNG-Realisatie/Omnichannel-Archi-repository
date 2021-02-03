@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documenten API"
+    id="id-4770b61117e84c588d11c81e41ed8edb"
+    documentation="API voor het benaderen van het documentenregister."/>

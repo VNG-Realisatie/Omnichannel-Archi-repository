@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="routeren notificatie"
+    id="id-d7edd3086564610c9998cfdc9d02ae2a">
+  <properties
+      key="Object ID"
+      value="839363a4-73cc-4919-9bed-cd322d96c6d4"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-40805a92105dd327c532ebf2eca147c5.xml#id-40805a92105dd327c532ebf2eca147c5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6dbb637ad82c12a3c6634c6560bddb4.xml#id-c6dbb637ad82c12a3c6634c6560bddb4"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gegevenslevering"
+    id="id-a6672e82d879e1480ddda76f083d87b4">
+  <properties
+      key="Object ID"
+      value="bd006c94-aaff-4c66-b6f5-7eacd4e26305"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1588197a02f651959156b97286d98150.xml#id-1588197a02f651959156b97286d98150"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b4ba595f776735224751ffc8e761ae60.xml#id-b4ba595f776735224751ffc8e761ae60"/>
+</archimate:FlowRelationship>

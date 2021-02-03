@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRK Bevragen API"
+    id="id-24b3343034e146438149fcee0b9f047c"
+    documentation="API voor het bevragen van de BRK."/>

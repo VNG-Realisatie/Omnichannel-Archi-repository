@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kanaalswitch"
+    id="id-4013b0ff0cf845ee84bef197b3689458"
+    documentation="Functie voor het kunnen wisselen tussen kanalen zonder verlies van gegevens."/>

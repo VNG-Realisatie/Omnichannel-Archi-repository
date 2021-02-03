@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="logging van ontvangst en afhandeling notificatie"
+    id="id-3da0d00a21add28ccb723d3f9ad5fefb">
+  <properties
+      key="Object ID"
+      value="b22c9d0d-c282-46f1-96ba-fa44a4ddf6c4"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6dbb637ad82c12a3c6634c6560bddb4.xml#id-c6dbb637ad82c12a3c6634c6560bddb4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f3bffd3f8fce63c5ad8314ce103e4881.xml#id-f3bffd3f8fce63c5ad8314ce103e4881"/>
+</archimate:FlowRelationship>

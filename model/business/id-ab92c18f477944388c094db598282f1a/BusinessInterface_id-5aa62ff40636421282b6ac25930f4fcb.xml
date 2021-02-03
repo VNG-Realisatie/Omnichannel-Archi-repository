@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telefoon"
+    id="id-5aa62ff40636421282b6ac25930f4fcb"
+    documentation="Kanaal waarover telefonische interactie plaatsvindt (zowel live als via een bot)."/>

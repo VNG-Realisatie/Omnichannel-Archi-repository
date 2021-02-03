@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pseudonimiseringscomponent"
+    id="id-cfbaf91238e14ff3a90d925a129c7f64"
+    documentation="Component voor het anonimiseren/pseudonimiseren van data."/>

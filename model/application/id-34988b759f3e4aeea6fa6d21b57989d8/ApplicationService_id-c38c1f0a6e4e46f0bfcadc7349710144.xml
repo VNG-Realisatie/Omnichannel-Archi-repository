@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR Bevragen API"
+    id="id-c38c1f0a6e4e46f0bfcadc7349710144"
+    documentation="API voor het bevragen van het HR (Handelsregister)."/>

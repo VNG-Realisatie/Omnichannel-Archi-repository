@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="loggen verzending notificatie"
+    id="id-fedbe012652ccc1d45758c131c40e3db">
+  <properties
+      key="Object ID"
+      value="241ac1a0-2f74-4d5a-a726-fbaacd7c1ca7"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1588197a02f651959156b97286d98150.xml#id-1588197a02f651959156b97286d98150"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f3bffd3f8fce63c5ad8314ce103e4881.xml#id-f3bffd3f8fce63c5ad8314ce103e4881"/>
+</archimate:FlowRelationship>

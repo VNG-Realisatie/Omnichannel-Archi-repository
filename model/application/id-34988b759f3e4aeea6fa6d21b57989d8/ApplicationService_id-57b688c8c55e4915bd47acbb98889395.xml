@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogi API"
+    id="id-57b688c8c55e4915bd47acbb98889395"
+    documentation="API voor het benaderen van het catalogiregister."/>

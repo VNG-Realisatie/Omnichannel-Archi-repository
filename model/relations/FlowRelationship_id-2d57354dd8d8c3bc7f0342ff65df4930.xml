@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leveren notificatie"
+    id="id-2d57354dd8d8c3bc7f0342ff65df4930"
+    documentation="Generieke weergave van een sectoraal knooppunt. Deze generieke weergave wordt gebruikt in de modellering van GEMMA patronen.">
+  <properties
+      key="Object ID"
+      value="6f2e7ea1-6f13-4818-a33d-d8585d2a5796"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1588197a02f651959156b97286d98150.xml#id-1588197a02f651959156b97286d98150"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6dbb637ad82c12a3c6634c6560bddb4.xml#id-c6dbb637ad82c12a3c6634c6560bddb4"/>
+</archimate:FlowRelationship>
