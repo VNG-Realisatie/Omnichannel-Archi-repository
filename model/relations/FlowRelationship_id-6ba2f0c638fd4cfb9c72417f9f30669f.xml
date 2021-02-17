@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Antwoord"
+    id="id-6ba2f0c638fd4cfb9c72417f9f30669f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-aa7c68ee20704d97af3b1082a9f596e6.xml#id-aa7c68ee20704d97af3b1082a9f596e6"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-32bd4de0070c4124ba66eb35961c1a23.xml#id-32bd4de0070c4124ba66eb35961c1a23"/>
+</archimate:FlowRelationship>
