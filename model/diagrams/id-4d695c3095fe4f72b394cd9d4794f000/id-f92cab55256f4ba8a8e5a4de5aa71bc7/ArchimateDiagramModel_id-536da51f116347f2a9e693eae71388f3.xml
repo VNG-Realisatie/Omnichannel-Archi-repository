@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BA - Interactie actoren"
+    name="Business - Interactie actoren"
     id="id-536da51f116347f2a9e693eae71388f3"
     documentation="In dit interactiepatroon zijn 2 verschillende interacties gemodelleerd. In het eerste patroon stelt de klant een vraag aan de gemeente. Een medewerker van de gemeente neemt de vraag in ontvangst en beantwoordt de vraag. In het tweede patroon stelt de gemeente een vraag aan de klant. De klant geeft hierop een reactie.">
   <children

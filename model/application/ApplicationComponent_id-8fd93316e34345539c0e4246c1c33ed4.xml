@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingenloggingcomponent"
+    id="id-8fd93316e34345539c0e4246c1c33ed4"
+    documentation="Component voor het registreren van concrete verwerkingen">
+  <properties
+      key="Object ID"
+      value="7861c49e-ba18-4ff2-84e3-facd593a0c30"/>
+  <properties
+      key="Toelichting"
+      value="In de Verwerkingenloggingcomponent worden verwerkingen vastgelegd. Een verwerking is de daadwerkelijke uitvoering van verwerkingsactiviteit door de gemeente. Het is de verantwoordelijkheid van de gemeente om iedere verwerking van persoonsgegevens vast te leggen in de verwerkingenloggincomponent. De verwerkingenloggingcomponent wordt door de gemeente gebruikt om zowel naar burgers en ondernemers als naar het bestuur de rechtmatigheid van verwerkingsactiviteitenvan gegevens mee aan te tonen. De inhoud van het register moet boven alle twijfel verheven te zijn. De gegevens zijn daarom immutable (onaanpasbaar)."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Projectstatus"
+      value="Nieuw"/>
+</archimate:ApplicationComponent>
