@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kunnen verwerken van toestemmingen"
-    id="id-3904c14e04a44a8c9df6674644c2d3d5"/>
+    name="Verwerken van toestemmingen"
+    id="id-3904c14e04a44a8c9df6674644c2d3d5"
+    documentation="Het vermogen van de organisatie om toestemmingen van de klant door de klant zelf te kunnen registreren en te kunnen beheren."/>

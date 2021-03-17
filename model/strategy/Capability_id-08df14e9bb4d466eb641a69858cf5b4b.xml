@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kunnen verwerken van verzoeken"
-    id="id-08df14e9bb4d466eb641a69858cf5b4b"/>
+    name="Verwerken van verzoeken"
+    id="id-08df14e9bb4d466eb641a69858cf5b4b"
+    documentation="Het vermogen van de organisatie om verzoeken aan de klant te koppelen."/>
