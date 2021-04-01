@@ -21,9 +21,9 @@
           href="FlowRelationship_id-2dccaaaf891445e7b282615e36463103.xml#id-2dccaaaf891445e7b282615e36463103"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="312"
         y="444"
-        width="169"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -47,9 +47,9 @@
           href="FlowRelationship_id-b31dd91c33ed42fa9a1e3d22d82ed863.xml#id-b31dd91c33ed42fa9a1e3d22d82ed863"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="576"
         y="444"
-        width="169"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -73,9 +73,9 @@
           href="FlowRelationship_id-b7fa35c1aa7041e492ddc957b5e686f8.xml#id-b7fa35c1aa7041e492ddc957b5e686f8"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="444"
         y="444"
-        width="169"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -100,9 +100,9 @@
           href="ServingRelationship_id-688a88f28f58470ebfc05700edbd16a0.xml#id-688a88f28f58470ebfc05700edbd16a0"/>
     </sourceConnections>
     <bounds
-        x="528"
-        y="204"
-        width="457"
+        x="312"
+        y="252"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -128,8 +128,8 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="324"
-        width="937"
+        y="348"
+        width="649"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -155,7 +155,7 @@
     <bounds
         x="48"
         y="444"
-        width="169"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -179,9 +179,9 @@
           href="FlowRelationship_id-8a72e5307fb24eac9faaa866f3c2b1e9.xml#id-8a72e5307fb24eac9faaa866f3c2b1e9"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="180"
         y="444"
-        width="169"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -197,7 +197,7 @@
     <bounds
         x="48"
         y="84"
-        width="937"
+        width="121"
         height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
