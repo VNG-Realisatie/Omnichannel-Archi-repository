@@ -1,0 +1,21 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definitie Integraal klantbeeld"
+    id="id-34c9f2ba8e7d43e58431760e080557b3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-838f492c95c04443b806ea90e724614f"
+      lineColor="#4f4f4f"
+      fillColor="#cab5ea"
+      textPosition="1">
+    <bounds
+        x="60"
+        y="108"
+        width="685"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-03c5e43984794aff8033247b6eaae92b.xml#id-03c5e43984794aff8033247b6eaae92b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
