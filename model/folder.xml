@@ -1,5 +1,28 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Omnichannel"
+    name="Projectmodel Omnichannel"
     id="id-c9af3c15abf340de8b8bf7cfe3f872e6"
-    version="4.6.0"/>
+    purpose="Dit model bevat het projectmodel van Omnichannel"
+    version="4.6.0">
+  <properties
+      key="Publiceren"
+      value="Softwarecatalogus en GEMMA Online en redactie"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Architectuurtool"
+      value="Archi"/>
+  <properties
+      key="Type model"
+      value="Projectmodel"/>
+  <properties
+      key="Kernmodel ID"
+      value="2b2b88ba-8efe-46d3-8b40-47af290bc418"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+  <properties
+      key="Object ID"
+      value="5b33b2ee-8aa6-4618-9d1e-4b4119fcf34b"/>
+</archimate:ArchimateModel>

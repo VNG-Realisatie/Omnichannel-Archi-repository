@@ -1,5 +1,0 @@
-<archimate:BusinessInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chat"
-    id="id-4acbaf7c0e9a41e0b636534a6334ed3d"
-    documentation="Kanaal waarover interactie plaatsvindt via chat (zowel live als via een bot), zoals WhatsApp of GEM. "/>
