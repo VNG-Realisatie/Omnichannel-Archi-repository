@@ -1,8 +1,8 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Projectmodel Omnichannel"
+    name="Projectmodel Refrentiearchitectuur Omnichannel"
     id="id-c9af3c15abf340de8b8bf7cfe3f872e6"
-    purpose="Dit model bevat het projectmodel van Omnichannel"
+    purpose="Dit model bevat de projectarchitectuur van de referentiearchitectuur Omnichannel."
     version="4.6.0">
   <properties
       key="Publiceren"
@@ -21,8 +21,8 @@
       value="2b2b88ba-8efe-46d3-8b40-47af290bc418"/>
   <properties
       key="Versie"
-      value="0.9"/>
+      value="0.5"/>
   <properties
       key="Object ID"
-      value="5b33b2ee-8aa6-4618-9d1e-4b4119fcf34b"/>
+      value="3c0f6ff7-0d6b-4f84-adcc-93cb3153cecd"/>
 </archimate:ArchimateModel>
