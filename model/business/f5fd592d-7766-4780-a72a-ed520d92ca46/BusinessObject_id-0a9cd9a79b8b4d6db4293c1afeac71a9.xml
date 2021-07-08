@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afspraak"
+    id="id-0a9cd9a79b8b4d6db4293c1afeac71a9"
+    documentation="Een gepland klantcontact tussen een klant en de gemeente.">
+  <properties
+      key="Object ID"
+      value="2fd293aa-3af0-43a0-a331-e845f7b51d40"/>
+</archimate:BusinessObject>

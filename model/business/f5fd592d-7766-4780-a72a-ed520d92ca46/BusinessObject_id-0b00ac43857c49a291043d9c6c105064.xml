@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="klantvoorkeur"
+    id="id-0b00ac43857c49a291043d9c6c105064"
+    documentation="De voorkeur die een klant heeft met betrekking tot de dienstverlening. Dit kan bijvoorbeeld gaan over het gewenste communicatiekanaal of een taalinstelling.">
+  <properties
+      key="Object ID"
+      value="dec19f23-1086-4378-b6bc-197cbaf45488"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verwerkingenlog"
+    id="id-5ed0dad680d546e8a9c914283bd01cbb"
+    documentation="De vastlegging van een verwerking in een logregistratie om de verwerking van objectgegevens te kunnen duiden.">
+  <properties
+      key="Object ID"
+      value="580cdcba-0064-4963-9d23-54b81a4ee2c3"/>
+</archimate:BusinessObject>

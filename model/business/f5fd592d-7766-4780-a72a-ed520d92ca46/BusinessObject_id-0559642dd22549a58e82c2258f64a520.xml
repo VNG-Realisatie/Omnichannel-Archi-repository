@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="machtiging"
+    id="id-0559642dd22549a58e82c2258f64a520"
+    documentation="De machtiging die een klant aan een ander natuurlijk persoon heeft verstrekt.">
+  <properties
+      key="Object ID"
+      value="99f194c3-a722-492f-8258-fe32f5137ad2"/>
+</archimate:BusinessObject>

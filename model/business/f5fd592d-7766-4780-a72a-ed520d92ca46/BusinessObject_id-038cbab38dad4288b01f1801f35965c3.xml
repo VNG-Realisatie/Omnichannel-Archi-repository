@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toestemming"
+    id="id-038cbab38dad4288b01f1801f35965c3"
+    documentation="De toestemming die een klant gegeven heeft aan een gemeente om klantgegevens in te zien of te verwerken.">
+  <properties
+      key="Object ID"
+      value="f2da0bd1-9f57-4975-89e1-b302fd3a258b"/>
+</archimate:BusinessObject>
