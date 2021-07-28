@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verwerkingenloggingcomponent"
+    name="Verwerkingenloggingregister"
     id="id-7861c49e-ba18-4ff2-84e3-facd593a0c30"
     documentation="Component voor het centraal vastleggen van gegevens over de activiteiten die gebruikers uitvoeren met vertrouwelijke gegevens.">
   <properties
