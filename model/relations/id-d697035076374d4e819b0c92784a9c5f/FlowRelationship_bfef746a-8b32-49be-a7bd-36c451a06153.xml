@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opvragen gerelateerde zaaknummers"
+    id="bfef746a-8b32-49be-a7bd-36c451a06153">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_34570c2e-da50-4f94-939d-e59e0b9d1c92.xml#34570c2e-da50-4f94-939d-e59e0b9d1c92"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a05a742d-7dc0-4de4-a592-d37b6eee22eb.xml#a05a742d-7dc0-4de4-a592-d37b6eee22eb"/>
+</archimate:FlowRelationship>

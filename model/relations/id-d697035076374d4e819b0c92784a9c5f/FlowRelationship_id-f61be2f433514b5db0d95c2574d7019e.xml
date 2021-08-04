@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek advies brandveiligheid"
+    id="id-f61be2f433514b5db0d95c2574d7019e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-438ad23d138740eb8dee9bdf9d7ee9a9.xml#id-438ad23d138740eb8dee9bdf9d7ee9a9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ef16e7ca8b7f4d308939eaf7ab527384.xml#id-ef16e7ca8b7f4d308939eaf7ab527384"/>
+</archimate:FlowRelationship>

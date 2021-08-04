@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advies geluid"
+    id="id-75c2ccbba5cd4227bfb8227e3e3e8fc1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0b1ee756c34e4a81b474a1cb711e4e9d.xml#id-0b1ee756c34e4a81b474a1cb711e4e9d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-438ad23d138740eb8dee9bdf9d7ee9a9.xml#id-438ad23d138740eb8dee9bdf9d7ee9a9"/>
+</archimate:FlowRelationship>

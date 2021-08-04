@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek omgevingsvergunning"
+    id="id-82af8fe4c10345f2b8b79bfa92ee5ca3">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f1051f8a-6f85-4c12-a490-43ba1410536b.xml#id-f1051f8a-6f85-4c12-a490-43ba1410536b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-438ad23d138740eb8dee9bdf9d7ee9a9.xml#id-438ad23d138740eb8dee9bdf9d7ee9a9"/>
+</archimate:FlowRelationship>
