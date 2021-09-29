@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indienen aanvraag"
+    id="id-355a33140b2a4203bb9a5c2906878dc2"
+    documentation="De klant dient een aanvraag in voor de levering van een product of dienst.">
+  <properties
+      key="Object ID"
+      value="828263f4-10e7-49e3-988d-3e36dc3fdc2e"/>
+</archimate:BusinessProcess>
