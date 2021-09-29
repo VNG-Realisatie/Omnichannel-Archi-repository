@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="productaanvraag"
+    id="id-8867e030977d4be98492a0c46c199ccc"
+    documentation="Een verzoek door een klant aan de gemeente tot levering van een product of dienst.">
+  <properties
+      key="Object ID"
+      value="34bf9669-d3ee-4b5d-a160-940d20360790"/>
+</archimate:BusinessObject>
