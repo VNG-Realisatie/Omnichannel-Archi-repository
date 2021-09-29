@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact gelegd tussen klant en gemeente"
+    id="id-b28ad4be604149198f05b98a8eab2c19"
+    documentation="Het contact tussen de klant en de gemeente is tot stand gekomen (bijvoorbeeld door het aannemen van de telefoon).">
+  <properties
+      key="Object ID"
+      value="fb37e561-c910-4c81-9105-b2daa76c5413"/>
+</archimate:BusinessEvent>

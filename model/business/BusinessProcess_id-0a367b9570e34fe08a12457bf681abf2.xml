@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact opnemen met gemeente"
+    id="id-0a367b9570e34fe08a12457bf681abf2"
+    documentation="De klant neemt contact op met de gemeente.">
+  <properties
+      key="Object ID"
+      value="6169011b-5076-4a6e-98fa-a0409e6c7614"/>
+</archimate:BusinessProcess>

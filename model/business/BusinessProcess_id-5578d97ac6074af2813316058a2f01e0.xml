@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandelen van contactmomenten"
+    id="id-5578d97ac6074af2813316058a2f01e0"
+    documentation="Inlichten en voorlichten over feiten, keuzes en gebeurtenissen behorende bij de gemeente en overige overheden.">
+  <properties
+      key="Toelichting"
+      value="Dit is een procescluster"/>
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsproces (cluster)"/>
+  <properties
+      key="Object ID"
+      value="df8107a4-03c4-46b3-88e2-2f5bc9402d48"/>
+</archimate:BusinessProcess>

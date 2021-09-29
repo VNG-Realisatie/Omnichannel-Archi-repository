@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behoefte ontstaan aan informatie of ondersteuning door gemeente"
+    id="id-b9cc9de64b9941beb7c2bb47b33bbe18"
+    documentation="Bij de klant is behoefte ontstaan aan informatie of ondersteuning door de gemeente.">
+  <properties
+      key="Object ID"
+      value="bb59e613-4884-4395-8b82-47195dc1de6a"/>
+</archimate:BusinessEvent>

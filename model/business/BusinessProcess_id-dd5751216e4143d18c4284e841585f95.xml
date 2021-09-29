@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besluiten"
+    id="id-dd5751216e4143d18c4284e841585f95"
+    documentation="Er wordt besloten of het aangevraagde product of de aangevraagde dienst wordt toegekend.">
+  <properties
+      key="Object ID"
+      value="83075013-9629-42d6-bf55-bbe9c8d3af9c"/>
+</archimate:BusinessProcess>
