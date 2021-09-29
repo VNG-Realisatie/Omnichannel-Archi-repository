@@ -1,9 +1,0 @@
-<archimate:BusinessEvent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behoefte aan informatie of ondersteuning vervuld"
-    id="id-f9e273fc25414bebae4ef9cccfcdd5b8"
-    documentation="De behoefte aan informatie of ondersteuning is door het contact met de gemeente vervuld.">
-  <properties
-      key="Object ID"
-      value="8921a28a-7c6d-44c3-bea7-924d1570774f"/>
-</archimate:BusinessEvent>

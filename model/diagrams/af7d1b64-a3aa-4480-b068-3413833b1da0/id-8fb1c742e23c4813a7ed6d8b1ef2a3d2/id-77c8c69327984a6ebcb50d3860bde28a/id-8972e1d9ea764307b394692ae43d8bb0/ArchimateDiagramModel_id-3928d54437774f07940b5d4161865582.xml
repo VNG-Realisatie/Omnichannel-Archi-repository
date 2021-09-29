@@ -502,6 +502,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5b72df8f96914ad4ba22e20e034e6f32"
         targetConnections="id-b17c60f9198040a19f3028fadf1a32a6 id-a918c645919a4388bb82b24b51e26362"
+        fillColor="#ffff97"
         textPosition="1">
       <bounds
           x="1160"
@@ -515,19 +516,5 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-bc317f4402e14f7e8ca5ba44f3bdc2e9.xml#id-bc317f4402e14f7e8ca5ba44f3bdc2e9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4a0326e86e7a4aff9f7e39bd89f67abf"
-      textPosition="1"
-      type="1">
-    <bounds
-        x="690"
-        y="90"
-        width="141"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-7ded0e33adb04cfd8d801ba53e839d32.xml#id-7ded0e33adb04cfd8d801ba53e839d32"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,9 +1,0 @@
-<archimate:BusinessEvent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanvraag geregistreerd"
-    id="id-ccbe4b4df6cf4cb488146c02cc8b7de6"
-    documentation="De aanvraag van de klant voor levering van product of dienst door de gemeenten is door de gemeente ontvangen en geregistreerd.">
-  <properties
-      key="Object ID"
-      value="69fba964-c018-4146-a9ac-058ca6815c36"/>
-</archimate:BusinessEvent>

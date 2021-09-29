@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leveren"
-    id="id-a3fea16a6f38412995b41f1723ae0169"
-    documentation="Het aangevraagde product of de aangevraagde dienst wordt aan de klant geleverd.">
-  <properties
-      key="Object ID"
-      value="5c618d93-e654-477f-aa79-8d78f7448e0b"/>
-</archimate:BusinessProcess>

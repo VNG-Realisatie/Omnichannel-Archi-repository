@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandelen"
-    id="id-95b6859ecf934f829daf8c8f7b74ae28"
-    documentation="De aanvraag wordt behandeld.">
-  <properties
-      key="Object ID"
-      value="9d039298-46c6-411e-afa2-a45178ab2ab2"/>
-</archimate:BusinessProcess>

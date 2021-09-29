@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intake"
-    id="id-6f1ca5a856cb44ac99539fc5755e8600"
-    documentation="Er wordt gecontroleerd of met de aangeleverde gegevens en documenten de behandeling van de aanvraag kan worden gestart.">
-  <properties
-      key="Object ID"
-      value="cf447bb2-1522-4975-a396-b9e6954b435f"/>
-</archimate:BusinessProcess>

@@ -1,9 +1,0 @@
-<archimate:BusinessEvent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behoefte ontstaan aan levering van product of dienst door de gemeente"
-    id="id-86546258e4ba4b39ba8409eb3d93729c"
-    documentation="Om de behoefte van de klant te vervullen is levering van een product of dienst door de gemeente nodig.">
-  <properties
-      key="Object ID"
-      value="85edf130-b9b1-4a12-a1e3-e95ae46b3c64"/>
-</archimate:BusinessEvent>
