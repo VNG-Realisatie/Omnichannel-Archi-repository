@@ -502,7 +502,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5b72df8f96914ad4ba22e20e034e6f32"
         targetConnections="id-b17c60f9198040a19f3028fadf1a32a6 id-a918c645919a4388bb82b24b51e26362"
-        fillColor="#ffff97"
         textPosition="1">
       <bounds
           x="1160"
