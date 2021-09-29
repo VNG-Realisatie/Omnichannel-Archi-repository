@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actoren interactie"
+    id="id-1daaa3e0b8fb4f138bca61c4690fd03e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-007c0e6b645f422394e5dc08e8dd81f5"
+      lineColor="#4f4f4f"
+      fillColor="#ffffdd"
+      textPosition="1">
+    <bounds
+        x="280"
+        y="156"
+        width="121"
+        height="433"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-83d25a7a6d5a49eeaee79df93b3fb1f5.xml#id-83d25a7a6d5a49eeaee79df93b3fb1f5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c34226dd4171468e99ba8377e465a7f9"
+      lineColor="#4f4f4f"
+      fillColor="#ffffdd"
+      textPosition="1">
+    <bounds
+        x="708"
+        y="156"
+        width="121"
+        height="433"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-03a1ee5258974519ac20e4192006490a.xml#id-03a1ee5258974519ac20e4192006490a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
