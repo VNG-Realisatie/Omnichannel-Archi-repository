@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ProductDienstStatus - Context CRM (copy)"
+    name="ProductDienstStatus - Context CRM"
     id="id-82c8259b9373476b98f315e28c985365">
   <children
       xsi:type="archimate:DiagramModelGroup"
