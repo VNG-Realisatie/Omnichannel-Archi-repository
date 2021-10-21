@@ -1117,6 +1117,7 @@
         targetConnections="id-7047f786e2e54b34b9a3b323d95297b5"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
+        textPosition="1"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
