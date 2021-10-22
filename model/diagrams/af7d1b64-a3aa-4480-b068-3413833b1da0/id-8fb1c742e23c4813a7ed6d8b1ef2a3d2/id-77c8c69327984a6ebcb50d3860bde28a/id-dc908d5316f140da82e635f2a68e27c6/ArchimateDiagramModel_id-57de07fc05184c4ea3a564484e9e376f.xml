@@ -223,16 +223,6 @@
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-49f5c17fcfe94233a80097817e2f7ade"
-          lineColor="#000000"
-          source="id-f62da2a0e1aa4c38aa809831e87252c1"
-          target="id-04b3ca0bcb0148b7b463a6333ef4dffa">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-d61064c0e0bc48748540a87c2c30fc7f.xml#id-d61064c0e0bc48748540a87c2c30fc7f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c30a037ebca841a2baded998fd35c56a"
           lineColor="#000000"
           source="id-f62da2a0e1aa4c38aa809831e87252c1"
@@ -250,6 +240,16 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-242b1c0a53b54c7fbc74164145d3212b.xml#id-242b1c0a53b54c7fbc74164145d3212b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-49f5c17fcfe94233a80097817e2f7ade"
+          lineColor="#000000"
+          source="id-f62da2a0e1aa4c38aa809831e87252c1"
+          target="id-04b3ca0bcb0148b7b463a6333ef4dffa">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-d61064c0e0bc48748540a87c2c30fc7f.xml#id-d61064c0e0bc48748540a87c2c30fc7f"/>
       </sourceConnections>
       <bounds
           x="648"
