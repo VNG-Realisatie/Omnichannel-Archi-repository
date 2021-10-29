@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Selecteren product(en)"
+    id="id-53e4c29b824d430fbdcd709d4f000c93"
+    documentation="Het selecteren van één of meerdere specifieke producten geselecteerd waarvoor een aanvraag wordt ingediend.">
+  <properties
+      key="Object ID"
+      value="9b4e4aaa-fe85-46bb-8eaf-4a267526d84d"/>
+</archimate:ApplicationProcess>

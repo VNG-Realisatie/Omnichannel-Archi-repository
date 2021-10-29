@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren verwerking persoonsgegevens"
+    id="id-553fe2809fba4bbd8db2482c6971a243"
+    documentation="Als tijdens het doorlopen van het applicatieproces persoonsgegevens zijn verwerkt, wordt die verwerking gelogd.">
+  <properties
+      key="Object ID"
+      value="2b13ecf9-bc5c-45bf-8b3f-ca110ecf1b6b"/>
+</archimate:ApplicationProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastleggen informatieobjecten"
+    id="id-5d6b2636fe1f46dca67b251b4c504822"
+    documentation="Informatieobjecten die nodig zijn voor het in behandeling nemen van het aangevraagde product worden vastgelegd in de Documenten API.">
+  <properties
+      key="Object ID"
+      value="811a4066-5fa0-411b-97eb-b9b58b7bef69"/>
+</archimate:ApplicationProcess>

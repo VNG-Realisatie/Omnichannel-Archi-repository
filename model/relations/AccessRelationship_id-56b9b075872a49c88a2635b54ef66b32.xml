@@ -2,10 +2,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-56b9b075872a49c88a2635b54ef66b32"
-    accessType="1">
+    accessType="2">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5c9f683b-4454-4e3e-b93c-da50dfd6934a.xml#id-5c9f683b-4454-4e3e-b93c-da50dfd6934a"/>
+      href="ApplicationComponent_id-a85e06075b8e4fd38b55a791e2ac2624.xml#id-a85e06075b8e4fd38b55a791e2ac2624"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-df3013b1-70bc-11e4-67ab-0050568a6153.xml#id-df3013b1-70bc-11e4-67ab-0050568a6153"/>
