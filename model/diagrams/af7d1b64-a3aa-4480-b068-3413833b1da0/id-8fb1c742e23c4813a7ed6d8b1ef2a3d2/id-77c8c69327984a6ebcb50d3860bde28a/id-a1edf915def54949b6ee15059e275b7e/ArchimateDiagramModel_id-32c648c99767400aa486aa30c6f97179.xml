@@ -13,7 +13,7 @@
     <bounds
         x="157"
         y="1420"
-        width="307"
+        width="304"
         height="248"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -118,7 +118,7 @@
     <bounds
         x="157"
         y="1264"
-        width="307"
+        width="304"
         height="144"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -177,7 +177,7 @@
     <bounds
         x="157"
         y="1180"
-        width="307"
+        width="304"
         height="72"/>
   </children>
   <children
@@ -189,17 +189,26 @@
       fillColor="#ffffff">
     <bounds
         x="157"
-        y="904"
-        width="307"
-        height="264"/>
+        y="1040"
+        width="304"
+        height="127"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-93e77136ea1f45eb9b53c6a4402bc6fb"
         targetConnections="id-449282b2dff54cc49fa95b02255ff888 id-24bd37454ffa4596b677032899d531bd"
         textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e654ed1595464ce3aaf4c1c1cd09c0ed"
+          source="id-93e77136ea1f45eb9b53c6a4402bc6fb"
+          target="id-094f63ae88bc475cb707909e5af29d9f">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-75dda47ae855461490d4c7a869dcb59d.xml#id-75dda47ae855461490d4c7a869dcb59d"/>
+      </sourceConnections>
       <bounds
           x="20"
-          y="70"
+          y="40"
           width="260"
           height="69"/>
       <archimateElement
@@ -215,18 +224,19 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="157"
-        y="656"
-        width="307"
-        height="236"/>
+        x="160"
+        y="890"
+        width="304"
+        height="136"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-094f63ae88bc475cb707909e5af29d9f"
+        targetConnections="id-e654ed1595464ce3aaf4c1c1cd09c0ed"
         textPosition="1"
         type="1">
       <bounds
           x="20"
-          y="140"
+          y="40"
           width="261"
           height="71"/>
       <archimateElement
