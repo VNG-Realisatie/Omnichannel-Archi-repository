@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Burger authentiseren en machtigingen ophalen"
     id="id-1fd6c706cb784524af1e2cd9f0dde21b"
-    documentation="De identiteit van de burger wordt vastgesteld middels een authenticatiemiddel met een betrouwbaarheid die aansluit bij de gevoeligheid van de als PDS-informatie te leveren gegevens. Daarnaast wordt gecontroleerd welke machtigingen de burger heeft om producten aan te vragen namens iemand anders (bijvoorbeeld omdat die burger optreedt als bewindvoerder voor een andere burger)."/>
+    documentation="De identiteit van de burger wordt vastgesteld middels een authenticatiemiddel met een betrouwbaarheid die aansluit bij de gevoeligheid van de als PDS-informatie te leveren gegevens. Daarnaast wordt gecontroleerd welke machtigingen de burger heeft om producten aan te vragen namens iemand anders (bijvoorbeeld omdat die burger optreedt als bewindvoerder voor een andere burger) of welke machtigingen diegene heeft om PDS-informatie namens iemand anders op te vragen."/>
