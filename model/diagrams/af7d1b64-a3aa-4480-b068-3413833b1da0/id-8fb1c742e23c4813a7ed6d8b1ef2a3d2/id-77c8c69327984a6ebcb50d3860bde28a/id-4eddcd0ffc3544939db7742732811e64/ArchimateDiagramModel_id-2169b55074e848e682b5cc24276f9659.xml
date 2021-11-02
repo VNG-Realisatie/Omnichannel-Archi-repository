@@ -878,9 +878,9 @@
         targetConnections="id-10c0015178ac4469ade6a7a88d6436fb id-784aa5cef6c245e68cb7f7d26b23bb23 id-1f772fdacf4c4ed290f4c7dfe49326ee id-7d4d6ea4b8764b708d3f06ec9a95b67a"
         textPosition="1">
       <bounds
-          x="445"
+          x="440"
           y="150"
-          width="527"
+          width="540"
           height="71"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
@@ -892,9 +892,9 @@
         targetConnections="id-d7178b60d1a04fad8ea21f815ba30750 id-f1d70416e4184360a3c89840120959e4 id-f2abd0e3099541e0ab4966d3c548ac29"
         textPosition="1">
       <bounds
-          x="1551"
+          x="1560"
           y="150"
-          width="270"
+          width="260"
           height="71"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
@@ -906,9 +906,9 @@
         targetConnections="id-0dbfa987cf4d4b53ab644b5f71f8cb56 id-c5596ebf686e46ef863c2906302677b6 id-562e9e085ac74c9fb956c5b4bd79717a id-84c7865c3ec1458e80b2b1b92ffaa4e7"
         textPosition="1">
       <bounds
-          x="991"
+          x="1000"
           y="150"
-          width="541"
+          width="540"
           height="71"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
