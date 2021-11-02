@@ -1304,9 +1304,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c6d5323314e34f2aaf5fd4e7319c3fbd"
         targetConnections="id-b6b06cd377d542f2a1b76a20b8371081 id-115999b1670a4412bf9f2e90d85cb490"
-        font="1|Arial|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
         lineColor="#000000"
-        fillColor="#eefaed"
+        fillColor="#caf4c4"
         textPosition="1"
         type="1">
       <sourceConnections
