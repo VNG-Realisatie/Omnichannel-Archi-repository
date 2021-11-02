@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klanttoestemmingen controleren"
-    id="id-ac0cec85aef24098b4ee8368f5b95235"/>
+    id="id-ac0cec85aef24098b4ee8368f5b95235"
+    documentation="Er wordt gecontroleerd of, en zo ja in welke mate de initiërende burger toestemming heeft gegeven voor inzage van (persoons)gegevens voor dit doel (dit voor zover deze gegevens niet op basis van een andere grondslag aan de medewerker mogen worden getoond)."/>

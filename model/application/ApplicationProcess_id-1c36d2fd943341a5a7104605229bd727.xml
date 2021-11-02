@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantgegevens tonen"
-    id="id-1c36d2fd943341a5a7104605229bd727"/>
+    id="id-1c36d2fd943341a5a7104605229bd727"
+    documentation="Klantgegevens en -voorkeuren van de burger die de aanvraag heeft ingediend worden op basis van een uniek identificerend gegeven (in dit geval het BSN) opgehaald. Daartoe wordt eerst het GBA-administratiecomponent bevraagd. Op basis van hetzelfde uniek identificerend gegeven worden aanvullende klantgegevens en klantvoorkeuren (zoals voorkeurskanalen) opgehaald uit het Klantenregister en aan de burger, medewerker of andere organisatie getoond."/>

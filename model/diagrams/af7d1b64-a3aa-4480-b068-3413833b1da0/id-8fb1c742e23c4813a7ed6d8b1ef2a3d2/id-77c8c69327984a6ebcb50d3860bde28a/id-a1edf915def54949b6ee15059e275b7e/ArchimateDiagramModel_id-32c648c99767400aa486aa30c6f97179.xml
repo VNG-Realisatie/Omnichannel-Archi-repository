@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA01 - MO - Burger authenticeren en machtigingen ophalen"
+    name="IA01 - MO - Burger authentiseren en machtigingen ophalen"
     id="id-32c648c99767400aa486aa30c6f97179">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -13,7 +13,7 @@
     <bounds
         x="157"
         y="1420"
-        width="304"
+        width="307"
         height="248"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -118,7 +118,7 @@
     <bounds
         x="157"
         y="1264"
-        width="304"
+        width="307"
         height="144"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -177,7 +177,7 @@
     <bounds
         x="157"
         y="1180"
-        width="304"
+        width="307"
         height="72"/>
   </children>
   <children
@@ -190,7 +190,7 @@
     <bounds
         x="157"
         y="1040"
-        width="304"
+        width="307"
         height="127"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -226,7 +226,7 @@
     <bounds
         x="160"
         y="890"
-        width="304"
+        width="307"
         height="136"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

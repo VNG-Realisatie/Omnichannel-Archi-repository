@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Medewerker authenticeren en autoriseren"
-    id="id-b7a27a022d5f4f3b9acde4e9305adca9"/>
+    name="Medewerker authentiseren en autoriseren"
+    id="id-b7a27a022d5f4f3b9acde4e9305adca9"
+    documentation="De identiteit van de medewerker wordt vastgesteld middels een authenticatiemiddel met een betrouwbaarheid die aansluit bij de gevoeligheid van de als PDS-informatie te leveren gegevens. Daarnaast worden de rollen waaraan de medewerker is toegewezen opgehaald. Aan de hand van autorisatieprofielen die gekoppeld zijn aan producten of diensten wordt vastgesteld of de medewerker - via de aan hem of haar toegewezen rollen - de juiste autorisaties bezit om toegang te krijgen tot de gevraagde PDS-informatie."/>

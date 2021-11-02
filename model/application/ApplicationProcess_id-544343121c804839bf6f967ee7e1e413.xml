@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="contactmomenten tonen"
-    id="id-544343121c804839bf6f967ee7e1e413"/>
+    name="Contactmomenten tonen"
+    id="id-544343121c804839bf6f967ee7e1e413"
+    documentation="Op basis van een relatie met productaanvragen via het gegevensobject verzoekcontactmomenten in het Productaanvragenregister én/of een relatie met zaken via het gegevensobject zaakcontactmomenten in het Zakenregister worden de contactmomenten die horen bij de productaanvraag en/óf naar aanleiding daarvan gestarte zaken uit het Contactmomentenregister opgehaald en getoond. "/>
