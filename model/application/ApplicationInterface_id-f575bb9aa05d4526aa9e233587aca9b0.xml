@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Productaanvragen API (copy)"
+    id="id-f575bb9aa05d4526aa9e233587aca9b0"
+    documentation="De Productaanvragen API standaardiseert het creëren, bijwerken, lezen en verwijderen van productaanvraaggegevens.">
+  <properties
+      key="Object ID"
+      value="bcf15ece-794a-4f5d-b4c1-0bbb7033c1fa"/>
+</archimate:ApplicationInterface>
