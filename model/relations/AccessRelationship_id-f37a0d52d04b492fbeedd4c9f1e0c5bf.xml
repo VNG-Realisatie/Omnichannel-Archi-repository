@@ -1,7 +1,8 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-f37a0d52d04b492fbeedd4c9f1e0c5bf">
+    id="id-f37a0d52d04b492fbeedd4c9f1e0c5bf"
+    accessType="2">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-851df9914d944c17b5bf194a2be624ef.xml#id-851df9914d944c17b5bf194a2be624ef"/>

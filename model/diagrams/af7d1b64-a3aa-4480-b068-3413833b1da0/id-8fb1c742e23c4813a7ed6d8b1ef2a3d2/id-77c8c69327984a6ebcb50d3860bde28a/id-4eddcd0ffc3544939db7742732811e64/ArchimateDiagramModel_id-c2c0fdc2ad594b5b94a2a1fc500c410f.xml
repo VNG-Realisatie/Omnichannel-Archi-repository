@@ -892,6 +892,15 @@
         id="id-4b992557488349eb8120fcb5b34b8139"
         targetConnections="id-b0bea4bb23714b6e9c9086af16e0d9b6"
         textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-53fbd8323dc94d8cbf22ad2d53b1b059"
+          source="id-4b992557488349eb8120fcb5b34b8139"
+          target="id-52e6535fc0de47d1ac848608c2a4865f">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-d2750b1d93e647a397b518107d515179.xml#id-d2750b1d93e647a397b518107d515179"/>
+      </sourceConnections>
       <bounds
           x="160"
           y="40"
@@ -906,6 +915,15 @@
         id="id-fa58b804346d49cc8ab1f9bde837fb07"
         targetConnections="id-577574a7536746ebaf5bed2d73bd2b3f"
         textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-4e751e898f874c0b98d6de9b16c55e82"
+          source="id-fa58b804346d49cc8ab1f9bde837fb07"
+          target="id-52e6535fc0de47d1ac848608c2a4865f">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-e1b5418580dd4cbfa684f9102b9bc001.xml#id-e1b5418580dd4cbfa684f9102b9bc001"/>
+      </sourceConnections>
       <bounds
           x="20"
           y="40"
@@ -1204,7 +1222,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-72571f38b6874948a71a170b29312999"
-        targetConnections="id-6944ffa0a00647098b0b4d39c2c12273 id-a4a96b3a1e9a441184548eb375f4117e id-0b02fefe65fa4f1ba9c804d2b62167f7"
+        targetConnections="id-6944ffa0a00647098b0b4d39c2c12273 id-0b02fefe65fa4f1ba9c804d2b62167f7 id-a4a96b3a1e9a441184548eb375f4117e"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1226,66 +1244,35 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-08f763f547434be19fa8909e26b64daf"
+        id="id-52e6535fc0de47d1ac848608c2a4865f"
+        targetConnections="id-4e751e898f874c0b98d6de9b16c55e82 id-53fbd8323dc94d8cbf22ad2d53b1b059"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7077407bb308459bac68d9d49afdf43e"
-          source="id-08f763f547434be19fa8909e26b64daf"
-          target="id-691c1b88e2734252be0bc02c60cd6623">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-c172941623494ff89495f5cddac10881.xml#id-c172941623494ff89495f5cddac10881"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-1ebe281e1074469fa6751940857f03b3"
-          source="id-08f763f547434be19fa8909e26b64daf"
-          target="id-c68ab53bf7274c78b09276dcf991d5a4">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-b8b7847f8413400a99d727e7db046322.xml#id-b8b7847f8413400a99d727e7db046322"/>
-      </sourceConnections>
-      <bounds
-          x="20"
-          y="150"
-          width="120"
-          height="70"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationProcess"
-          href="ApplicationProcess_id-2aa271632d9a4110a07f1c94a91d0661.xml#id-2aa271632d9a4110a07f1c94a91d0661"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-691c1b88e2734252be0bc02c60cd6623"
-        targetConnections="id-7077407bb308459bac68d9d49afdf43e"
-        textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a4a96b3a1e9a441184548eb375f4117e"
-          source="id-691c1b88e2734252be0bc02c60cd6623"
-          target="id-72571f38b6874948a71a170b29312999">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-ad7a6867b4494f06a9896d12bd4996d5.xml#id-ad7a6867b4494f06a9896d12bd4996d5"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-94446c5826f343f4a75ce1b7a01080c6"
-          source="id-691c1b88e2734252be0bc02c60cd6623"
+          source="id-52e6535fc0de47d1ac848608c2a4865f"
           target="id-c68ab53bf7274c78b09276dcf991d5a4">
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-7b274beea0f84cbdb5cc4ab5a82680f4.xml#id-7b274beea0f84cbdb5cc4ab5a82680f4"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a4a96b3a1e9a441184548eb375f4117e"
+          source="id-52e6535fc0de47d1ac848608c2a4865f"
+          target="id-72571f38b6874948a71a170b29312999">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-ad7a6867b4494f06a9896d12bd4996d5.xml#id-ad7a6867b4494f06a9896d12bd4996d5"/>
+      </sourceConnections>
       <bounds
-          x="160"
+          x="20"
           y="150"
-          width="121"
-          height="70"/>
+          width="260"
+          height="69"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
-          href="ApplicationProcess_id-013111ef144148e2bea1c564f4109560.xml#id-013111ef144148e2bea1c564f4109560"/>
+          href="ApplicationProcess_id-1fd6c706cb784524af1e2cd9f0dde21b.xml#id-1fd6c706cb784524af1e2cd9f0dde21b"/>
     </children>
   </children>
   <children
@@ -1365,7 +1352,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c68ab53bf7274c78b09276dcf991d5a4"
-        targetConnections="id-1ebe281e1074469fa6751940857f03b3 id-94446c5826f343f4a75ce1b7a01080c6"
+        targetConnections="id-94446c5826f343f4a75ce1b7a01080c6"
         textPosition="1"
         type="1">
       <sourceConnections
