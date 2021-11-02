@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ophalen productaanvraagschema"
-    id="id-cf2ed99206424864a57936e7a4315272"
-    documentation="Voor de geselecteerde producten worden productaanvraagschema's opgehaald. Deze beschrijven welke gegevens en informatieobjecten moeten worden vastgelegd om de aanvraag in behandeling te kunnen nemen.">
-  <properties
-      key="Object ID"
-      value="89d824db-84bc-4e51-b391-bedb7128c575"/>
-</archimate:ApplicationProcess>

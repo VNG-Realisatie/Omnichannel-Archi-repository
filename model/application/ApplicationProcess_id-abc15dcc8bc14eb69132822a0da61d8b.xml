@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ophalen kanaalspecifieke dialogen"
-    id="id-abc15dcc8bc14eb69132822a0da61d8b"
-    documentation="Voor de geselecteerde producten worden kanaalspecifieke dialogen opgehaald. Deze dienen om binnen een specifiek kanaal (bijvoorbeeld een webformulier of chatbot) de gegevens en informatieobjecten uit te vragen die  nodig zijn om de aanvraag in behandeling te kunnen nemen.">
-  <properties
-      key="Object ID"
-      value="e414fc3b-e361-4773-ad79-980eef9cf36c"/>
-</archimate:ApplicationProcess>

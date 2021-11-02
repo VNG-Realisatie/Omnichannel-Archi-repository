@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vaststellen authenticatie en machtigingen klant"
-    id="id-624f3c76242345999ede6cc98cfad1d2"
-    documentation="Authenticatie van de klant met een middel waarmee identiteit en machtigingen van de klant volgens een voldoende zekerheidsniveau kunnen worden vastgesteld.">
-  <properties
-      key="Object ID"
-      value="f5e5c225-62e9-4067-84d2-42e10881da04"/>
-</archimate:ApplicationProcess>

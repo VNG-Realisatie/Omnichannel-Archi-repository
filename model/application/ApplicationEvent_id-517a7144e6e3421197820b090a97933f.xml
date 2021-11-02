@@ -1,9 +1,0 @@
-<archimate:ApplicationEvent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanvraag van product of dienst afgerond"
-    id="id-517a7144e6e3421197820b090a97933f"
-    documentation="De klant heeft alle benodigde gegevens ingevuld. De aanvraag kan worden ingediend.">
-  <properties
-      key="Object ID"
-      value="14ed8bad-c99a-4aea-b408-bc136a0897c2"/>
-</archimate:ApplicationEvent>

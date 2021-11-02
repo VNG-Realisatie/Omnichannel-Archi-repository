@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ophalen en voorinvullen bekende en eerder ingediende klantgegevens"
-    id="id-7f68c780bb524e80926f28e1a5fd9439"
-    documentation="Reeds bekende gegevens over de klant worden indien nodig of gewenst opgehaald en vooringevuld. Naast gegevens uit de Klanten API kunnen ook andere gegevens die horen bij klant, bijvoorbeeld die uit basisregistraties, worden vooringevuld.">
-  <properties
-      key="Object ID"
-      value="c32c6978-2ca0-40a1-820f-be3b1e50d5fd"/>
-</archimate:ApplicationProcess>

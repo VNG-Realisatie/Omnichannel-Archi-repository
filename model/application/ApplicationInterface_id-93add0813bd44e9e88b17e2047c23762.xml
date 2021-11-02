@@ -1,9 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zaken API (copy)"
-    id="id-93add0813bd44e9e88b17e2047c23762"
-    documentation="De Zaken API standaardiseert het creëren, bijwerken, lezen en verwijderen van zaakgegevens.">
-  <properties
-      key="Object ID"
-      value="cfb9872c-1a5d-468d-ab97-a90bbbaf4d0e"/>
-</archimate:ApplicationInterface>

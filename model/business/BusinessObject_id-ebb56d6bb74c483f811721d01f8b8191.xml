@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="klantvoorkeur (copy)"
-    id="id-ebb56d6bb74c483f811721d01f8b8191"
-    documentation="De voorkeur die een klant heeft met betrekking tot de dienstverlening. Dit kan bijvoorbeeld gaan over het gewenste communicatiekanaal of een taalinstelling.">
-  <properties
-      key="Object ID"
-      value="dec19f23-1086-4378-b6bc-197cbaf45488"/>
-</archimate:BusinessObject>

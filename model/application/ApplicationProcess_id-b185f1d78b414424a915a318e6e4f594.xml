@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ophalen en voorinvullen bekende en eerder ingediende productaanvraaggegevens"
-    id="id-b185f1d78b414424a915a318e6e4f594"
-    documentation="Door de klant eerder opgeslagen, maar nog niet ingediende aanvraaggegevens worden opgehaald en vooringevuld zodat de klant het aanvraagproces kan voortzetten waar hij of zij gebleven was.">
-  <properties
-      key="Object ID"
-      value="fc71fd4d-981a-4a28-864f-73dbbffc9ed7"/>
-</archimate:ApplicationProcess>

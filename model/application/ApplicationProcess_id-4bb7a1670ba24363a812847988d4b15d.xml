@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vastleggen klantgegevens nieuwe klant"
-    id="id-4bb7a1670ba24363a812847988d4b15d"
-    documentation="In sommige gevallen is het niet mogelijk, nodig, of zelfs ongewenst om een klant te identificeren en diens gevalideerde gegevens op te halen of die te koppelen aan de gegevens die het contact beschrijven. In dit geval stellen we niet, of alleen op informele wijze (bijvoorbeeld op basis van een profielnaam op een sociaal medium), de identiteit van de klant vast. In de Klanten API worden gegevens vastgelegd die nodig zijn om de klant bijvoorbeeld terug te kunnen bellen of de klant op de hoogte te houden van de behandeling van een aanvraag. Klantgegevens die niet zijn gekoppeld aan gegevens in een basisregistratie zijn  vanwege de beperktere (terug)vindbaarheid en ontbrekende controle op juistheid minder geschikt voor hergebruik.">
-  <properties
-      key="Object ID"
-      value="330a1d77-ef7a-4ad1-b63d-37c557d23551"/>
-</archimate:ApplicationProcess>

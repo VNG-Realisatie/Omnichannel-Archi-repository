@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Relateren productaanvraag aan klant en informatieobject(en)"
-    id="id-e6a79440a153406291f77e536ae0b641"
-    documentation="De gegevens die nodig zijn voor het in behandeling nemen van het aangevraagde product in de Productaanvragen API worden indien nodig of gewenst gekoppeld aan klantgegevens in de Klanten API, en aan eventueel ingediende informatieobject(en) in de Documenten API.">
-  <properties
-      key="Object ID"
-      value="cbfde17f-f382-4642-bf19-d370db14cd38"/>
-</archimate:ApplicationProcess>

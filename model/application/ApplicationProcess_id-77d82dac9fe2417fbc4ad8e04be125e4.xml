@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vastleggen productaanvraaggegevens"
-    id="id-77d82dac9fe2417fbc4ad8e04be125e4"
-    documentation="De gegevens die nodig zijn voor het in behandeling nemen van het aangevraagde product worden volgens het bij dat product horende schema uit de Productaanvraag-schema API vastgelegd in de Productaanvragen API.">
-  <properties
-      key="Object ID"
-      value="0f77de05-9ec0-4146-b6c8-6e4a45300023"/>
-</archimate:ApplicationProcess>
