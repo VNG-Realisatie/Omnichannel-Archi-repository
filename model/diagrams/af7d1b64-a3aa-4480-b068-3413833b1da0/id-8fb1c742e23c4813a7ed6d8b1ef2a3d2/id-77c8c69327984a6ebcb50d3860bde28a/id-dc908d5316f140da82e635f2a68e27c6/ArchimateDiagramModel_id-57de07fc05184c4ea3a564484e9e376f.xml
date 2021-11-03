@@ -1338,7 +1338,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-33637936e4f54481b28b24c22aed200b"
-        targetConnections="id-2bff236949bd4ae1bc08878a8d5cebae id-a1c48a2b62f2472d9672ab58e04135d2 id-f9572d36b04a4640bfe0b61e061670f8 id-7b153657ddde44069c46d05ae4f57e34"
+        targetConnections="id-2bff236949bd4ae1bc08878a8d5cebae id-a1c48a2b62f2472d9672ab58e04135d2 id-7b153657ddde44069c46d05ae4f57e34 id-f9572d36b04a4640bfe0b61e061670f8"
         lineColor="#4f4f4f"
         fillColor="#b7dee8"
         textPosition="1">
@@ -1364,7 +1364,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-baf3ba0eea4841a6926a925b9766a4fe"
-        targetConnections="id-f3eb41dc93894d7883734076adbc6a38 id-6c214233d2874f278407aac5bbeb2936 id-b1c9f04b56f74bf5b431700db65c0fb9 id-c9db6d4a7f654d44aeadf9008ab21479"
+        targetConnections="id-6c214233d2874f278407aac5bbeb2936 id-b1c9f04b56f74bf5b431700db65c0fb9 id-c9db6d4a7f654d44aeadf9008ab21479 id-f3eb41dc93894d7883734076adbc6a38"
         lineColor="#4f4f4f"
         fillColor="#b7dee8"
         textPosition="1">

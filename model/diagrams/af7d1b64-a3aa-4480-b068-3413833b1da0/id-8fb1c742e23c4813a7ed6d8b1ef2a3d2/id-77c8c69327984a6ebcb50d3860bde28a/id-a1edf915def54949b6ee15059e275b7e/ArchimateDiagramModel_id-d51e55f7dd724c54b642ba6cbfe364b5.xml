@@ -1006,7 +1006,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-572bf52496ef4732b507fdf6a46e7d54"
-        targetConnections="id-10017fc1713a45d392d31ffac3f55b7c id-54e68e24c0aa4ec88a6b824cd05027d4 id-3a152a77f8c74458835087f041c1c808 id-97c4511da5cb4842981c82834597eeba id-4dda1fb36cdb42d490a6b46dfc00a23a id-e4f9ad3d39564819ae2af69f30a95252"
+        targetConnections="id-10017fc1713a45d392d31ffac3f55b7c id-3a152a77f8c74458835087f041c1c808 id-97c4511da5cb4842981c82834597eeba id-4dda1fb36cdb42d490a6b46dfc00a23a id-e4f9ad3d39564819ae2af69f30a95252 id-54e68e24c0aa4ec88a6b824cd05027d4"
         lineColor="#4f4f4f"
         fillColor="#b7dee8"
         textPosition="1">
@@ -1032,7 +1032,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-06b8d902d804447989bf927140f56f47"
-        targetConnections="id-1b6bacf7a7b645e6adec96377e590b4a id-d92743c560414efca0098bc4dc70985a id-84bbd6500aff4c0ba3c3a47e286389a2 id-bbe1a82e22da4d64ae217551d6784c59 id-f8e5478716f64e679e18770da35f962a id-b3afe6aae3484190b1f9de234a425198"
+        targetConnections="id-1b6bacf7a7b645e6adec96377e590b4a id-84bbd6500aff4c0ba3c3a47e286389a2 id-bbe1a82e22da4d64ae217551d6784c59 id-b3afe6aae3484190b1f9de234a425198 id-d92743c560414efca0098bc4dc70985a id-f8e5478716f64e679e18770da35f962a"
         lineColor="#4f4f4f"
         fillColor="#b7dee8"
         textPosition="1">
