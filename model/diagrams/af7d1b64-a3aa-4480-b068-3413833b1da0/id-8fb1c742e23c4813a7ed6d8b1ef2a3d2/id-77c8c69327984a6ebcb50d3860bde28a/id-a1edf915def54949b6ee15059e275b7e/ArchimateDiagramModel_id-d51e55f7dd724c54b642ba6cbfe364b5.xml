@@ -121,7 +121,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-9e703cf84a9c40b7a53cf71318494c44"
-      name="Laag 1 - Gegevens organisatie A"
+      name="Laag 1 - Gegevens overheidsorganisatie A"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -691,7 +691,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-2ce369d2a7ea4550ba85131e998bc11f"
-      name="Laag 2 - Diensten organisatie A"
+      name="Laag 2 - Diensten overheidsorganisatie A"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -933,7 +933,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-57da3ac39d6c4b2a96ebcd8bcaa7382a"
-      name="Laag 3 - Integratie organisatie A"
+      name="Laag 3 - Integratie overheidsorganisatie A"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -946,7 +946,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-d4738a6a97914d8ba1fdd28e785f1057"
-      name="Laag 4 - Proceslogica organisatie A"
+      name="Laag 4 - Proceslogica overheidsorganisatie A"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -1136,7 +1136,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-afa8e015b0964a2ebad4dae08ef9b820"
-      name="Laag 5 - Interactie organisatie A"
+      name="Laag 5 - Interactie overheidsorganisatie A"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -1230,7 +1230,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-34dbbf569fb6421883fd35bd3a1413c7"
-      name="Laag 1 - Gegevens organisatie B"
+      name="Laag 1 - Gegevens overheidsorganisatie B"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -1526,7 +1526,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-39ddee7bf2ac4190b70969efdb4eb0ed"
-      name="Laag 2 - Diensten organisatie B"
+      name="Laag 2 - Diensten overheidsorganisatie B"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -1679,7 +1679,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-28a74cd1932e49869cc7ecaec7e6b9d6"
-      name="Laag 3 - Integratie organisatie B"
+      name="Laag 3 - Integratie overheidsorganisatie B"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
