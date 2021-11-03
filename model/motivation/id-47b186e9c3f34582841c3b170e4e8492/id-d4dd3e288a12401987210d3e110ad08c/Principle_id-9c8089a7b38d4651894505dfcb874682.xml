@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open. We geven inzicht wat er met de data gebeurt en hoe processen werken"
-    id="id-9c8089a7b38d4651894505dfcb874682"/>
+    id="id-9c8089a7b38d4651894505dfcb874682">
+  <properties
+      key="Object ID"
+      value="85c142c4-e724-4de3-923b-943b71314265"/>
+</archimate:Principle>

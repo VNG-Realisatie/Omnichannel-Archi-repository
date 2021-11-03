@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Machtigingenregister"
-    id="id-81a3ab577697489b909154a73013d41a"/>
+    id="id-81a3ab577697489b909154a73013d41a">
+  <properties
+      key="Object ID"
+      value="f1c1a42a-35c3-49af-9ee4-04c2e4aad148"/>
+</archimate:ApplicationComponent>

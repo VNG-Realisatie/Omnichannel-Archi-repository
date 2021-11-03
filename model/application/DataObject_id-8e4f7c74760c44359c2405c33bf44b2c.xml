@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="roltypen"
-    id="id-8e4f7c74760c44359c2405c33bf44b2c"/>
+    id="id-8e4f7c74760c44359c2405c33bf44b2c">
+  <properties
+      key="Object ID"
+      value="bb50dad4-7d63-40b6-9167-97c678f59bb2"/>
+</archimate:DataObject>

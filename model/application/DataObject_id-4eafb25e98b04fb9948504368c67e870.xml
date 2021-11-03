@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="toestemmingen"
-    id="id-4eafb25e98b04fb9948504368c67e870"/>
+    id="id-4eafb25e98b04fb9948504368c67e870">
+  <properties
+      key="Object ID"
+      value="c707af6f-361f-4514-827f-677a2b7ded70"/>
+</archimate:DataObject>

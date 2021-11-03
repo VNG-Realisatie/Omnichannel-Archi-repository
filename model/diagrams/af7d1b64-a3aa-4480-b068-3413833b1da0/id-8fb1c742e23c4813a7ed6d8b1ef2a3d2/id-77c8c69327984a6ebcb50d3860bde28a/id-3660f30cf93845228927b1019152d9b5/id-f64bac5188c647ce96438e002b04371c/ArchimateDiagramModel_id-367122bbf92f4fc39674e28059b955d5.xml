@@ -201,4 +201,7 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-a962d6111ad64aba913bf19bf89c2f5e.xml#id-a962d6111ad64aba913bf19bf89c2f5e"/>
   </children>
+  <properties
+      key="Object ID"
+      value="d9ad0dff-d344-4549-98d4-0029a422ddad"/>
 </archimate:ArchimateDiagramModel>

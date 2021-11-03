@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontvangstbevestiging van het verzoek"
     id="01d7fb9b-4ba8-4f27-8803-981f019d468b">
+  <properties
+      key="Object ID"
+      value="957bbfca-7e54-4256-8589-57c0dff84867"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_34570c2e-da50-4f94-939d-e59e0b9d1c92.xml#34570c2e-da50-4f94-939d-e59e0b9d1c92"/>

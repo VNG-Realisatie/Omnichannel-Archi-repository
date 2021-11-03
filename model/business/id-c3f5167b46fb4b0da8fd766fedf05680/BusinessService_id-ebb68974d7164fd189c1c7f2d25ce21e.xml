@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ProductDienstStatus"
-    id="id-ebb68974d7164fd189c1c7f2d25ce21e"/>
+    id="id-ebb68974d7164fd189c1c7f2d25ce21e">
+  <properties
+      key="Object ID"
+      value="f8a51270-0297-49dd-9b82-a280de9c2805"/>
+</archimate:BusinessService>

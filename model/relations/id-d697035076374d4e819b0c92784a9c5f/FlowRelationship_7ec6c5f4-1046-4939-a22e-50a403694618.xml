@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Abonneren op gekoppelde zaaknummer"
     id="7ec6c5f4-1046-4939-a22e-50a403694618">
+  <properties
+      key="Object ID"
+      value="b1d4f52a-a365-4e37-b1cc-1a17aaef865a"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_a05a742d-7dc0-4de4-a592-d37b6eee22eb.xml#a05a742d-7dc0-4de4-a592-d37b6eee22eb"/>

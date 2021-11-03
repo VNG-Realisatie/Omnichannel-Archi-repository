@@ -63,4 +63,7 @@
         xsi:type="archimate:Capability"
         href="Capability_id-bb74a21ebbce4fdbadc66a333e319edb.xml#id-bb74a21ebbce4fdbadc66a333e319edb"/>
   </children>
+  <properties
+      key="Object ID"
+      value="c007a040-f502-447d-bbd2-8f247d07f273"/>
 </archimate:ArchimateDiagramModel>

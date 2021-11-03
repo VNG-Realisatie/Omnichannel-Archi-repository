@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Machtigingen API"
-    id="id-0a091acde1994914a7926c13e0636c37"/>
+    id="id-0a091acde1994914a7926c13e0636c37">
+  <properties
+      key="Object ID"
+      value="c0e4b6e7-4930-4aed-bc7f-2a17ac395bdf"/>
+</archimate:ApplicationInterface>

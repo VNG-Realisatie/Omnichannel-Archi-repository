@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interactiecomponent voor het tonen van statusinformatie (abstract component)"
     id="id-5daf0b4a2c3d401a99e22c95a511f435"
-    documentation="De interactiecomponent voor het tonen van statusinformatie wordt gebruikt om via een specifiek kanaal statusinformatie bij lopende aanvragen van producten of diensten aan een burger, (vertegenwoordiger van een) bedrijf of medeweker te tonen. De interactiecomponent voor het tonen van statusinformatie is een abstract component. Dat betekent dat verschillende concrete componenten (zoals een Mijngemeentecomponent) de functies die horen bij het Kanaalspecifiek aanvraagcomponent kunnen vervullen."/>
+    documentation="De interactiecomponent voor het tonen van statusinformatie wordt gebruikt om via een specifiek kanaal statusinformatie bij lopende aanvragen van producten of diensten aan een burger, (vertegenwoordiger van een) bedrijf of medeweker te tonen. De interactiecomponent voor het tonen van statusinformatie is een abstract component. Dat betekent dat verschillende concrete componenten (zoals een Mijngemeentecomponent) de functies die horen bij het Kanaalspecifiek aanvraagcomponent kunnen vervullen.">
+  <properties
+      key="Object ID"
+      value="291ec460-b99a-4287-9adf-ef93a2424f4a"/>
+</archimate:ApplicationComponent>

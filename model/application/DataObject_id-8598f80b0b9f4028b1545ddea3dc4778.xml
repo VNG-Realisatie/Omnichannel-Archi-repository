@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="zaakverzoeken"
-    id="id-8598f80b0b9f4028b1545ddea3dc4778"/>
+    id="id-8598f80b0b9f4028b1545ddea3dc4778">
+  <properties
+      key="Object ID"
+      value="b677b44a-085e-410d-9267-9dc8a3814733"/>
+</archimate:DataObject>

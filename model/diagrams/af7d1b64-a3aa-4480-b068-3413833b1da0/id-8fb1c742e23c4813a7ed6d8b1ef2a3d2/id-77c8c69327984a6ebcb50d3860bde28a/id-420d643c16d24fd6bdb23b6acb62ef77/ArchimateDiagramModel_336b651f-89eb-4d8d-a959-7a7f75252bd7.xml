@@ -166,4 +166,7 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_34570c2e-da50-4f94-939d-e59e0b9d1c92.xml#34570c2e-da50-4f94-939d-e59e0b9d1c92"/>
   </children>
+  <properties
+      key="Object ID"
+      value="a95c4f57-435f-4681-b998-cbc17b641ed6"/>
 </archimate:ArchimateDiagramModel>

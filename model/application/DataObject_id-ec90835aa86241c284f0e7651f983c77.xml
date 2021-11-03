@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="rol-productautorisaties"
-    id="id-ec90835aa86241c284f0e7651f983c77"/>
+    id="id-ec90835aa86241c284f0e7651f983c77">
+  <properties
+      key="Object ID"
+      value="1e764a75-40c0-4182-b3b6-58ef6c3f8513"/>
+</archimate:DataObject>

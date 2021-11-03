@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aannemer"
-    id="a05a742d-7dc0-4de4-a592-d37b6eee22eb"/>
+    id="a05a742d-7dc0-4de4-a592-d37b6eee22eb">
+  <properties
+      key="Object ID"
+      value="9c529fd3-b1c5-498c-92c3-b617356ec973"/>
+</archimate:BusinessRole>

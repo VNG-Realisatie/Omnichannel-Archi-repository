@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kanaalselectie"
-    id="id-b21b252efc6a4bb28dd6200c258c1a31"/>
+    id="id-b21b252efc6a4bb28dd6200c258c1a31">
+  <properties
+      key="Object ID"
+      value="4c1ae304-18dd-435a-8b1f-128fe17fd7ca"/>
+</archimate:ApplicationFunction>

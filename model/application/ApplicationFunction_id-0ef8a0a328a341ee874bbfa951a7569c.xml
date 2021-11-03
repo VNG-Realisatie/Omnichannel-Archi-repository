@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bieden proactieve dienstverlening"
-    id="id-0ef8a0a328a341ee874bbfa951a7569c"/>
+    id="id-0ef8a0a328a341ee874bbfa951a7569c">
+  <properties
+      key="Object ID"
+      value="8c9dec1e-5b2c-4aba-ab06-4733a283e65d"/>
+</archimate:ApplicationFunction>

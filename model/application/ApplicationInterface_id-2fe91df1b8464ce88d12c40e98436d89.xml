@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BRK Bevragen API"
-    id="id-2fe91df1b8464ce88d12c40e98436d89"/>
+    id="id-2fe91df1b8464ce88d12c40e98436d89">
+  <properties
+      key="Object ID"
+      value="e472be20-7ad0-4f61-b85b-71dcb6c9ef71"/>
+</archimate:ApplicationInterface>

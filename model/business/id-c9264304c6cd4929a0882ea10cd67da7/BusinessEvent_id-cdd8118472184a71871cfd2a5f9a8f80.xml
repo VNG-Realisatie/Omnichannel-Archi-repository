@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Statusmelding(en) ontvangen"
-    id="id-cdd8118472184a71871cfd2a5f9a8f80"/>
+    id="id-cdd8118472184a71871cfd2a5f9a8f80">
+  <properties
+      key="Object ID"
+      value="1b8a0e72-b012-4ad2-b034-c75876570c71"/>
+</archimate:BusinessEvent>

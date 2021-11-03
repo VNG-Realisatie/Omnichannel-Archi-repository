@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantgegevens en -voorkeuren vastleggen"
-    id="id-68b9dc05365c4c8b960b8938f37029ad"/>
+    id="id-68b9dc05365c4c8b960b8938f37029ad">
+  <properties
+      key="Object ID"
+      value="eb21ccab-ea67-4d85-9942-c997bc701988"/>
+</archimate:ApplicationProcess>

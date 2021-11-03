@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aangifte gestolen paspoort"
     id="id-602f6384e228423397fd0921f8fb593f">
+  <properties
+      key="Object ID"
+      value="3546664e-3894-41e3-a9a5-f29a2a05ad19"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-83d25a7a6d5a49eeaee79df93b3fb1f5.xml#id-83d25a7a6d5a49eeaee79df93b3fb1f5"/>

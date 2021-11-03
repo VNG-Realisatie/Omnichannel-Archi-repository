@@ -1168,4 +1168,7 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-a6af6d8cf9d24181856582d327c726c2.xml#id-a6af6d8cf9d24181856582d327c726c2"/>
   </children>
+  <properties
+      key="Object ID"
+      value="f7761101-d917-4896-9c10-ee54ca63c6bb"/>
 </archimate:ArchimateDiagramModel>

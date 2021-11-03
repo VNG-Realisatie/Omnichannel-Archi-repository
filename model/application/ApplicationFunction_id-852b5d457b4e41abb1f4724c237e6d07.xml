@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantherkenning"
-    id="id-852b5d457b4e41abb1f4724c237e6d07"/>
+    id="id-852b5d457b4e41abb1f4724c237e6d07">
+  <properties
+      key="Object ID"
+      value="099258ab-c5da-492d-859b-da36d860cdc6"/>
+</archimate:ApplicationFunction>

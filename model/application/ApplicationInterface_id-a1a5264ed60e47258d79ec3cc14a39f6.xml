@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bevraging Ingeschreven Persoon API"
-    id="id-a1a5264ed60e47258d79ec3cc14a39f6"/>
+    id="id-a1a5264ed60e47258d79ec3cc14a39f6">
+  <properties
+      key="Object ID"
+      value="a95deffb-91f5-40da-af5b-4eac44be81ad"/>
+</archimate:ApplicationInterface>

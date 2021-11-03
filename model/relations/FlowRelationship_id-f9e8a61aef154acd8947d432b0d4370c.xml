@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Status"
     id="id-f9e8a61aef154acd8947d432b0d4370c">
+  <properties
+      key="Object ID"
+      value="5f95750d-7d49-47d0-9cca-407d59889074"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-438ad23d138740eb8dee9bdf9d7ee9a9.xml#id-438ad23d138740eb8dee9bdf9d7ee9a9"/>

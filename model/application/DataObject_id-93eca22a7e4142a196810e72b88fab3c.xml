@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ingeschreven personen"
-    id="id-93eca22a7e4142a196810e72b88fab3c"/>
+    id="id-93eca22a7e4142a196810e72b88fab3c">
+  <properties
+      key="Object ID"
+      value="0ed64c68-e195-498d-a4b4-7d356fed01df"/>
+</archimate:DataObject>

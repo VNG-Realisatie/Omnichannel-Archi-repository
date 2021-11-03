@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="WOZ Bevragen"
-    id="id-ef5cbcc17ed540ee81d414693f180c15"/>
+    id="id-ef5cbcc17ed540ee81d414693f180c15">
+  <properties
+      key="Object ID"
+      value="6a32de03-da68-4dd0-9395-0ce6e1603b39"/>
+</archimate:ApplicationInterface>

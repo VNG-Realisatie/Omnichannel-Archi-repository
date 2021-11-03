@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Landelijke integratiecomponent"
-    id="id-078c5f865c404b89a504eba9d77bdb0d"/>
+    id="id-078c5f865c404b89a504eba9d77bdb0d">
+  <properties
+      key="Object ID"
+      value="a0f92970-5ee1-4559-b219-87132a6b8035"/>
+</archimate:ApplicationComponent>

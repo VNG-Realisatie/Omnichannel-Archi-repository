@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generiek Zaakafhandelcomponent"
-    id="id-0b1f1f7b3ec64dbfbda380a54bedc239"/>
+    id="id-0b1f1f7b3ec64dbfbda380a54bedc239">
+  <properties
+      key="Object ID"
+      value="465e0250-c97a-4d07-9f68-a12b9cb13143"/>
+</archimate:ApplicationComponent>

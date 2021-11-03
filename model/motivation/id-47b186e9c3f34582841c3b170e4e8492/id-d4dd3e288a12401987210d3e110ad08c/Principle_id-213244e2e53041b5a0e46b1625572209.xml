@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemers hebben inzage in voor hen relevante informatie"
-    id="id-213244e2e53041b5a0e46b1625572209"/>
+    id="id-213244e2e53041b5a0e46b1625572209">
+  <properties
+      key="Object ID"
+      value="79be485d-a1f8-408c-906a-4e17376d36c1"/>
+</archimate:Principle>

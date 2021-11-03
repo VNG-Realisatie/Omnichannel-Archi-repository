@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Faciliteren terugbelverzoek"
-    id="id-d200489d6cbe44a7b02a44bd853ca012"/>
+    id="id-d200489d6cbe44a7b02a44bd853ca012">
+  <properties
+      key="Object ID"
+      value="b11f2ec8-d6cb-4dc4-85be-03f8124d1fd0"/>
+</archimate:ApplicationFunction>

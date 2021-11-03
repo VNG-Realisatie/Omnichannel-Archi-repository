@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toestemmingen API"
-    id="id-02594b8c95da4ef8a7e2506542ed10ac"/>
+    id="id-02594b8c95da4ef8a7e2506542ed10ac">
+  <properties
+      key="Object ID"
+      value="d622e16c-2306-430e-8c3c-f4950f0210cf"/>
+</archimate:ApplicationInterface>

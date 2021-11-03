@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Specifieke productaanvraaggegevens vastleggen"
-    id="id-6671e7be43b345cbb16f8b9dc453307a"/>
+    id="id-6671e7be43b345cbb16f8b9dc453307a">
+  <properties
+      key="Object ID"
+      value="a732277e-aae2-4668-9ce9-d17cd8e00d0c"/>
+</archimate:ApplicationProcess>

@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relateren medewerker als behandelaar"
-    id="id-4fbf00ce3b044c4ea58dff90eb4583cb"/>
+    id="id-4fbf00ce3b044c4ea58dff90eb4583cb">
+  <properties
+      key="Object ID"
+      value="ad3076fe-6251-4888-8145-9690cdb666da"/>
+</archimate:ApplicationProcess>

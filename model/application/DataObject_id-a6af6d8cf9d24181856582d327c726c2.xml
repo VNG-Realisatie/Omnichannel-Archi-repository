@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="producten"
-    id="id-a6af6d8cf9d24181856582d327c726c2"/>
+    id="id-a6af6d8cf9d24181856582d327c726c2">
+  <properties
+      key="Object ID"
+      value="577fed84-558d-4a76-a282-9dd7f4507686"/>
+</archimate:DataObject>

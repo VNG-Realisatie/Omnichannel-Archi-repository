@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toevoegen document aan zaak"
-    id="id-7302eb90784d4127bb5d183758c0718e"/>
+    id="id-7302eb90784d4127bb5d183758c0718e">
+  <properties
+      key="Object ID"
+      value="58941b5b-77c0-4c1c-a93b-8a354fd468a9"/>
+</archimate:ApplicationProcess>

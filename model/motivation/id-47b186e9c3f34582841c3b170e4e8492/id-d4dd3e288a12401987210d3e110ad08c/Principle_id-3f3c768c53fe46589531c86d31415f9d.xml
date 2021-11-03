@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemers kunnen erop vertrouwen dat de dienstverlener zich aan de afspraken houdt"
-    id="id-3f3c768c53fe46589531c86d31415f9d"/>
+    id="id-3f3c768c53fe46589531c86d31415f9d">
+  <properties
+      key="Object ID"
+      value="dad22642-f30c-4d53-862d-01e9c1b2ea94"/>
+</archimate:Principle>

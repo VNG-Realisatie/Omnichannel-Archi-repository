@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Abonneren op  het verzoek"
     id="fbdb7571-54f2-4cd2-b9c9-e6f0cd7568de">
+  <properties
+      key="Object ID"
+      value="8541b90e-9519-44a9-ba8c-a27c87b68359"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_a05a742d-7dc0-4de4-a592-d37b6eee22eb.xml#a05a742d-7dc0-4de4-a592-d37b6eee22eb"/>

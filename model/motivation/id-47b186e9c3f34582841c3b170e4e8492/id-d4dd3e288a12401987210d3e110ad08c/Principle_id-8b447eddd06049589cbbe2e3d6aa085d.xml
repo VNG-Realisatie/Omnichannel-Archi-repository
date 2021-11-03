@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemers hebben eenvoudig toegang tot de dienst"
-    id="id-8b447eddd06049589cbbe2e3d6aa085d"/>
+    id="id-8b447eddd06049589cbbe2e3d6aa085d">
+  <properties
+      key="Object ID"
+      value="a5461546-b05e-4aa8-9b53-937ffa87f13d"/>
+</archimate:Principle>

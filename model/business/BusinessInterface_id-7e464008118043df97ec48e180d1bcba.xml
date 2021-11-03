@@ -1,4 +1,8 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorkeurskanaal klant"
-    id="id-7e464008118043df97ec48e180d1bcba"/>
+    id="id-7e464008118043df97ec48e180d1bcba">
+  <properties
+      key="Object ID"
+      value="642315ff-4981-40f8-93c2-1aeab9f4c832"/>
+</archimate:BusinessInterface>

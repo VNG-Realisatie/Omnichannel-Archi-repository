@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bijwerken zaakeigenschappen"
-    id="id-ea1e9f610eb44b35902ede260b3e088e"/>
+    id="id-ea1e9f610eb44b35902ede260b3e088e">
+  <properties
+      key="Object ID"
+      value="bb8b95eb-4aa4-442d-9f6e-c507a741bad3"/>
+</archimate:ApplicationProcess>

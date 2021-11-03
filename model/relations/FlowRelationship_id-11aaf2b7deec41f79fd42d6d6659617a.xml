@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Antwoord"
     id="id-11aaf2b7deec41f79fd42d6d6659617a">
+  <properties
+      key="Object ID"
+      value="4d37e084-7dc5-4043-bc50-6c55c9728f7b"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-83d25a7a6d5a49eeaee79df93b3fb1f5.xml#id-83d25a7a6d5a49eeaee79df93b3fb1f5"/>

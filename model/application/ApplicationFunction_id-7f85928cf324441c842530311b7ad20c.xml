@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ophalen zaakstatus"
-    id="id-7f85928cf324441c842530311b7ad20c"/>
+    id="id-7f85928cf324441c842530311b7ad20c">
+  <properties
+      key="Object ID"
+      value="6d6d95ed-e1a8-4069-a187-db8e1b40eda7"/>
+</archimate:ApplicationFunction>

@@ -362,4 +362,7 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_2b218e1b-0aff-4999-a0f1-0479c8a2130d.xml#2b218e1b-0aff-4999-a0f1-0479c8a2130d"/>
   </children>
+  <properties
+      key="Object ID"
+      value="a0a311a3-2a14-455f-a095-f851e1d566e0"/>
 </archimate:ArchimateDiagramModel>

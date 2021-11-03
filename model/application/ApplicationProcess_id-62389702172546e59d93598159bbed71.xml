@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opvragen productenoverzicht"
-    id="id-62389702172546e59d93598159bbed71"/>
+    id="id-62389702172546e59d93598159bbed71">
+  <properties
+      key="Object ID"
+      value="fae7516a-378d-49b5-bfd8-307bf9e82376"/>
+</archimate:ApplicationProcess>

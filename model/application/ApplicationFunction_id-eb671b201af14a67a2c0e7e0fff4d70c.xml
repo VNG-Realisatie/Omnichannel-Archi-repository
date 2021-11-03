@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opbouwen integraal klantbeeld"
-    id="id-eb671b201af14a67a2c0e7e0fff4d70c"/>
+    id="id-eb671b201af14a67a2c0e7e0fff4d70c">
+  <properties
+      key="Object ID"
+      value="04c5f0ac-70d5-47e3-abc9-cc64d1bd5fd2"/>
+</archimate:ApplicationFunction>

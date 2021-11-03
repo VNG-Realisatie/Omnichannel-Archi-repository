@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Chatcomponent"
-    id="id-ab963f91a8504822ad5ea783a48a2774"/>
+    id="id-ab963f91a8504822ad5ea783a48a2774">
+  <properties
+      key="Object ID"
+      value="1665d90b-4639-465a-96b0-ef105688ccc8"/>
+</archimate:ApplicationComponent>

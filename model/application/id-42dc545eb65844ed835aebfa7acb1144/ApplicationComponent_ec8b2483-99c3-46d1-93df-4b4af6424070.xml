@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zaakafhandel-component Ketenpartner (leverancier)"
-    id="ec8b2483-99c3-46d1-93df-4b4af6424070"/>
+    id="ec8b2483-99c3-46d1-93df-4b4af6424070">
+  <properties
+      key="Object ID"
+      value="9db93d8b-7661-4ee2-bb65-7ecd09568baf"/>
+</archimate:ApplicationComponent>

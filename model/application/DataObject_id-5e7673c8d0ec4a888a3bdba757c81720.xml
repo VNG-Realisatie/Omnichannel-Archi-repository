@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="machtigingen"
-    id="id-5e7673c8d0ec4a888a3bdba757c81720"/>
+    id="id-5e7673c8d0ec4a888a3bdba757c81720">
+  <properties
+      key="Object ID"
+      value="eb44f8c9-d1d6-4c6a-af73-9975f95335b6"/>
+</archimate:DataObject>

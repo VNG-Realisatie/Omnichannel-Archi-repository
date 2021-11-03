@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autoriseren"
-    id="id-df8d9a81ed4d4f70a1722a50bcd5cba4"/>
+    id="id-df8d9a81ed4d4f70a1722a50bcd5cba4">
+  <properties
+      key="Object ID"
+      value="ff602002-62ac-466f-a772-119b84396ab2"/>
+</archimate:ApplicationFunction>

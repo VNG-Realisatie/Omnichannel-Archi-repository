@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Catalogi API"
-    id="id-f722997323f248e28ac5471ba587acab"/>
+    id="id-f722997323f248e28ac5471ba587acab">
+  <properties
+      key="Object ID"
+      value="3157a2d5-a11a-4708-9ff8-d040198613e6"/>
+</archimate:ApplicationInterface>

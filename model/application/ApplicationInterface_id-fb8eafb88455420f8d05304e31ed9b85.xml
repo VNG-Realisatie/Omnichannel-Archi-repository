@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruikersbeheer API"
-    id="id-fb8eafb88455420f8d05304e31ed9b85"/>
+    id="id-fb8eafb88455420f8d05304e31ed9b85">
+  <properties
+      key="Object ID"
+      value="40634e7f-612a-4c3a-914a-d813e59406fe"/>
+</archimate:ApplicationInterface>

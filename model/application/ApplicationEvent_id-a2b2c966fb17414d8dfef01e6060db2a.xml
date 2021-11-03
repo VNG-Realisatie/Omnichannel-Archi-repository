@@ -1,4 +1,8 @@
 <archimate:ApplicationEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificatie nieuwe productaanvraag ontvangen"
-    id="id-a2b2c966fb17414d8dfef01e6060db2a"/>
+    id="id-a2b2c966fb17414d8dfef01e6060db2a">
+  <properties
+      key="Object ID"
+      value="fddb20ce-01f9-407b-a73d-e1edac77797c"/>
+</archimate:ApplicationEvent>

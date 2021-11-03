@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oriënteren"
-    id="id-81f8372b975848cb8a696aa026e6eacb"/>
+    id="id-81f8372b975848cb8a696aa026e6eacb">
+  <properties
+      key="Object ID"
+      value="6fb8db5c-f0c4-44a3-9bab-dd56f9b4f22c"/>
+</archimate:BusinessProcess>

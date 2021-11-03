@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klant"
-    id="id-161ccd09cffc4970bd9c8233e13b7541"/>
+    id="id-161ccd09cffc4970bd9c8233e13b7541">
+  <properties
+      key="Object ID"
+      value="8ae57b21-a0f5-44b6-86f6-426f55ef9e85"/>
+</archimate:BusinessRole>

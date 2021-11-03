@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HR Bevragen API"
-    id="id-f638e1bd61da4418bb93eb29799cfdfe"/>
+    id="id-f638e1bd61da4418bb93eb29799cfdfe">
+  <properties
+      key="Object ID"
+      value="b8832b6b-2695-42ed-9699-1c20c8b2b3ea"/>
+</archimate:ApplicationInterface>

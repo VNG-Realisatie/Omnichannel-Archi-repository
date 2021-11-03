@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koppelen relevante informatie aan klant"
     id="id-be568b06e13e420096a97d601c8f936f"
-    documentation="Het vermogen van een organisatie om relevante informatie van een klant op een privacy-correcte manier te koppelen aan die klant."/>
+    documentation="Het vermogen van een organisatie om relevante informatie van een klant op een privacy-correcte manier te koppelen aan die klant.">
+  <properties
+      key="Object ID"
+      value="a3d00480-218c-4942-b892-9ecc0cc10208"/>
+</archimate:Capability>

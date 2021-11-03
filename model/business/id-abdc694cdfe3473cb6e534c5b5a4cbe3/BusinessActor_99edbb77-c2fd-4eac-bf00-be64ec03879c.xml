@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adviesbureau"
-    id="99edbb77-c2fd-4eac-bf00-be64ec03879c"/>
+    id="99edbb77-c2fd-4eac-bf00-be64ec03879c">
+  <properties
+      key="Object ID"
+      value="14caf38b-7b39-4fd6-bf55-c1294b93c354"/>
+</archimate:BusinessActor>

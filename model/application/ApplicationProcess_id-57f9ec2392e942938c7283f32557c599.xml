@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Productaanvraag afsluiten"
-    id="id-57f9ec2392e942938c7283f32557c599"/>
+    id="id-57f9ec2392e942938c7283f32557c599">
+  <properties
+      key="Object ID"
+      value="73e73f5e-0718-49d0-9505-38c65be0889b"/>
+</archimate:ApplicationProcess>

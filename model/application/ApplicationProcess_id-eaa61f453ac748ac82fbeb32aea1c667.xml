@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ophalen aanvraag bij zaak"
-    id="id-eaa61f453ac748ac82fbeb32aea1c667"/>
+    id="id-eaa61f453ac748ac82fbeb32aea1c667">
+  <properties
+      key="Object ID"
+      value="3961fe2d-e4ac-4794-a3a5-2bad44cd6d20"/>
+</archimate:ApplicationProcess>

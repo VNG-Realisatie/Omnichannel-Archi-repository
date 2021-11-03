@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opvragen van status"
     id="id-5b07624e31aa4c93a4507db1d2956b38">
+  <properties
+      key="Object ID"
+      value="3aead895-502e-41ca-b545-434ed46f91ec"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-83d25a7a6d5a49eeaee79df93b3fb1f5.xml#id-83d25a7a6d5a49eeaee79df93b3fb1f5"/>

@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontvangstbevestiging"
     id="id-7e812b86a80f47ac9781017c4a381652">
+  <properties
+      key="Object ID"
+      value="8e873ba1-9f1d-43fd-87db-04ed039cc176"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-438ad23d138740eb8dee9bdf9d7ee9a9.xml#id-438ad23d138740eb8dee9bdf9d7ee9a9"/>

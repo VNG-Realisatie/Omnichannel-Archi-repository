@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvraag registreren"
-    id="id-bda2c3b870ed4a06879a299c026308a9"/>
+    id="id-bda2c3b870ed4a06879a299c026308a9">
+  <properties
+      key="Object ID"
+      value="d24fb00b-91a5-4e3a-9a74-bb519c1679af"/>
+</archimate:BusinessProcess>

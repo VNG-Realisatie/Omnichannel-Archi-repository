@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatieobjecten vastleggen"
-    id="id-cf24572cf5984254ae681c738e8bfc03"/>
+    id="id-cf24572cf5984254ae681c738e8bfc03">
+  <properties
+      key="Object ID"
+      value="f6329a1a-00bd-4e45-b01b-6c85af551a1a"/>
+</archimate:ApplicationProcess>

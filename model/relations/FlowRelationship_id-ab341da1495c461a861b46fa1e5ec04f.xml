@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Productoverzicht"
     id="id-ab341da1495c461a861b46fa1e5ec04f">
+  <properties
+      key="Object ID"
+      value="c9aafcc8-bb7d-411d-8d30-eda58796915d"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-438ad23d138740eb8dee9bdf9d7ee9a9.xml#id-438ad23d138740eb8dee9bdf9d7ee9a9"/>

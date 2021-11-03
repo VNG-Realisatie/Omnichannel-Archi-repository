@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemers kunnen erop vertrouwen dat informatie niet wordt misbruikt"
-    id="id-eeebddfae35242fb9baed5aa40245692"/>
+    id="id-eeebddfae35242fb9baed5aa40245692">
+  <properties
+      key="Object ID"
+      value="85f63cb1-8ca8-4a24-bf95-e2115ed77ca5"/>
+</archimate:Principle>

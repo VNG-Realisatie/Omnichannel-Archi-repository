@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Objecten API"
-    id="id-f335b36a9d994a02bbcfb09d4b52f291"/>
+    id="id-f335b36a9d994a02bbcfb09d4b52f291">
+  <properties
+      key="Object ID"
+      value="c414b7ca-d269-4688-961f-2f4e72125f88"/>
+</archimate:ApplicationInterface>

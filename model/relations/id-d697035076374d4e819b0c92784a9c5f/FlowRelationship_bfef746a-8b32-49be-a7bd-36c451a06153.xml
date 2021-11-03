@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opvragen gerelateerde zaaknummers"
     id="bfef746a-8b32-49be-a7bd-36c451a06153">
+  <properties
+      key="Object ID"
+      value="f81ce651-7d8a-4ca8-9555-737095faac10"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_34570c2e-da50-4f94-939d-e59e0b9d1c92.xml#34570c2e-da50-4f94-939d-e59e0b9d1c92"/>

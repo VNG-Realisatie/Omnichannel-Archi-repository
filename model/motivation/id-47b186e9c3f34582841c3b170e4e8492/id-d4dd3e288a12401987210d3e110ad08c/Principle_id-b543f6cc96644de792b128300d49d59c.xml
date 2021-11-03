@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemers worden niet geconfronteerd met overbodige vragen"
-    id="id-b543f6cc96644de792b128300d49d59c"/>
+    id="id-b543f6cc96644de792b128300d49d59c">
+  <properties
+      key="Object ID"
+      value="bfda74ea-3cf2-48b2-b1a8-cda8c5e6a8c8"/>
+</archimate:Principle>

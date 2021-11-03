@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Processturingcomponent"
-    id="id-efea13b4ec114ce7ba83bd61bed6bc29"/>
+    id="id-efea13b4ec114ce7ba83bd61bed6bc29">
+  <properties
+      key="Object ID"
+      value="704d301f-b95f-4268-82fe-3e648f4960ea"/>
+</archimate:ApplicationComponent>

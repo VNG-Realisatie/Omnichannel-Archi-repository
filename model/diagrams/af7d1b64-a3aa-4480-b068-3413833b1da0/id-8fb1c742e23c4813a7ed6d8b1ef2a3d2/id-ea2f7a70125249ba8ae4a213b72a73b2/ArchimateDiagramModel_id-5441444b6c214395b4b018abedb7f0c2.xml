@@ -3522,7 +3522,8 @@
       key="Domein"
       value="Niet domeingebonden"/>
   <properties
-      key="Object ID"/>
+      key="Object ID"
+      value="808fffc8-ef9b-4d75-bbea-6f58a0c8ae1b"/>
   <properties
       key="Detailniveau"
       value="Samenhang"/>

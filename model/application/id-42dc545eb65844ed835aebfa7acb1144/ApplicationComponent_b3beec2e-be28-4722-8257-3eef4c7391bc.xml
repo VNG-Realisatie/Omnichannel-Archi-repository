@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PDC Beheercomponent"
-    id="b3beec2e-be28-4722-8257-3eef4c7391bc"/>
+    id="b3beec2e-be28-4722-8257-3eef4c7391bc">
+  <properties
+      key="Object ID"
+      value="63092d36-80ea-40b6-849f-64ee8d4956e6"/>
+</archimate:ApplicationComponent>

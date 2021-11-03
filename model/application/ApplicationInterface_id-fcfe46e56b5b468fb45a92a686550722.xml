@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BRP-Bevragen API"
-    id="id-fcfe46e56b5b468fb45a92a686550722"/>
+    id="id-fcfe46e56b5b468fb45a92a686550722">
+  <properties
+      key="Object ID"
+      value="35db2c94-5aa7-4ace-9079-a04b156f2ca0"/>
+</archimate:ApplicationInterface>

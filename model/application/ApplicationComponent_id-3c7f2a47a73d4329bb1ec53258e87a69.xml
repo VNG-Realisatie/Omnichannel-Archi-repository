@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kanaalintegratiecomponent"
-    id="id-3c7f2a47a73d4329bb1ec53258e87a69"/>
+    id="id-3c7f2a47a73d4329bb1ec53258e87a69">
+  <properties
+      key="Object ID"
+      value="12603220-bb20-4ea9-a166-dc268d8501de"/>
+</archimate:ApplicationComponent>

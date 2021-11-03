@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="zaakobjecten"
-    id="id-e82077c950f8404bb295366c6fe224c7"/>
+    id="id-e82077c950f8404bb295366c6fe224c7">
+  <properties
+      key="Object ID"
+      value="9078bfcf-1d1d-4ad4-97a2-c62205957b62"/>
+</archimate:DataObject>

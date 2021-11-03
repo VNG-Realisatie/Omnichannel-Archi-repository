@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regie op gegevens. Rechtmatige partijen moeten regie kunnen voeren op het gebruik van hun gegevens"
-    id="id-a398a228f843455687c45aec336de830"/>
+    id="id-a398a228f843455687c45aec336de830">
+  <properties
+      key="Object ID"
+      value="d140d602-d541-4a2b-84f7-5506b6000df1"/>
+</archimate:Principle>

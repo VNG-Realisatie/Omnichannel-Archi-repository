@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leveren"
-    id="3a649603-9e3e-4e0f-86cf-0302bbf55ffc"/>
+    id="3a649603-9e3e-4e0f-86cf-0302bbf55ffc">
+  <properties
+      key="Object ID"
+      value="a1266839-a244-44f4-8dd5-7a1a03419dae"/>
+</archimate:BusinessProcess>

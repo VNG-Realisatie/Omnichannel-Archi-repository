@@ -182,7 +182,7 @@
           height="70"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-7f0cf77f40aa4256bb07f4108fb4d92e.xml#id-7f0cf77f40aa4256bb07f4108fb4d92e"/>
+          href="ApplicationComponent_id-5060f0fc-6198-4936-99d3-1c5a35aae8de.xml#id-5060f0fc-6198-4936-99d3-1c5a35aae8de"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -345,7 +345,7 @@
           height="70"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-7f0cf77f40aa4256bb07f4108fb4d92e.xml#id-7f0cf77f40aa4256bb07f4108fb4d92e"/>
+          href="ApplicationComponent_id-5060f0fc-6198-4936-99d3-1c5a35aae8de.xml#id-5060f0fc-6198-4936-99d3-1c5a35aae8de"/>
     </children>
   </children>
   <children
@@ -714,4 +714,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-dfabd361-70bc-11e4-67ab-0050568a6153.xml#id-dfabd361-70bc-11e4-67ab-0050568a6153"/>
   </children>
+  <properties
+      key="Object ID"
+      value="1702250c-36dd-4560-9298-e7fd028ee2c6"/>
 </archimate:ArchimateDiagramModel>

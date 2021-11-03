@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klanttoestemmingen controleren"
     id="id-ac0cec85aef24098b4ee8368f5b95235"
-    documentation="Er wordt gecontroleerd of, en zo ja in welke mate de initiërende burger toestemming heeft gegeven voor inzage van (persoons)gegevens voor dit doel (dit voor zover deze gegevens niet op basis van een andere grondslag aan de medewerker mogen worden getoond)."/>
+    documentation="Er wordt gecontroleerd of, en zo ja in welke mate de initiërende burger toestemming heeft gegeven voor inzage van (persoons)gegevens voor dit doel (dit voor zover deze gegevens niet op basis van een andere grondslag aan de medewerker mogen worden getoond).">
+  <properties
+      key="Object ID"
+      value="d4a214b9-a437-429b-9b35-cdfebb67f508"/>
+</archimate:ApplicationProcess>

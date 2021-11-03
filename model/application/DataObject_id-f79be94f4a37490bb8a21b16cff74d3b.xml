@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="accounts"
-    id="id-f79be94f4a37490bb8a21b16cff74d3b"/>
+    id="id-f79be94f4a37490bb8a21b16cff74d3b">
+  <properties
+      key="Object ID"
+      value="39c4ac36-e468-40d0-b674-621e2bcf6e5e"/>
+</archimate:DataObject>

@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Producten vinden"
-    id="id-20c9d47eb36d497aa6df6e8c3c13bf3d"/>
+    id="id-20c9d47eb36d497aa6df6e8c3c13bf3d">
+  <properties
+      key="Object ID"
+      value="5bc9ac8d-5fbf-41f9-8646-9250307bcf2e"/>
+</archimate:ApplicationFunction>

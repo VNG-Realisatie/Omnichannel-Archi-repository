@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opbouwen integrale wachtrij"
-    id="id-3946e258e01f47908fcb725d7182d1a3"/>
+    id="id-3946e258e01f47908fcb725d7182d1a3">
+  <properties
+      key="Object ID"
+      value="15ebb01b-b140-4485-ad1e-9a2adda74cbe"/>
+</archimate:ApplicationFunction>

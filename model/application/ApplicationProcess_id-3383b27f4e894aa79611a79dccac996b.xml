@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Productaanvraaggegevens tonen"
     id="id-3383b27f4e894aa79611a79dccac996b"
-    documentation="Op basis van een relatie met klant via het gegevensobject klantverzoeken in het Productaanvragenregister worden de door de burger opgevraagde productaanvraaggegevens (o.a. moment van indienen en aangevraagd product) opgehaald en getoond. Op basis van een relatie met productaanvragen via het gegevensobject verzoekproducten in het Productaanvragenregister worden uit de Producten-en-dienstencataloguscomponent aanvullende gegevens over het aangevraagde product opgehaald (zoals een beschrijving en behandeltermijnen) opgehaald en getoond."/>
+    documentation="Op basis van een relatie met klant via het gegevensobject klantverzoeken in het Productaanvragenregister worden de door de burger opgevraagde productaanvraaggegevens (o.a. moment van indienen en aangevraagd product) opgehaald en getoond. Op basis van een relatie met productaanvragen via het gegevensobject verzoekproducten in het Productaanvragenregister worden uit de Producten-en-dienstencataloguscomponent aanvullende gegevens over het aangevraagde product opgehaald (zoals een beschrijving en behandeltermijnen) opgehaald en getoond.">
+  <properties
+      key="Object ID"
+      value="fd8c070c-23ad-4b71-9994-fc09eab935f1"/>
+</archimate:ApplicationProcess>

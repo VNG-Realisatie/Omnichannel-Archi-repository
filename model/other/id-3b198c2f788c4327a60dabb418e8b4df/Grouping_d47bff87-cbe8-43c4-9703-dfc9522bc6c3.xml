@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deelprocessen"
-    id="d47bff87-cbe8-43c4-9703-dfc9522bc6c3"/>
+    id="d47bff87-cbe8-43c4-9703-dfc9522bc6c3">
+  <properties
+      key="Object ID"
+      value="07b7fd3e-13fd-4326-9dcc-fcf3c489e819"/>
+</archimate:Grouping>

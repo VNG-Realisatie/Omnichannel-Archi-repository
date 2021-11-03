@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toestemmingenregister"
-    id="id-af1f34ae4199448ebcf5611313057693"/>
+    id="id-af1f34ae4199448ebcf5611313057693">
+  <properties
+      key="Object ID"
+      value="a9de5841-0912-421d-bd6b-d86be8ebc8c0"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemer van PDS-informatie"
-    id="id-4fce7d0132184d3da7892cba6a5ac907"/>
+    id="id-4fce7d0132184d3da7892cba6a5ac907">
+  <properties
+      key="Object ID"
+      value="92e705d1-585c-42e0-8b84-d7b87d3f431b"/>
+</archimate:BusinessRole>

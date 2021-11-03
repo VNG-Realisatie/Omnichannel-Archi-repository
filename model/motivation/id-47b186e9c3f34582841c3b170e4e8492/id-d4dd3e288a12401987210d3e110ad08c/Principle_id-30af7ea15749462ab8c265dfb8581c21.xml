@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Componentgebaseerd. Afgebakende functionaliteiten en gestandaardiseerde interfaces"
-    id="id-30af7ea15749462ab8c265dfb8581c21"/>
+    id="id-30af7ea15749462ab8c265dfb8581c21">
+  <properties
+      key="Object ID"
+      value="e9e7046c-da1e-4234-aaee-a7766dc02b8d"/>
+</archimate:Principle>

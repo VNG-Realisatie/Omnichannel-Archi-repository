@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvraag nieuw paspoort"
     id="id-16970d0db8814909bf31781d5184455a">
+  <properties
+      key="Object ID"
+      value="8b4a570a-04bc-4ca5-a08f-2c996ca79219"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-482fedcc226d47db967892414cc0fa02.xml#id-482fedcc226d47db967892414cc0fa02"/>

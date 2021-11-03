@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intake"
-    id="af8dbdda-8055-48fd-b9e2-3899a5742d9c"/>
+    id="af8dbdda-8055-48fd-b9e2-3899a5742d9c">
+  <properties
+      key="Object ID"
+      value="a1fbc228-efe5-4dd1-be0f-2d5bab60755d"/>
+</archimate:BusinessProcess>

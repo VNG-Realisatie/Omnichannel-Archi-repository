@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificatie verzoek in behandeling"
     id="a69c8ee0-c0f6-46a9-bc9e-03aaeeca264f">
+  <properties
+      key="Object ID"
+      value="5486a581-66d4-442c-8867-9d273929ae10"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_34570c2e-da50-4f94-939d-e59e0b9d1c92.xml#34570c2e-da50-4f94-939d-e59e0b9d1c92"/>

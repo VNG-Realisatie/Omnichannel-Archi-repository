@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificatie gekoppelde documenten"
     id="afa5e1d1-3a3d-490e-b46f-aaf33a50fdf5">
+  <properties
+      key="Object ID"
+      value="248e5eb0-982b-4277-a77a-b571ae89cc78"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_34570c2e-da50-4f94-939d-e59e0b9d1c92.xml#34570c2e-da50-4f94-939d-e59e0b9d1c92"/>

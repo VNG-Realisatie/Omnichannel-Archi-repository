@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resultaat zaak vastleggen"
-    id="id-5ded2cbfc3dc4053b1e8ab22893e8eaa"/>
+    id="id-5ded2cbfc3dc4053b1e8ab22893e8eaa">
+  <properties
+      key="Object ID"
+      value="f90b3098-383a-4f66-b416-80b580d9ce74"/>
+</archimate:ApplicationProcess>

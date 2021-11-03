@@ -111,4 +111,7 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-8f585bd32d9646c58235cedb8a27b6cd.xml#id-8f585bd32d9646c58235cedb8a27b6cd"/>
   </children>
+  <properties
+      key="Object ID"
+      value="f7dd3bb1-2068-4151-94f5-bea74ae63712"/>
 </archimate:ArchimateDiagramModel>

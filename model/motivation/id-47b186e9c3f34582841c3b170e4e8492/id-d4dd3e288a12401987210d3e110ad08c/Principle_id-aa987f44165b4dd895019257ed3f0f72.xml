@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemers krijgen gerelateerde diensten gebundeld aangeboden"
-    id="id-aa987f44165b4dd895019257ed3f0f72"/>
+    id="id-aa987f44165b4dd895019257ed3f0f72">
+  <properties
+      key="Object ID"
+      value="83c6ab8d-c02a-4f80-8fea-5cb4e7437950"/>
+</archimate:Principle>

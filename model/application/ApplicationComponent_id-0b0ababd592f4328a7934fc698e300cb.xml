@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E-mailcomponent"
-    id="id-0b0ababd592f4328a7934fc698e300cb"/>
+    id="id-0b0ababd592f4328a7934fc698e300cb">
+  <properties
+      key="Object ID"
+      value="0ea2953d-03c9-47fa-ac1c-9bcf5f7c1815"/>
+</archimate:ApplicationComponent>

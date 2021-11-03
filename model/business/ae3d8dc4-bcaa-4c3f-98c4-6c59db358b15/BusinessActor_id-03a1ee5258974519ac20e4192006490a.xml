@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medewerker frontoffice"
-    id="id-03a1ee5258974519ac20e4192006490a"/>
+    id="id-03a1ee5258974519ac20e4192006490a">
+  <properties
+      key="Object ID"
+      value="beaeb6b5-aaea-48a2-9134-4886af94bfaa"/>
+</archimate:BusinessActor>

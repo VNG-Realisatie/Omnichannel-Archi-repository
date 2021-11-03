@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Telefoniecomponent"
-    id="id-e1e2648c6ed34410b2047b8108363c62"/>
+    id="id-e1e2648c6ed34410b2047b8108363c62">
+  <properties
+      key="Object ID"
+      value="7f74c406-d5ea-4c7b-89fd-7022f6fc82b8"/>
+</archimate:ApplicationComponent>

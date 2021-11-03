@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opvragen documenten"
     id="0f932091-c787-4fbd-ac1e-a47837ae9d1d">
+  <properties
+      key="Object ID"
+      value="06b4c07d-60db-41e5-8f5a-e01fa9e2dcfe"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_a05a742d-7dc0-4de4-a592-d37b6eee22eb.xml#a05a742d-7dc0-4de4-a592-d37b6eee22eb"/>

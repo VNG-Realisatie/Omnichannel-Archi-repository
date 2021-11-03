@@ -153,4 +153,7 @@
         xsi:type="archimate:Principle"
         href="Principle_id-4869adc8618943e5a2c53c793b4eecf1.xml#id-4869adc8618943e5a2c53c793b4eecf1"/>
   </children>
+  <properties
+      key="Object ID"
+      value="fc4cd87e-d362-42df-8e4a-c7f0cb19f697"/>
 </archimate:ArchimateDiagramModel>

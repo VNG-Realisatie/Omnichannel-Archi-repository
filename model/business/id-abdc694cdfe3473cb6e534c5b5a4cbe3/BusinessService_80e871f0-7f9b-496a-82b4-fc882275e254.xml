@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leveren product"
-    id="80e871f0-7f9b-496a-82b4-fc882275e254"/>
+    id="80e871f0-7f9b-496a-82b4-fc882275e254">
+  <properties
+      key="Object ID"
+      value="587b9894-4161-4abc-91cf-ca8038650981"/>
+</archimate:BusinessService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Co-browsing"
-    id="id-dc0b835197884a91af5b4d0a325d3784"/>
+    id="id-dc0b835197884a91af5b4d0a325d3784">
+  <properties
+      key="Object ID"
+      value="d0f6223b-16c7-4aa5-b4f6-55b2136b7fc5"/>
+</archimate:ApplicationFunction>

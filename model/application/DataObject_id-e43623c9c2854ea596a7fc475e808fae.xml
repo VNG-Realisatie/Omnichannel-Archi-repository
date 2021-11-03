@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="verzoekcontactmomenten"
-    id="id-e43623c9c2854ea596a7fc475e808fae"/>
+    id="id-e43623c9c2854ea596a7fc475e808fae">
+  <properties
+      key="Object ID"
+      value="d73851bd-3aeb-48bc-808e-0ba013a15fbc"/>
+</archimate:DataObject>

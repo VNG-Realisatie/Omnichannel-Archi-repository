@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relevante klantinformatie"
     id="id-25e538ee6e8642a6917475d7ed27694e"
-    documentation="Het vermogen van een organisatie om in een specifieke context relevante klantinformatie te tonen waarbij rekening wordt gehouden met alle relevante juridische kaders."/>
+    documentation="Het vermogen van een organisatie om in een specifieke context relevante klantinformatie te tonen waarbij rekening wordt gehouden met alle relevante juridische kaders.">
+  <properties
+      key="Object ID"
+      value="6d8f14dc-0409-42fd-9f75-0d72487003ed"/>
+</archimate:Capability>

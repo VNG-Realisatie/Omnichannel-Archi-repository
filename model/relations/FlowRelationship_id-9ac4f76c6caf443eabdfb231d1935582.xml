@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aangiftebewijs"
     id="id-9ac4f76c6caf443eabdfb231d1935582">
+  <properties
+      key="Object ID"
+      value="f7a3b560-65c7-458f-ac4f-8eb9231d40ff"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-482fedcc226d47db967892414cc0fa02.xml#id-482fedcc226d47db967892414cc0fa02"/>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Videobellencomponent"
-    id="id-021e9a7852c64740960220d74d3f799a"/>
+    id="id-021e9a7852c64740960220d74d3f799a">
+  <properties
+      key="Object ID"
+      value="7dde3cf8-ae14-4bdf-a47d-9328ed377e75"/>
+</archimate:ApplicationComponent>

@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-a1990734cff043909c05403ede96f47c">
+  <properties
+      key="Object ID"
+      value="99ff6042-3926-4e9c-a076-3a4f7148bc48"/>
   <source
       xsi:type="archimate:ApplicationEvent"
       href="ApplicationEvent_id-0f258d87c6d64c3696d341a263023bd9.xml#id-0f258d87c6d64c3696d341a263023bd9"/>

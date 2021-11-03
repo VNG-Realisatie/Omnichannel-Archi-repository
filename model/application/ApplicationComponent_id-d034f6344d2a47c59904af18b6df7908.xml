@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Objectenregister"
-    id="id-d034f6344d2a47c59904af18b6df7908"/>
+    id="id-d034f6344d2a47c59904af18b6df7908">
+  <properties
+      key="Object ID"
+      value="f7f4747c-7235-45af-b49d-8155fb51046e"/>
+</archimate:ApplicationComponent>

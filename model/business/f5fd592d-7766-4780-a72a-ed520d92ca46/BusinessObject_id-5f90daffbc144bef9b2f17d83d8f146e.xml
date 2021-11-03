@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PDS-informatie"
-    id="id-5f90daffbc144bef9b2f17d83d8f146e"/>
+    id="id-5f90daffbc144bef9b2f17d83d8f146e">
+  <properties
+      key="Object ID"
+      value="3f98f3e3-0405-40ca-b614-13a1c9a62154"/>
+</archimate:BusinessObject>

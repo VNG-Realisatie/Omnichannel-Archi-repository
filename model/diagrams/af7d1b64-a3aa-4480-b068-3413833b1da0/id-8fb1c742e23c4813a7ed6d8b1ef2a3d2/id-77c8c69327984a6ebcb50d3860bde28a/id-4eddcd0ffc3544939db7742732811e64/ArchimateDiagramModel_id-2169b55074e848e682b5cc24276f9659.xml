@@ -1144,4 +1144,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-71c50a65-70f3-11e4-67ab-0050568a6153.xml#id-71c50a65-70f3-11e4-67ab-0050568a6153"/>
   </children>
+  <properties
+      key="Object ID"
+      value="49df6308-41d6-484d-b070-f8428f978555"/>
 </archimate:ArchimateDiagramModel>

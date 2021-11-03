@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kanaalswitch"
-    id="id-68bc8b65324b47f98b919ae26092095e"/>
+    id="id-68bc8b65324b47f98b919ae26092095e">
+  <properties
+      key="Object ID"
+      value="c52fd5c3-2061-4aa4-a1c5-35dd5315382b"/>
+</archimate:ApplicationFunction>

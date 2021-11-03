@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aangiftesysteem"
-    id="id-0a9b1cd7e5b34b95a53a8501f5ffd452"/>
+    id="id-0a9b1cd7e5b34b95a53a8501f5ffd452">
+  <properties
+      key="Object ID"
+      value="0908759c-95e3-4a28-be38-5e013c21d8cf"/>
+</archimate:ApplicationComponent>

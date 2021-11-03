@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pseudonimiseringscomponent"
-    id="id-55a342820b7d4c2581f7cef711271a19"/>
+    id="id-55a342820b7d4c2581f7cef711271a19">
+  <properties
+      key="Object ID"
+      value="45ad14cb-2e05-4df4-b6e2-bc43c6fa8693"/>
+</archimate:ApplicationComponent>

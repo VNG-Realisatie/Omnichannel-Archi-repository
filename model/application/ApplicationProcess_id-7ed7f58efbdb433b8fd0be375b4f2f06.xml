@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificatie verzenden"
-    id="id-7ed7f58efbdb433b8fd0be375b4f2f06"/>
+    id="id-7ed7f58efbdb433b8fd0be375b4f2f06">
+  <properties
+      key="Object ID"
+      value="666cb208-72e3-4e93-9c7f-fe4d656f9954"/>
+</archimate:ApplicationProcess>

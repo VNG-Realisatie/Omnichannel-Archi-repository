@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ophalen klantgegevens"
-    id="id-2bec3a515f704cdc8d7bb5a4377503d7"/>
+    id="id-2bec3a515f704cdc8d7bb5a4377503d7">
+  <properties
+      key="Object ID"
+      value="ac683c15-6b9e-4f16-9b23-40eb9470a1e0"/>
+</archimate:ApplicationFunction>

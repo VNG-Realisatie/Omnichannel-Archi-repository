@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantcontactcentrumcomponent"
-    id="id-625c4e3a1e13400f9c6075e9b0fba19c"/>
+    id="id-625c4e3a1e13400f9c6075e9b0fba19c">
+  <properties
+      key="Object ID"
+      value="731015e3-cae3-4cc4-ae3f-1157938f75f3"/>
+</archimate:ApplicationComponent>

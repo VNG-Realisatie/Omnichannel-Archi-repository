@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Status aanvragen en zaken tonen"
     id="id-a671b835ae464ca19122962d3ba3b383"
-    documentation="Alle beschikbare informatie over de status van levering van een door een burger aangevraagd(e) product of dienst wordt opgehaald en getoond."/>
+    documentation="Alle beschikbare informatie over de status van levering van een door een burger aangevraagd(e) product of dienst wordt opgehaald en getoond.">
+  <properties
+      key="Object ID"
+      value="cf8d775e-4e32-4d5f-b997-507fbb578d95"/>
+</archimate:ApplicationProcess>
