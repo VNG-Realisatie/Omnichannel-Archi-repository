@@ -1,11 +1,11 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA01 - MO - Burger authentiseren en machtigingen ophalen"
-    id="id-32c648c99767400aa486aa30c6f97179">
+    name="IA01 - MO - Bedrijven authentiseren en machtigingen ophalen"
+    id="id-5e80ebbb69464fe7be37284f21a338a9">
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-f67bde65115c4dc18de2579239e313fa"
+      id="id-7d33713ff9854235b714a407f1e3d54b"
       name="Laag 2 - Diensten"
       lineColor="#4f4f4f"
       textAlignment="1"
@@ -17,58 +17,33 @@
         height="129"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-92aa89c2b8ca484aad826183df4e41d8"
+        id="id-926b88ddbade4fac83789512aecdab6f"
         lineColor="#4f4f4f"
         fillColor="#b7dee8"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c57eb983548748b193693c81f5279912"
+          id="id-b0638c4b80a841d3a89cf0a262ccc5da"
           lineColor="#000000"
-          source="id-92aa89c2b8ca484aad826183df4e41d8"
-          target="id-93e77136ea1f45eb9b53c6a4402bc6fb">
+          source="id-926b88ddbade4fac83789512aecdab6f"
+          target="id-a791cfcf904245a4a7fc17d16a6475ad">
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-c0a7cc918b4348f79cb2a950f5c74112.xml#id-c0a7cc918b4348f79cb2a950f5c74112"/>
+            href="ServingRelationship_id-0b2db1274fdc4e87aa930238aece15f0.xml#id-0b2db1274fdc4e87aa930238aece15f0"/>
       </sourceConnections>
       <bounds
           x="16"
           y="32"
-          width="129"
+          width="273"
           height="81"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-46ed8e76-5f3d-4f34-8a8b-844c67fb6be4.xml#id-46ed8e76-5f3d-4f34-8a8b-844c67fb6be4"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7de1633c549e4bcab67a8aa2bdd07eba"
-        lineColor="#4f4f4f"
-        fillColor="#b7dee8"
-        textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-489a68735679494d8895b463f5827a75"
-          lineColor="#000000"
-          source="id-7de1633c549e4bcab67a8aa2bdd07eba"
-          target="id-93e77136ea1f45eb9b53c6a4402bc6fb">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-2a0e33d41fe74e279fd9fecaf06bff03.xml#id-2a0e33d41fe74e279fd9fecaf06bff03"/>
-      </sourceConnections>
-      <bounds
-          x="160"
-          y="32"
-          width="129"
-          height="81"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-a5562bd3cba8420da3e99d99449e1b90.xml#id-a5562bd3cba8420da3e99d99449e1b90"/>
+          href="ApplicationService_id-33198f69-6d22-4ea3-9744-ed9b920a9ee6.xml#id-33198f69-6d22-4ea3-9744-ed9b920a9ee6"/>
     </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-2955814753884934b8557bb20c2a4a65"
+      id="id-7ff27e2e277e4cb18f3f2de34a9299a5"
       name="Laag 3 - Integratie"
       lineColor="#4f4f4f"
       textAlignment="1"
@@ -81,7 +56,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-9f50cb74e424494b8486775a9642024e"
+      id="id-4d997167050142d98eafe5789a42b91c"
       name="Laag 4 - Proceslogica"
       lineColor="#4f4f4f"
       textAlignment="1"
@@ -93,18 +68,20 @@
         height="129"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-93e77136ea1f45eb9b53c6a4402bc6fb"
-        targetConnections="id-c57eb983548748b193693c81f5279912 id-489a68735679494d8895b463f5827a75"
+        id="id-a791cfcf904245a4a7fc17d16a6475ad"
+        targetConnections="id-b0638c4b80a841d3a89cf0a262ccc5da"
+        lineColor="#4f4f4f"
+        fillColor="#b7dee8"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c860fa0bbbbd4bb18dd1f8745d02bd38"
+          id="id-2027386fe6524fb2ae7779f8c2544327"
           lineColor="#000000"
-          source="id-93e77136ea1f45eb9b53c6a4402bc6fb"
-          target="id-5651a87c40e24f8cb5ae85d5aad998d7">
+          source="id-a791cfcf904245a4a7fc17d16a6475ad"
+          target="id-2f07291acf2a4b0cb8dc3d2328d4490c">
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-d9e573e2e7534003a30a154bd1a3e6da.xml#id-d9e573e2e7534003a30a154bd1a3e6da"/>
+            href="ServingRelationship_id-6a5daefe8a60486fbdad04b548ba00f1.xml#id-6a5daefe8a60486fbdad04b548ba00f1"/>
       </sourceConnections>
       <bounds
           x="16"
@@ -113,12 +90,12 @@
           height="81"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
-          href="ApplicationProcess_id-1fd6c706cb784524af1e2cd9f0dde21b.xml#id-1fd6c706cb784524af1e2cd9f0dde21b"/>
+          href="ApplicationProcess_id-3d2554a678d14791877640ba0d396178.xml#id-3d2554a678d14791877640ba0d396178"/>
     </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-388cc07c715f4788a4e842f04e4f245a"
+      id="id-9295e53d7ea94026911d921dd5a88a2b"
       name="Laag 5 - Interactie"
       lineColor="#4f4f4f"
       textAlignment="1"
@@ -130,8 +107,8 @@
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5651a87c40e24f8cb5ae85d5aad998d7"
-        targetConnections="id-c860fa0bbbbd4bb18dd1f8745d02bd38"
+        id="id-2f07291acf2a4b0cb8dc3d2328d4490c"
+        targetConnections="id-2027386fe6524fb2ae7779f8c2544327"
         lineColor="#000000"
         fillColor="#eefaed"
         textPosition="1"
@@ -148,7 +125,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-17ee0020489f443ab9394b33787dc78d"
+      id="id-657d2cdf91bf4d3d81d85ca74f6ded79"
       name="Laag 1 - Gegevens"
       lineColor="#4f4f4f"
       textAlignment="1"
