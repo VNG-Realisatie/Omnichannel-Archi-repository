@@ -1,6 +1,6 @@
 <archimate:ApplicationEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gebruiker geauthenticeerd en geautoriseerd"
+    name="Gebruiker geauthenticeerd en geautoriseerd, klantgegevens opgehaald"
     id="id-bd74e0bb528345a79f8f9c272e394a9a">
   <properties
       key="Object ID"

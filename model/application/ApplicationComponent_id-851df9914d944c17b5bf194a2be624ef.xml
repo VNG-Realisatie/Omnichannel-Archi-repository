@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procesondersteunende component (abstract component)"
+    name="Procesondersteunende component (abstracte component)"
     id="id-851df9914d944c17b5bf194a2be624ef"
     documentation="Abstract verzamelcomponent voor procesondersteunende systemen die zaakgericht zijn ingericht.">
   <properties

@@ -11,8 +11,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="32"
-        y="400"
+        x="48"
+        y="592"
         width="609"
         height="129"/>
     <children
@@ -72,16 +72,6 @@
         lineColor="#4f4f4f"
         fillColor="#daeef3"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c445e711aa374d658416ba17a67d6613"
-          lineColor="#000000"
-          source="id-11df908a9cc44c6b804586d5ff739812"
-          target="id-26ae6dce0bba4e43b083c9e873c73e4c">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-358f5aff0c8343e196868478c62163d7.xml#id-358f5aff0c8343e196868478c62163d7"/>
-      </sourceConnections>
       <bounds
           x="320"
           y="32"
@@ -126,8 +116,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="32"
-        y="320"
+        x="48"
+        y="512"
         width="609"
         height="73"/>
   </children>
@@ -139,8 +129,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="32"
-        y="184"
+        x="48"
+        y="376"
         width="609"
         height="129"/>
     <children
@@ -180,7 +170,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-26ae6dce0bba4e43b083c9e873c73e4c"
-        targetConnections="id-eb04edddfe2744db8355c2dd1ad2f32d id-c445e711aa374d658416ba17a67d6613 id-d1ee752e404e49eeb21ebb9f21883222"
+        targetConnections="id-eb04edddfe2744db8355c2dd1ad2f32d id-d1ee752e404e49eeb21ebb9f21883222"
         lineColor="#4f4f4f"
         fillColor="#b7dee8"
         textPosition="1">
@@ -212,8 +202,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="32"
-        y="32"
+        x="48"
+        y="224"
         width="609"
         height="145"/>
     <children
@@ -221,7 +211,7 @@
         id="id-5651a87c40e24f8cb5ae85d5aad998d7"
         targetConnections="id-c860fa0bbbbd4bb18dd1f8745d02bd38 id-11e39fe7e5ea4309be1d96bd400078d3"
         lineColor="#000000"
-        fillColor="#eefaed"
+        fillColor="#caf4c4"
         textPosition="1"
         type="1">
       <bounds
@@ -242,8 +232,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="32"
-        y="536"
+        x="48"
+        y="728"
         width="609"
         height="249"/>
     <children

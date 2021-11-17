@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="verzoek"
+    name="productaanvraag"
     id="id-df8cd9b1-70bc-11e4-67ab-0050568a6153"
     documentation="een vraag of aanvraag voor een product/dienst door een klant">
   <properties

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kanaalspecifieke aanvraagcomponent (abstract component)"
+    name="Kanaalspecifieke aanvraagcomponent (abstracte component)"
     id="id-a85e06075b8e4fd38b55a791e2ac2624"
     documentation="De kanaalspecifieke aanvraagcomponent ondersteunt het aanvragen van producten of diensten bij de gemeente via één of meerdere specifeke kanalen. De kanaalspecifieke aanvraagcomponent is een abstract component. Dat betekent dat verschillende concrete componenten (zoals een E-formulieren publicatie-en-beheercomponent) de functies die horen bij het Kanaalspecifiek aanvraagcomponent kunnen vervullen.">
   <properties
