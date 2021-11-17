@@ -117,7 +117,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cbf7f7e99fe4411891b67b320a2fef4d"
-      targetConnections="id-ee7d18bcc8434be8add410835b17dedd id-95a70d076f964d978c48179e644f95cd id-a1e89f60881f412da9f800208aef8a43 id-383020feb4504f12ac2aba09a9843fcf id-d34fd4729713417b9c8a62c0b9258b6e"
+      targetConnections="id-ee7d18bcc8434be8add410835b17dedd id-95a70d076f964d978c48179e644f95cd id-383020feb4504f12ac2aba09a9843fcf id-d34fd4729713417b9c8a62c0b9258b6e id-a1e89f60881f412da9f800208aef8a43"
       lineColor="#4f4f4f"
       fillColor="#fefeb4"
       textPosition="1">
