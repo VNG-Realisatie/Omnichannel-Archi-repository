@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="klantcontact"
+    name="contactmoment"
     id="id-71c50a65-70f3-11e4-67ab-0050568a6153"
     documentation="een contactmoment met een klant dat relevant is voor de dienstverlening">
   <properties
