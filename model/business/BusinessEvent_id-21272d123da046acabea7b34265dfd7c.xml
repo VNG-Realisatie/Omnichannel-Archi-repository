@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvraag ontvangen"
-    id="id-21272d123da046acabea7b34265dfd7c"/>
+    id="id-21272d123da046acabea7b34265dfd7c">
+  <properties
+      key="Object ID"
+      value="dc5ed365-12da-4926-bde5-74d7932ca685"/>
+</archimate:BusinessEvent>

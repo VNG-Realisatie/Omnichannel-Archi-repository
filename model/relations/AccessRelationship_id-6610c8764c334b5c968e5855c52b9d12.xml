@@ -3,10 +3,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-6610c8764c334b5c968e5855c52b9d12"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="926e7cd1-8e3b-4786-96d2-08c82168dd28"/>
   <source
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_id-b7a27a022d5f4f3b9acde4e9305adca9.xml#id-b7a27a022d5f4f3b9acde4e9305adca9"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-8c3dbdabdcd7434dac85c0d8c16b71dc.xml#id-8c3dbdabdcd7434dac85c0d8c16b71dc"/>
+      href="DataObject_id-f79be94f4a37490bb8a21b16cff74d3b.xml#id-f79be94f4a37490bb8a21b16cff74d3b"/>
 </archimate:AccessRelationship>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA02 - CRM - Medewerker authentiseren en autoriseren zonder klantgegeven en -toestemmingen"
+    name="IA03 - Medewerker authentiseren en autoriseren zonder klantgegeven en -toestemmingen"
     id="id-dc905b0eaff347fd8af2d356d49040a4">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -11,10 +11,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="488"
-        y="1256"
-        width="600"
-        height="265"/>
+        x="32"
+        y="544"
+        width="601"
+        height="249"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aed34361ef8f41548c8636255e142a53"
@@ -69,7 +69,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="48"
+          y="40"
           width="561"
           height="81"/>
       <archimateElement
@@ -83,12 +83,12 @@
         textPosition="1">
       <bounds
           x="24"
-          y="158"
+          y="152"
           width="129"
           height="83"/>
       <archimateElement
           xsi:type="archimate:DataObject"
-          href="DataObject_id-8c3dbdabdcd7434dac85c0d8c16b71dc.xml#id-8c3dbdabdcd7434dac85c0d8c16b71dc"/>
+          href="DataObject_id-f79be94f4a37490bb8a21b16cff74d3b.xml#id-f79be94f4a37490bb8a21b16cff74d3b"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -97,7 +97,7 @@
         textPosition="1">
       <bounds
           x="312"
-          y="160"
+          y="154"
           width="129"
           height="81"/>
       <archimateElement
@@ -111,7 +111,7 @@
         textPosition="1">
       <bounds
           x="456"
-          y="160"
+          y="154"
           width="129"
           height="81"/>
       <archimateElement
@@ -125,7 +125,7 @@
         textPosition="1">
       <bounds
           x="168"
-          y="160"
+          y="154"
           width="129"
           height="81"/>
       <archimateElement
@@ -141,10 +141,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="488"
-        y="1112"
-        width="600"
-        height="136"/>
+        x="32"
+        y="400"
+        width="601"
+        height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ff01ce3b6b6c495992a17d4ac8e3f575"
@@ -180,10 +180,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="490"
-        y="1032"
-        width="600"
-        height="74"/>
+        x="32"
+        y="320"
+        width="601"
+        height="73"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -193,10 +193,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="488"
-        y="896"
-        width="600"
-        height="128"/>
+        x="32"
+        y="176"
+        width="601"
+        height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b00c207e96b449ffa8557a0129788120"
@@ -213,7 +213,7 @@
       </sourceConnections>
       <bounds
           x="16"
-          y="32"
+          y="40"
           width="569"
           height="81"/>
       <archimateElement
@@ -229,10 +229,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="488"
-        y="752"
-        width="600"
-        height="136"/>
+        x="32"
+        y="32"
+        width="601"
+        height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-04103202f190427d86ab27d10b227a19"
@@ -253,5 +253,5 @@
   </children>
   <properties
       key="Object ID"
-      value="9bfddd6e-eeb0-477a-8bc4-fa6d76c39f85"/>
+      value="af61cb90-4be3-4fad-bb3f-92834e516d08"/>
 </archimate:ArchimateDiagramModel>

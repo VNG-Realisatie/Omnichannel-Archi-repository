@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Handelsregister"
-    id="id-1e0fddc379b04310b28b41380d5175f9"/>
+    id="id-1e0fddc379b04310b28b41380d5175f9">
+  <properties
+      key="Object ID"
+      value="93617c79-c38b-4732-8196-318de1843819"/>
+</archimate:ApplicationComponent>

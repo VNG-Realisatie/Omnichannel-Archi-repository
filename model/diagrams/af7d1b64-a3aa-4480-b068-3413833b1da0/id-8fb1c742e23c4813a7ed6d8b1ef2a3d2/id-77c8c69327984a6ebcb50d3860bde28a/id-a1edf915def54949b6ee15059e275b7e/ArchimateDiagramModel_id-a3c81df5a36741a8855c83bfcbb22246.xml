@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA03a - Contactmomenten tonen"
+    name="IA06 - Contactmomenten tonen"
     id="id-a3c81df5a36741a8855c83bfcbb22246">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -11,10 +11,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1656"
-        y="920"
+        x="32"
+        y="544"
         width="449"
-        height="265"/>
+        height="249"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9b24097bbab446918946a0f0f1d08a41"
@@ -43,7 +43,7 @@
       </sourceConnections>
       <bounds
           x="16"
-          y="48"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement
@@ -57,7 +57,7 @@
         textPosition="1">
       <bounds
           x="160"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -71,7 +71,7 @@
         textPosition="1">
       <bounds
           x="16"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -85,7 +85,7 @@
         textPosition="1">
       <bounds
           x="304"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -117,7 +117,7 @@
       </sourceConnections>
       <bounds
           x="304"
-          y="48"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement
@@ -152,7 +152,7 @@
       </sourceConnections>
       <bounds
           x="160"
-          y="48"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement
@@ -168,8 +168,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1656"
-        y="768"
+        x="32"
+        y="400"
         width="449"
         height="137"/>
     <children
@@ -254,8 +254,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1656"
-        y="680"
+        x="32"
+        y="320"
         width="449"
         height="73"/>
   </children>
@@ -267,8 +267,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1656"
-        y="528"
+        x="32"
+        y="176"
         width="449"
         height="137"/>
     <children
@@ -294,22 +294,21 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1656"
-        y="376"
+        x="32"
+        y="32"
         width="449"
         height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4572f4f3586f4049bdbc090ad199f22f"
-        font="1|Arial|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
         lineColor="#000000"
-        fillColor="#eefaed"
+        fillColor="#caf4c4"
         textPosition="1"
         type="1">
       <bounds
           x="16"
           y="40"
-          width="419"
+          width="417"
           height="81"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -318,5 +317,5 @@
   </children>
   <properties
       key="Object ID"
-      value="03a57071-4765-4db0-8eb8-e36623bfc137"/>
+      value="5171377c-952e-4eeb-8de1-814cd456aeb3"/>
 </archimate:ArchimateDiagramModel>

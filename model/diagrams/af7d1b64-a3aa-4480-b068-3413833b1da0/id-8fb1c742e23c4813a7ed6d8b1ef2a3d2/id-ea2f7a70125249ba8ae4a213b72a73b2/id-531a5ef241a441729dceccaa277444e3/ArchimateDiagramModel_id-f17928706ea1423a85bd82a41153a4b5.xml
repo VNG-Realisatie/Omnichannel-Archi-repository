@@ -10,10 +10,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="24"
+        x="32"
+        y="32"
         width="433"
-        height="61"/>
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-30af7ea15749462ab8c265dfb8581c21.xml#id-30af7ea15749462ab8c265dfb8581c21"/>
@@ -25,10 +25,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="96"
+        x="32"
+        y="104"
         width="433"
-        height="61"/>
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-9c8089a7b38d4651894505dfcb874682.xml#id-9c8089a7b38d4651894505dfcb874682"/>
@@ -40,10 +40,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="168"
+        x="32"
+        y="176"
         width="433"
-        height="61"/>
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-3d5b8e7bc780452db38e6e755b50ffb6.xml#id-3d5b8e7bc780452db38e6e755b50ffb6"/>
@@ -55,10 +55,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="240"
+        x="32"
+        y="248"
         width="433"
-        height="61"/>
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-04643d0c40f542d8b8f9b85cfb6c5eef.xml#id-04643d0c40f542d8b8f9b85cfb6c5eef"/>
@@ -70,10 +70,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="312"
+        x="32"
+        y="320"
         width="433"
-        height="61"/>
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-a398a228f843455687c45aec336de830.xml#id-a398a228f843455687c45aec336de830"/>
@@ -85,10 +85,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="384"
+        x="32"
+        y="392"
         width="433"
-        height="61"/>
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-e7e8d39c3350459eb85aaa7df21fa02b.xml#id-e7e8d39c3350459eb85aaa7df21fa02b"/>

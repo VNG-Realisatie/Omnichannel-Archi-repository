@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overheidsorganisatie"
-    id="id-c61723c78c0147f78c8266420ceef5cf"/>
+    id="id-c61723c78c0147f78c8266420ceef5cf">
+  <properties
+      key="Object ID"
+      value="b01490e3-6ca5-47b8-bbfe-060cd0c867a0"/>
+</archimate:BusinessActor>

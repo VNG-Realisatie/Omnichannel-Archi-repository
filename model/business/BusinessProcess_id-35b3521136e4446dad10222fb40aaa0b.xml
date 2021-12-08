@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verstrekken PDS-informatie"
-    id="id-35b3521136e4446dad10222fb40aaa0b"/>
+    id="id-35b3521136e4446dad10222fb40aaa0b">
+  <properties
+      key="Object ID"
+      value="ee4ae822-0833-41d4-a79b-8172cbad3d8b"/>
+</archimate:BusinessProcess>

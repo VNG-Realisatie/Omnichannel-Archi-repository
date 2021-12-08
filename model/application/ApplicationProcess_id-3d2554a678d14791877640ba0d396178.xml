@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Vertegenwoordiger van) bedrijf of instelling authenticeren en machtiging toetsen"
-    id="id-3d2554a678d14791877640ba0d396178"/>
+    id="id-3d2554a678d14791877640ba0d396178">
+  <properties
+      key="Object ID"
+      value="562d9bce-d64d-4a55-b720-863d3a33b1b1"/>
+</archimate:ApplicationProcess>

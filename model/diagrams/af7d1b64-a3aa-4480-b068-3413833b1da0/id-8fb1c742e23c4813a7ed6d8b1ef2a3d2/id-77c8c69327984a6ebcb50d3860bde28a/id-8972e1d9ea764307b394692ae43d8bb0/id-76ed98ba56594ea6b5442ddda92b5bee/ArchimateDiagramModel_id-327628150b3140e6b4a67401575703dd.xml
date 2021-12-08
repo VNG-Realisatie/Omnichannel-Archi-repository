@@ -345,7 +345,7 @@
         height="81"/>
     <archimateElement
         xsi:type="archimate:DataObject"
-        href="DataObject_id-8c3dbdabdcd7434dac85c0d8c16b71dc.xml#id-8c3dbdabdcd7434dac85c0d8c16b71dc"/>
+        href="DataObject_id-f79be94f4a37490bb8a21b16cff74d3b.xml#id-f79be94f4a37490bb8a21b16cff74d3b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -828,4 +828,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-dfabd361-70bc-11e4-67ab-0050568a6153.xml#id-dfabd361-70bc-11e4-67ab-0050568a6153"/>
   </children>
+  <properties
+      key="Object ID"
+      value="3e8687b1-95c1-47c6-9948-020e5ef09898"/>
 </archimate:ArchimateDiagramModel>

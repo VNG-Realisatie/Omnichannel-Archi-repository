@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Basisgegevens ophalen"
-    id="id-aacae83bf386440aa7ca7b2eb647c07b"/>
+    id="id-aacae83bf386440aa7ca7b2eb647c07b">
+  <properties
+      key="Object ID"
+      value="bea89f38-4627-4a6c-b5b6-3e2ecec40949"/>
+</archimate:ApplicationProcess>

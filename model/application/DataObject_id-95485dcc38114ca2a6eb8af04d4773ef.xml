@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="afdelingen"
-    id="id-95485dcc38114ca2a6eb8af04d4773ef"/>
+    id="id-95485dcc38114ca2a6eb8af04d4773ef">
+  <properties
+      key="Object ID"
+      value="f7258184-ebf1-485e-a867-336fd675371f"/>
+</archimate:DataObject>

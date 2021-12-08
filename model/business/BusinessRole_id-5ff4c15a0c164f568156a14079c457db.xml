@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KCC-medewerker"
-    id="id-5ff4c15a0c164f568156a14079c457db"/>
+    id="id-5ff4c15a0c164f568156a14079c457db">
+  <properties
+      key="Object ID"
+      value="14dfab45-f0d5-49ec-a800-30aef1ca17c7"/>
+</archimate:BusinessRole>

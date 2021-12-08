@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informering"
-    id="id-795fb3ddb3ef4db98d6e88ec6710b6a7"/>
+    id="id-795fb3ddb3ef4db98d6e88ec6710b6a7">
+  <properties
+      key="Object ID"
+      value="3d321ad9-d3a3-4707-89ed-f73edf3c64ff"/>
+</archimate:BusinessService>

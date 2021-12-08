@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DigiD Machtigen"
-    id="id-a5562bd3cba8420da3e99d99449e1b90"/>
+    id="id-a5562bd3cba8420da3e99d99449e1b90">
+  <properties
+      key="Object ID"
+      value="6517d84f-b9e6-4776-8bf5-d3a9e99a410a"/>
+</archimate:ApplicationService>

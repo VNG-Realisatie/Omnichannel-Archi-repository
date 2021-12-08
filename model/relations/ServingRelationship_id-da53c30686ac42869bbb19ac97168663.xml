@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pull"
     id="id-da53c30686ac42869bbb19ac97168663">
+  <properties
+      key="Object ID"
+      value="160bc3d6-95db-4e10-b6da-c37538bff72f"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-ebb68974d7164fd189c1c7f2d25ce21e.xml#id-ebb68974d7164fd189c1c7f2d25ce21e"/>

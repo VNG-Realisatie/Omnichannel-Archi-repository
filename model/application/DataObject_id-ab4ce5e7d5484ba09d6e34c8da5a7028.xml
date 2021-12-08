@@ -1,8 +1,12 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="statussen"
-    id="id-ab4ce5e7d5484ba09d6e34c8da5a7028">
+    id="id-ab4ce5e7d5484ba09d6e34c8da5a7028"
+    documentation="&#xA;">
   <properties
       key="Object ID"
       value="a9918ee4-8fe2-4a7f-b7ec-e50ff729426d"/>
+  <properties
+      key="Object ID"
+      value="de83d9c9-ccc8-4a6a-a92d-95abf0d9479b"/>
 </archimate:DataObject>

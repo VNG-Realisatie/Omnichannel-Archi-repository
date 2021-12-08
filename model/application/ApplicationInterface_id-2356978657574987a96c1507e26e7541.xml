@@ -1,9 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Notificaties API (ontvangen)"
-    id="id-2356978657574987a96c1507e26e7541"
-    documentation="De Notificaties API beschrijft hoe geabonneerde informatiesystemen notificaties kunnen ontvangen.">
-  <properties
-      key="Object ID"
-      value="a9f4738a-ce95-4ce3-96ca-d2ddbed58485"/>
-</archimate:ApplicationInterface>

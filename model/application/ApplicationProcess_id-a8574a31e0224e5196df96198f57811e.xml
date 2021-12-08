@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zaakgegevens tonen (copy)"
-    id="id-a8574a31e0224e5196df96198f57811e"
-    documentation="Op basis van een relatie met productaanvragen via het gegevensobject zaakverzoeken in het Zakenregister worden de zaak- en statusgegevens van de za(a)k(en) die naar aanleiding van de ingediende productaanvraag zijn gestart opgehaald en getoond. Op basis van de relatie van statussen naar statustypen in de Zaaktypecataloguscomponent worden op basis van het gegevensobject statustypen aanvullende gegevens over statussen (zoals de omschrijving daarvan) opgehaald en getoond.">
-  <properties
-      key="Object ID"
-      value="faa9cc55-1a0f-439d-8931-6b036699e63e"/>
-</archimate:ApplicationProcess>

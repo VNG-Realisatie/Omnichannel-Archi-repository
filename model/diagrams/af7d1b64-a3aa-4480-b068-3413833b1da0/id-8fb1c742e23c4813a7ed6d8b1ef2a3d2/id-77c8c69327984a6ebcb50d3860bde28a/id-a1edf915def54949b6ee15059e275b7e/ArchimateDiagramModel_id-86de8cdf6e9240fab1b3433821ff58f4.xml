@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA03 - Generiek - Status aanvragen en zaken tonen"
+    name="IA07 - Generiek - Status aanvragen en zaken tonen"
     id="id-86de8cdf6e9240fab1b3433821ff58f4">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -11,10 +11,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="368"
-        y="920"
+        x="32"
+        y="664"
         width="1305"
-        height="265"/>
+        height="249"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-50bcb2fee36341a0a3590cd92d0d7c3a"
@@ -24,7 +24,7 @@
         textPosition="1">
       <bounds
           x="1160"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -40,7 +40,7 @@
         textPosition="1">
       <bounds
           x="872"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -56,7 +56,7 @@
         textPosition="1">
       <bounds
           x="1016"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -72,7 +72,7 @@
         textPosition="1">
       <bounds
           x="584"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -108,7 +108,7 @@
       </sourceConnections>
       <bounds
           x="584"
-          y="48"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement
@@ -144,7 +144,7 @@
       </sourceConnections>
       <bounds
           x="1160"
-          y="48"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement
@@ -160,7 +160,7 @@
         textPosition="1">
       <bounds
           x="728"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -174,7 +174,7 @@
         textPosition="1">
       <bounds
           x="440"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -190,7 +190,7 @@
         textPosition="1">
       <bounds
           x="296"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -245,7 +245,7 @@
       </sourceConnections>
       <bounds
           x="152"
-          y="48"
+          y="40"
           width="417"
           height="81"/>
       <archimateElement
@@ -301,7 +301,7 @@
       </sourceConnections>
       <bounds
           x="728"
-          y="48"
+          y="40"
           width="417"
           height="81"/>
       <archimateElement
@@ -317,7 +317,7 @@
         textPosition="1">
       <bounds
           x="152"
-          y="160"
+          y="152"
           width="129"
           height="81"/>
       <archimateElement
@@ -333,8 +333,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="368"
-        y="768"
+        x="32"
+        y="520"
         width="1305"
         height="137"/>
     <children
@@ -450,8 +450,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="368"
-        y="680"
+        x="32"
+        y="440"
         width="1305"
         height="73"/>
   </children>
@@ -463,8 +463,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="368"
-        y="408"
+        x="32"
+        y="176"
         width="1305"
         height="257"/>
     <children
@@ -585,8 +585,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="368"
-        y="256"
+        x="32"
+        y="32"
         width="1305"
         height="137"/>
     <children
@@ -609,5 +609,5 @@
   </children>
   <properties
       key="Object ID"
-      value="03a57071-4765-4db0-8eb8-e36623bfc137"/>
+      value="0079eaed-c5a5-4649-91da-31f25b0dc9ef"/>
 </archimate:ArchimateDiagramModel>

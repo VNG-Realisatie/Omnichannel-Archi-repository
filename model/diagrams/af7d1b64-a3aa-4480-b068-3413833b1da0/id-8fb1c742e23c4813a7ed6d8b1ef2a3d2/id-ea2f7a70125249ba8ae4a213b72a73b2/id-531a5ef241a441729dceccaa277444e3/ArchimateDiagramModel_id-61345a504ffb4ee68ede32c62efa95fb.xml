@@ -10,10 +10,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="48"
-        width="493"
-        height="61"/>
+        x="32"
+        y="32"
+        width="497"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-05eca79e9c92462eb267d8b2bbb9d16b.xml#id-05eca79e9c92462eb267d8b2bbb9d16b"/>
@@ -25,10 +25,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="120"
-        width="493"
-        height="61"/>
+        x="32"
+        y="104"
+        width="497"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-4a088e6bc8cf4114a8aed642ae7f4135.xml#id-4a088e6bc8cf4114a8aed642ae7f4135"/>
@@ -40,10 +40,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="192"
-        width="493"
-        height="61"/>
+        x="32"
+        y="176"
+        width="497"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-d1eeeeb6a5f843fda65f21e7383f3cb7.xml#id-d1eeeeb6a5f843fda65f21e7383f3cb7"/>
@@ -55,10 +55,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="264"
-        width="493"
-        height="61"/>
+        x="32"
+        y="248"
+        width="497"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-350c0a60a48c40a58a573d48c98c97a2.xml#id-350c0a60a48c40a58a573d48c98c97a2"/>
@@ -70,10 +70,10 @@
       fillColor="#cab5ea"
       textPosition="1">
     <bounds
-        x="48"
-        y="336"
-        width="493"
-        height="61"/>
+        x="32"
+        y="320"
+        width="497"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-0efe5ed75f834c5f977aefa168dd0e7c.xml#id-0efe5ed75f834c5f977aefa168dd0e7c"/>

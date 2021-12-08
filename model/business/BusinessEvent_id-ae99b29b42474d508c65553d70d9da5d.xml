@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Status gewijzigd"
-    id="id-ae99b29b42474d508c65553d70d9da5d"/>
+    id="id-ae99b29b42474d508c65553d70d9da5d">
+  <properties
+      key="Object ID"
+      value="c15ccc80-435c-482e-a4e7-fd9f50216bba"/>
+</archimate:BusinessEvent>

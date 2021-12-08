@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA01 - MO - Bedrijven authentiseren en machtigingen zonder klantgegevens"
+    name="IA02 - Bedrijven authentiseren en machtigingen zonder klantgegevens"
     id="id-42d9af1dc8494e479d1a2ca945ec524a">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -11,10 +11,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="64"
-        y="592"
+        x="32"
+        y="400"
         width="305"
-        height="129"/>
+        height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-02356b0000e64b6982a9aca8226e9dfc"
@@ -33,7 +33,7 @@
       </sourceConnections>
       <bounds
           x="16"
-          y="32"
+          y="40"
           width="273"
           height="81"/>
       <archimateElement
@@ -49,8 +49,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="64"
-        y="512"
+        x="32"
+        y="320"
         width="305"
         height="73"/>
   </children>
@@ -62,10 +62,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="64"
-        y="376"
+        x="32"
+        y="176"
         width="305"
-        height="129"/>
+        height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f29c02695d4940819cf8079749f472e4"
@@ -85,7 +85,7 @@
       </sourceConnections>
       <bounds
           x="16"
-          y="32"
+          y="40"
           width="273"
           height="81"/>
       <archimateElement
@@ -101,10 +101,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="64"
-        y="224"
+        x="32"
+        y="32"
         width="305"
-        height="145"/>
+        height="137"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b1a275533f5c4bc7850f6dda82028af4"
@@ -131,12 +131,12 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="64"
-        y="728"
+        x="32"
+        y="544"
         width="305"
         height="249"/>
   </children>
   <properties
       key="Object ID"
-      value="8cf4f632-e685-4c69-870e-7e0bd34523d5"/>
+      value="c201d7ac-28ea-4416-b7be-ef9a654e6271"/>
 </archimate:ArchimateDiagramModel>
