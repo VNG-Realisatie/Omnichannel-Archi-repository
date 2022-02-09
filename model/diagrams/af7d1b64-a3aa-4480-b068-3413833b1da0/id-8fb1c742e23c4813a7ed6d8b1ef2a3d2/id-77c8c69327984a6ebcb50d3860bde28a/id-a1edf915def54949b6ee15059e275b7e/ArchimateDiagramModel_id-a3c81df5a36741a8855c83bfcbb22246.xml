@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IA06 - Contactmomenten tonen"
+    name="IA06 - Contactmomenten tonen (niet in referentiearchitectuur)"
     id="id-a3c81df5a36741a8855c83bfcbb22246">
   <children
       xsi:type="archimate:DiagramModelGroup"
