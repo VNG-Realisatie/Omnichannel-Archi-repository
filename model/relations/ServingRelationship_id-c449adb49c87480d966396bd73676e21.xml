@@ -1,13 +1,10 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-2588d1cb5a224972ae602242ac2d219c">
-  <properties
-      key="Object ID"
-      value="227af347-b881-4f24-865a-181165e875c2"/>
+    id="id-c449adb49c87480d966396bd73676e21">
   <source
       xsi:type="archimate:ApplicationProcess"
-      href="ApplicationProcess_id-b7a27a022d5f4f3b9acde4e9305adca9.xml#id-b7a27a022d5f4f3b9acde4e9305adca9"/>
+      href="ApplicationProcess_id-544343121c804839bf6f967ee7e1e413.xml#id-544343121c804839bf6f967ee7e1e413"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-5daf0b4a2c3d401a99e22c95a511f435.xml#id-5daf0b4a2c3d401a99e22c95a511f435"/>
