@@ -3,7 +3,7 @@
     name="Projectmodel Referentiearchitectuur Omnichannel"
     id="id-c9af3c15abf340de8b8bf7cfe3f872e6"
     purpose="Dit model bevat de projectarchitectuur van de referentiearchitectuur Omnichannel."
-    version="4.6.0">
+    version="4.9.0">
   <properties
       key="Publiceren"
       value="Softwarecatalogus en GEMMA Online en redactie"/>
