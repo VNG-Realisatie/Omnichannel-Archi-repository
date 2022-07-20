@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BA05 - Proces aanvraag tot levering - eenvoudig"
+    name="BA05 - Proces aanvraag tot levering - ketenpartner"
     id="id-944df4946af84b9e9c4f87bdf105fbc4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -38,8 +38,8 @@
           href="AssignmentRelationship_id-b81d6f4b93d341308194a567942d11da.xml#id-b81d6f4b93d341308194a567942d11da"/>
     </sourceConnections>
     <bounds
-        x="200"
-        y="504"
+        x="192"
+        y="168"
         width="1297"
         height="281"/>
     <children
@@ -419,8 +419,8 @@
           href="AssignmentRelationship_id-b9c2873908854d21b8f4a06dce8d578d.xml#id-b9c2873908854d21b8f4a06dce8d578d"/>
     </sourceConnections>
     <bounds
-        x="200"
-        y="368"
+        x="192"
+        y="32"
         width="1297"
         height="129"/>
     <children
@@ -560,8 +560,8 @@
           href="AssignmentRelationship_id-b81d6f4b93d341308194a567942d11da.xml#id-b81d6f4b93d341308194a567942d11da"/>
     </sourceConnections>
     <bounds
-        x="200"
-        y="928"
+        x="192"
+        y="592"
         width="1297"
         height="281"/>
     <children
@@ -941,8 +941,8 @@
           href="AssignmentRelationship_id-c23d9feb7c06410b8904a812f2c131fb.xml#id-c23d9feb7c06410b8904a812f2c131fb"/>
     </sourceConnections>
     <bounds
-        x="200"
-        y="792"
+        x="192"
+        y="456"
         width="1297"
         height="129"/>
     <children
@@ -1136,8 +1136,8 @@
           href="AssignmentRelationship_id-a930b025bc254f42bae18bb2935132f9.xml#id-a930b025bc254f42bae18bb2935132f9"/>
     </sourceConnections>
     <bounds
-        x="40"
-        y="368"
+        x="32"
+        y="32"
         width="129"
         height="129"/>
     <archimateElement
@@ -1171,8 +1171,8 @@
           href="AssignmentRelationship_id-61ea70db83184463b50a2325609dd1d7.xml#id-61ea70db83184463b50a2325609dd1d7"/>
     </sourceConnections>
     <bounds
-        x="40"
-        y="504"
+        x="32"
+        y="168"
         width="129"
         height="417"/>
     <archimateElement
@@ -1196,8 +1196,8 @@
           href="AssignmentRelationship_id-61ea70db83184463b50a2325609dd1d7.xml#id-61ea70db83184463b50a2325609dd1d7"/>
     </sourceConnections>
     <bounds
-        x="40"
-        y="928"
+        x="32"
+        y="592"
         width="129"
         height="281"/>
     <archimateElement
