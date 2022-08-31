@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IAC01 - Referentiecomponenten en diensten PDS"
+    name="IAC01 - Referentiecomponenten en diensten MijnZaken"
     id="id-b09fbc8bf686454892ed4d999fe89f49">
   <children
       xsi:type="archimate:DiagramModelGroup"
