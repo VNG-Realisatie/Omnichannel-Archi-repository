@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Besluitenregister"
+    name="Besluitregistratiecomponent"
     id="id-a72f9976-7a6a-4b0e-a7e7-d02f03cbeab0">
   <properties
       key="Object ID"

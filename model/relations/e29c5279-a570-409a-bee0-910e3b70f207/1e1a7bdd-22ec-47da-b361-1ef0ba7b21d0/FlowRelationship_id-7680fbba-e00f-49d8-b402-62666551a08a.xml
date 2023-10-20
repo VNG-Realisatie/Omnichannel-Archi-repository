@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3c. notificeren over zaak"
     id="id-7680fbba-e00f-49d8-b402-62666551a08a"
     documentation="De notificatierouteringscomponent notificeert een Outputmanagementcomponent van bepaalde wijzigingen, obv een abonnementen op notificaties per zaaktype. Deze kan vervolgens ene berichtgenereren en versturen via een in te stellen kanaal (e-mail, post, SMS,..).">
   <properties

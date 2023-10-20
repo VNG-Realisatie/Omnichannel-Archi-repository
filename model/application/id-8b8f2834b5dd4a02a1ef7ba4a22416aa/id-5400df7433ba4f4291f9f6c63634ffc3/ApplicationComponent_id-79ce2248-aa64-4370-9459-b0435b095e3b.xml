@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klantenregister"
+    name="Klantregistratiecomponent"
     id="id-79ce2248-aa64-4370-9459-b0435b095e3b">
   <properties
       key="Object ID"

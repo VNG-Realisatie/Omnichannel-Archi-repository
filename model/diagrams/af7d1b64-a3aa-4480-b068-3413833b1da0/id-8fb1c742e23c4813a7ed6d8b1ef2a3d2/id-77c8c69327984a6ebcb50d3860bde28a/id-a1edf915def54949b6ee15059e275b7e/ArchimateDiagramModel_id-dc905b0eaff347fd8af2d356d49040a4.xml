@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IA03 - Medewerker authentiseren en autoriseren zonder klantgegeven en -toestemmingen"
-    id="id-dc905b0eaff347fd8af2d356d49040a4">
+    id="id-dc905b0eaff347fd8af2d356d49040a4"
+    documentation="Een persoon die in dienst is van een overheidsorganisatie en daar werkzaamheden verricht">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-a1073295108042d3905f352d74c540cf"
@@ -20,8 +21,7 @@
         id="id-aed34361ef8f41548c8636255e142a53"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-dc11194bcc1642d4a3b0494f5c5957b4"
@@ -80,7 +80,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e5b870d558674aa6929ab251f5c504ee"
         targetConnections="id-dc11194bcc1642d4a3b0494f5c5957b4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="24"
           y="152"
@@ -94,7 +95,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ec2c2d6512ba4332afb98498004e0f4a"
         targetConnections="id-4601cb57c7ce4850b8353652194bbca5"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="312"
           y="154"
@@ -108,7 +110,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-03bd7ea81d5f42979017c30de3bad195"
         targetConnections="id-7cf2593acf584d80b23db6e8c0e3a2ba"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="456"
           y="154"
@@ -122,7 +125,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4700d3afd77841cb8084aaa576a397ca"
         targetConnections="id-01d4579c410e49839e9ed46d34ab7f74"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="168"
           y="154"
@@ -239,8 +243,7 @@
         targetConnections="id-d53ef6ff4c8a44be9cb20089188b73d0"
         lineColor="#000000"
         fillColor="#caf4c4"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <bounds
           x="16"
           y="40"

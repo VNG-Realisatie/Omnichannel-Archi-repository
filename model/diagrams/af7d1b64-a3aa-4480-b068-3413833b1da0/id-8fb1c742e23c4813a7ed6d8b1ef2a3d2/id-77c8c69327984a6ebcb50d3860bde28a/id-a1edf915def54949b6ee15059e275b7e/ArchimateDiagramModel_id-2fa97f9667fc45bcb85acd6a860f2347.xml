@@ -21,7 +21,8 @@
         targetConnections="id-189e79fb3a2b4e989f73fa9cc81c93f5"
         lineColor="#4f4f4f"
         fillColor="#92cddc"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="160"
           y="152"
@@ -37,7 +38,8 @@
         targetConnections="id-2aca709898e443a481554bb3be235a0e"
         lineColor="#4f4f4f"
         fillColor="#92cddc"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="16"
           y="152"
@@ -52,8 +54,7 @@
         id="id-2cc46244be6d417ab8edc4d259e608b8"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5527d3c0da41457bad3d4c014124b0c3"
@@ -88,8 +89,7 @@
         id="id-a02335648248436fb78ba543cd9544bf"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2aca709898e443a481554bb3be235a0e"
@@ -124,8 +124,7 @@
         id="id-f1d3e40f6aab44c48bc5020bf5334836"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-97a15c7fb417465780a6c8d99625444b"
@@ -161,7 +160,8 @@
         targetConnections="id-97a15c7fb417465780a6c8d99625444b"
         lineColor="#4f4f4f"
         fillColor="#92cddc"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="304"
           y="152"
@@ -363,8 +363,7 @@
         targetConnections="id-57e75cef6f874b94a027c5293b2017ed id-7e0cc725bab24ec695b6dceb6b0e830b"
         lineColor="#000000"
         fillColor="#caf4c4"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <bounds
           x="16"
           y="40"

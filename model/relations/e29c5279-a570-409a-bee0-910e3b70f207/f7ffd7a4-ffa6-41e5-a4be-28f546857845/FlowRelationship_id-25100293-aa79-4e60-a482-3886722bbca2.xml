@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Notificatie nieuw of gewijzigd document"
     id="id-25100293-aa79-4e60-a482-3886722bbca2"
     documentation="De Documentregistratiecomponent stuurt bij bepaalde wijzigingen (bv. een nieuw document toegevoegd aan een zaak) een notificatie naar de Notificatierouteringscomponent.">
   <properties

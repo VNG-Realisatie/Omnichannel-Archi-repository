@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantgegevens en contactvoorkeuren"
+    id="id-95b08032ab154789ba1f312a10cca3ec">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-82a62d24e17e418b8733d1d84bfb8453.xml#id-82a62d24e17e418b8733d1d84bfb8453"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-76b1f98b4b6649f5b0273a1ee32bb0c8.xml#id-76b1f98b4b6649f5b0273a1ee32bb0c8"/>
+</archimate:FlowRelationship>
