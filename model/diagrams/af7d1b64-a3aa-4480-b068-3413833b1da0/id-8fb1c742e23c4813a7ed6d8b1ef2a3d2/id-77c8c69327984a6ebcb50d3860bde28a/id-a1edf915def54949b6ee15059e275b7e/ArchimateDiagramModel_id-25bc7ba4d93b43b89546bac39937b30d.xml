@@ -20,8 +20,7 @@
         id="id-4befde5e8c2a401fa38531739a2eb708"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-034b4d6849e1404ca3a178c0bf70a215"
@@ -57,7 +56,8 @@
         targetConnections="id-034b4d6849e1404ca3a178c0bf70a215"
         lineColor="#4f4f4f"
         fillColor="#92cddc"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="16"
           y="152"
@@ -173,8 +173,7 @@
         targetConnections="id-262d69378a724e17a926c55b9e1a539d"
         lineColor="#000000"
         fillColor="#caf4c4"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <bounds
           x="16"
           y="40"

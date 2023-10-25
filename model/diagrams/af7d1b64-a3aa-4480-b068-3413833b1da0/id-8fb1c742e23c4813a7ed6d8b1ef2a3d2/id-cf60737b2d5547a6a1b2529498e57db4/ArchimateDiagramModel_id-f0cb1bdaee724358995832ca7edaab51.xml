@@ -20,7 +20,8 @@
         id="id-cfd5affa68d04adfa17d312a7f598637"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="24"
           y="36"
@@ -35,7 +36,8 @@
         id="id-f1f509210ecb47429325a4accc047597"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="156"
           y="36"
@@ -50,7 +52,8 @@
         id="id-eb3b0b1230dd4155b45b698c473ee43b"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="288"
           y="36"
@@ -65,7 +68,8 @@
         id="id-83f7a04e9fcb44cd89bf7d107ed36fdc"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="421"
           y="36"
@@ -80,7 +84,8 @@
         id="id-c6addaeb5efb4d09a1ea2e63a1efde45"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="552"
           y="36"
@@ -95,7 +100,8 @@
         id="id-3e0925925df941d483181ed471fc83fc"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="684"
           y="36"

@@ -20,8 +20,7 @@
         id="id-9b24097bbab446918946a0f0f1d08a41"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c7f0706b37a642bead634996c5c1edf2"
@@ -54,7 +53,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d5e993da17f44f83a01c5b2961c5c88b"
         targetConnections="id-a7b039731e87498780df93a489e648de"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="160"
           y="152"
@@ -68,7 +68,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0fc1b4e9f8274bbb984b11b25a0f6447"
         targetConnections="id-c7f0706b37a642bead634996c5c1edf2"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="16"
           y="152"
@@ -82,7 +83,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3447e1ed2dbb4b1cbf7dabd86d59cf37"
         targetConnections="id-d0a3882fc7184afe8cb61a9489257c81"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="304"
           y="152"
@@ -95,8 +97,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dae98f8288f8450c803c32dcdd30fe1a"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5daaa42b11734252a1d0fc782d833c75"
@@ -129,8 +130,7 @@
         id="id-2da01bb25f0f48c0a5f4c17a6b1412d6"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1704a9aaead34bb7a301d1510376799e"
@@ -303,8 +303,7 @@
         id="id-4572f4f3586f4049bdbc090ad199f22f"
         lineColor="#000000"
         fillColor="#caf4c4"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <bounds
           x="16"
           y="40"
