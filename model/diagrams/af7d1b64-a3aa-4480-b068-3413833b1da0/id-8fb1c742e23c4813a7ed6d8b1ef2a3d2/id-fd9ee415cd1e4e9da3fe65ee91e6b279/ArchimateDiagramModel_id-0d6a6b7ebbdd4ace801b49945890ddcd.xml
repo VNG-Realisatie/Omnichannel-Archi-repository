@@ -361,7 +361,8 @@
         targetConnections="id-2a1be75404094f7a9d8a076e3e3ec552 id-95c66dcfaf564fbf9efcfc8db53f804a id-f5453d9b88dd4dccb889acd2ff1c5347"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="184"
           y="368"

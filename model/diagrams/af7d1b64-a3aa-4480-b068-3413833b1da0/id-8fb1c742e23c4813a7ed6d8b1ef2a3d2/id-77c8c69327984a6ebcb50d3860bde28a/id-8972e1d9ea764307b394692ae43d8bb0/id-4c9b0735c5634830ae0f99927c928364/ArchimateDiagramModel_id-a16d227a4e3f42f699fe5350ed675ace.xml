@@ -125,7 +125,8 @@
         targetConnections="id-1af6779e439d47c78b16f7743db0e346 id-757df1d92e1549d5bd628420d223bda6"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="344"
           y="360"

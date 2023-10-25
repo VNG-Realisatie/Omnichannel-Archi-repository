@@ -21,8 +21,7 @@
         targetConnections="id-10743ba749d043cea425ef938be55ce4 id-6cd9a1582aff48928efa87ee67d60c06 id-719a3adc330a43459f2a3d21729b96a3 id-15a64a44bf8940efa336856af2bd9a5f"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-75c0039de7b845e3a1eb6e306c77961b"
@@ -47,8 +46,7 @@
         id="id-56984f44cb464f1995483aa1400931e4"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-b88e0442aa3843159fa4eef40dd9b5ad"
@@ -151,8 +149,7 @@
         id="id-39d9ca5b350348d98ba47519504f50de"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-81adc38312604051b89a78d8f4c6ae0a"
@@ -177,8 +174,7 @@
         id="id-1aaa9ae6ef1c44ba90aa7063edf1c4de"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-dd6b7b603b08456b8199a8a615a71b72"
@@ -229,8 +225,7 @@
         id="id-ff7e8d696a52428e8f4a30237e86b9db"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4eeb5d76caf34a54b580477f00fa6036"
@@ -320,8 +315,7 @@
         id="id-688d37851d8048f8b8ff0716eb119d65"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0e7f187456414bdab4cb07b6e8ce2981"
@@ -346,8 +340,7 @@
         id="id-a800c98138074a29a3b35d2181e3b02d"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f1b40f0d7d6c41e38744060d6333585b"
@@ -372,8 +365,7 @@
         id="id-09208e46636d47329d207ababb68680c"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-3aa45bc7f6df4ea89c660fed9cd07c75"
@@ -398,8 +390,7 @@
         id="id-7cba0a909def47b18d4560481292ed99"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-11802fac3f694db1b582dd89a4f00332"
@@ -503,8 +494,7 @@
         targetConnections="id-817f10a25b564040a8601601c36fccc6 id-aad194128cb3440ab79b4bc07630f699 id-8101ce01e85642e9a34cbb7d7fdd69f7 id-bb72bccfc8dc4df983a516ec3553f9da"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5c2b5fd09f374e388e3870e3fb767829"
@@ -594,8 +584,7 @@
         id="id-a8d9dfcf1554475480d354edcc054fab"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e821d3786f7c4b098e7e5a5694b51d5f"
@@ -620,8 +609,7 @@
         id="id-f9b8c8e4e2e040faad86d75613eb567e"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-55d92ce53ad24063be1b0b9fcd3a22ff"
@@ -646,8 +634,7 @@
         id="id-97c3b1f388b24be28ceb8bfdd25bc2d0"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0b140596cc814bdf9586f4ad03150c61"
@@ -672,8 +659,7 @@
         id="id-cee4dbe84339444eb53f518c8f04e07d"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-320f105d4d1f4985a7febbbdc53c0e30"
@@ -777,8 +763,7 @@
         targetConnections="id-11876d957605400ca513a3369df81cba id-9be2b9eca6674788ab6335222230f921 id-846932d185b642a7aa23ca83a91acd8f id-c4778a99d06d473eb1cafd5f97e2dc5b"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a05a5159ba56461f9a95c0757dc85b0e"
@@ -843,8 +828,7 @@
         targetConnections="id-0df260b05f504b3fb93e6de8a2fcf718 id-30bd4062997b47e4ae22b09e94b72478 id-c989952b2a3a4563803248b1afce4f3a"
         lineColor="#4f4f4f"
         fillColor="#daeef3"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7ca69bab90534330bd4e7d392e442b2b"
@@ -897,8 +881,7 @@
       targetConnections="id-68c1d10342f44366949117f4f6cde09c"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <bounds
         x="56"
         y="56"

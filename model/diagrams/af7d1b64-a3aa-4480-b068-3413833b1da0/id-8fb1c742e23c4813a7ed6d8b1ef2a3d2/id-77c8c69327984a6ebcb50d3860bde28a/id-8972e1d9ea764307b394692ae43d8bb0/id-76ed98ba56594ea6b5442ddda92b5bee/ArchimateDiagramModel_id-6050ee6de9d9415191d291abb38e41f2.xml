@@ -580,8 +580,7 @@
       id="id-1f6f1d63bd6e47f9bfe91faaae675622"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-aa4f1c168d584becae71f277393161ed"
@@ -632,8 +631,7 @@
       id="id-463a3618a37f4e5cb1835b620b30b6d6"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b6c378d67d14414a8aded1da680d1019"
@@ -684,8 +682,7 @@
       id="id-e91ae8a1ed5c447ca846aa6be07bed9d"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8e4118d1e7c14f8694ce4841bce8c417"
@@ -736,8 +733,7 @@
       id="id-07f6da89eca849ca904872ea428208a7"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d7533205c5ff49b0a6457bef80efa78e"
@@ -814,8 +810,7 @@
       id="id-9b0ca382069c449babf40a0329ff851b"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-96e967d214cd4cf5b0e7901985d243b6"
@@ -866,8 +861,7 @@
       id="id-fb03b0cbeace476eb6c25a825ed47692"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6f75ea8c95d34712918077092a4019d7"
@@ -893,8 +887,7 @@
       targetConnections="id-3494ad146d2540cdbb2d09bacba4a4f2 id-72780d306687482dbad817394f220135 id-de018cb678854cce938bbd30bf86bf77 id-b4ccee54e9734de9a018fc29203b1780 id-47b5308441b04519ae020a566aadb6f2"
       lineColor="#000000"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fbcb33a613214e0cb3633b84c1384089"
@@ -920,8 +913,7 @@
       targetConnections="id-652bf4c07fcd421daf7aa291ea11dbb5"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c6148e1bb2e44742b433f57ce425d8bc"
