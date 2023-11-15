@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-98b636e65ef442bb87e71c1a4ba3ce9b"
-      name="Nieuwe services"
+      name="Nieuwe services dienstafnemers"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -14,7 +14,7 @@
         x="32"
         y="32"
         width="593"
-        height="361"/>
+        height="273"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1246fcb865b94a768442034917593584"
@@ -79,60 +79,19 @@
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-6b4a6fe72541438cb71b5266533761e2.xml#id-6b4a6fe72541438cb71b5266533761e2"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d0b8eead7ad74e989177c685cb6be738"
-        textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d497e6e4b434461a8d9f4574b38aeb23"
-          source="id-d0b8eead7ad74e989177c685cb6be738"
-          target="id-1246fcb865b94a768442034917593584">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-98d83e9d309c4123aa4128a37ac0b755.xml#id-98d83e9d309c4123aa4128a37ac0b755"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-97cf4690d8d94ca0bcac32627ca4bb7b"
-          source="id-d0b8eead7ad74e989177c685cb6be738"
-          target="id-ba26c41e38b543e880d3d1d4462342db">
-        <bendpoints
-            startX="-16"
-            startY="-56"
-            endX="128"
-            endY="56"/>
-        <bendpoints
-            startX="-120"
-            startY="-56"
-            endX="24"
-            endY="56"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-a1550431a5994b978ed8c9e5da4276ab.xml#id-a1550431a5994b978ed8c9e5da4276ab"/>
-      </sourceConnections>
-      <bounds
-          x="160"
-          y="264"
-          width="129"
-          height="81"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-5bc3eb6423e443b3b1475a0fd1e623d2.xml#id-5bc3eb6423e443b3b1475a0fd1e623d2"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-52f169a010a54aa7b0e08e58856acaed"
-      name="Bestaande services"
+      name="Bestaande services dienstaanbieders"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
         x="32"
-        y="400"
+        y="528"
         width="593"
-        height="185"/>
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-26d78bdb59d347adb15c3521ca706159"
@@ -154,6 +113,60 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-824d8195d4f24a8295b6878ebea09368.xml#id-824d8195d4f24a8295b6878ebea09368"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b0c135aa627f4da99c4a988c6d46faed"
+      name="Nieuwe services dienstaanbieders"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="32"
+        y="320"
+        width="593"
+        height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d0b8eead7ad74e989177c685cb6be738"
+        textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d497e6e4b434461a8d9f4574b38aeb23"
+          source="id-d0b8eead7ad74e989177c685cb6be738"
+          target="id-1246fcb865b94a768442034917593584">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-98d83e9d309c4123aa4128a37ac0b755.xml#id-98d83e9d309c4123aa4128a37ac0b755"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-97cf4690d8d94ca0bcac32627ca4bb7b"
+          source="id-d0b8eead7ad74e989177c685cb6be738"
+          target="id-ba26c41e38b543e880d3d1d4462342db">
+        <bendpoints
+            startX="-16"
+            startY="-64"
+            endX="128"
+            endY="136"/>
+        <bendpoints
+            startX="-128"
+            startY="-64"
+            endX="16"
+            endY="136"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-a1550431a5994b978ed8c9e5da4276ab.xml#id-a1550431a5994b978ed8c9e5da4276ab"/>
+      </sourceConnections>
+      <bounds
+          x="160"
+          y="64"
+          width="129"
+          height="81"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-5bc3eb6423e443b3b1475a0fd1e623d2.xml#id-5bc3eb6423e443b3b1475a0fd1e623d2"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

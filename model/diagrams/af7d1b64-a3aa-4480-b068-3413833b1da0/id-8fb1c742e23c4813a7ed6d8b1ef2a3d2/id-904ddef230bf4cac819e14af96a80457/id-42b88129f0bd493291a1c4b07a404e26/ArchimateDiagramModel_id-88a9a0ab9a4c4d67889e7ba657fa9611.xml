@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-db89760824f5445f9556698ad1e35c8c"
-      name="Nieuwe services"
+      name="Nieuwe services dienstafnemers"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
@@ -14,7 +14,7 @@
         x="32"
         y="32"
         width="593"
-        height="361"/>
+        height="273"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-042db9f1c3c04c28a2ea3bbe542a0e3c"
@@ -59,40 +59,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-00331f1468f948cda5d8e5f5c7ea3d6d.xml#id-00331f1468f948cda5d8e5f5c7ea3d6d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-65df02a1109d4a70b8666338732c810f"
-        lineColor="#4f4f4f"
-        textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b25ef2da4b6f4d85b2716ba4e353f645"
-          lineColor="#000000"
-          source="id-65df02a1109d4a70b8666338732c810f"
-          target="id-a609c6427baf48a58b8f4ecdfe0f3dc6">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-48bc5c09d1ed467cb5bae36a6011d4b4.xml#id-48bc5c09d1ed467cb5bae36a6011d4b4"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d9f767005afd42cdbd0570d59bb319f5"
-          lineColor="#000000"
-          source="id-65df02a1109d4a70b8666338732c810f"
-          target="id-042db9f1c3c04c28a2ea3bbe542a0e3c">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-275a3e8bc0754419b3b1481acbfdeaf2.xml#id-275a3e8bc0754419b3b1481acbfdeaf2"/>
-      </sourceConnections>
-      <bounds
-          x="16"
-          y="264"
-          width="273"
-          height="81"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-6be4791f72b54476b039ae6954eb4b44.xml#id-6be4791f72b54476b039ae6954eb4b44"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -142,15 +108,15 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-56291979f1584b57a00bdd949c3c31a7"
-      name="Bestaande services"
+      name="Bestaande services dienstaanbieders"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
         x="32"
-        y="400"
+        y="528"
         width="593"
-        height="185"/>
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d3035d61b7bf446d826e8f9639b15646"
@@ -164,21 +130,21 @@
           source="id-d3035d61b7bf446d826e8f9639b15646"
           target="id-f655ed36d1564eb9b111c7a20c6411c7">
         <bendpoints
-            startY="-56"
+            startY="-64"
             endX="-288"
-            endY="216"/>
+            endY="344"/>
         <bendpoints
             startX="272"
-            startY="-56"
+            startY="-64"
             endX="-16"
-            endY="216"/>
+            endY="344"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-6cd4576da107424390005669e2fce152.xml#id-6cd4576da107424390005669e2fce152"/>
       </sourceConnections>
       <bounds
           x="16"
-          y="56"
+          y="64"
           width="129"
           height="81"/>
       <archimateElement
@@ -203,7 +169,7 @@
       </sourceConnections>
       <bounds
           x="304"
-          y="56"
+          y="64"
           width="129"
           height="81"/>
       <archimateElement
@@ -255,12 +221,59 @@
       </sourceConnections>
       <bounds
           x="160"
-          y="56"
+          y="64"
           width="129"
           height="81"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-b30fc9fb0a81477680ce96539e756159.xml#id-b30fc9fb0a81477680ce96539e756159"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d12bfa93dd35442bb877be2504f35cac"
+      name="Nieuwe services dienstaanbieders"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="32"
+        y="320"
+        width="593"
+        height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-65df02a1109d4a70b8666338732c810f"
+        lineColor="#4f4f4f"
+        textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b25ef2da4b6f4d85b2716ba4e353f645"
+          lineColor="#000000"
+          source="id-65df02a1109d4a70b8666338732c810f"
+          target="id-a609c6427baf48a58b8f4ecdfe0f3dc6">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-48bc5c09d1ed467cb5bae36a6011d4b4.xml#id-48bc5c09d1ed467cb5bae36a6011d4b4"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d9f767005afd42cdbd0570d59bb319f5"
+          lineColor="#000000"
+          source="id-65df02a1109d4a70b8666338732c810f"
+          target="id-042db9f1c3c04c28a2ea3bbe542a0e3c">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-275a3e8bc0754419b3b1481acbfdeaf2.xml#id-275a3e8bc0754419b3b1481acbfdeaf2"/>
+      </sourceConnections>
+      <bounds
+          x="16"
+          y="64"
+          width="273"
+          height="81"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-6be4791f72b54476b039ae6954eb4b44.xml#id-6be4791f72b54476b039ae6954eb4b44"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
