@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificatierouteringcomponent"
     id="id-5060f0fc-6198-4936-99d3-1c5a35aae8de"
-    documentation="Component voor ontvangen van notificaties van bronsystemen en het routeren daarvan naar geabonneerde afnemers.&#xA;">
+    documentation="Component voor ontvangen van notificaties van bronsystemen en het routeren daarvan naar geabonneerde afnemers.">
   <properties
       key="Toelichting"
       value="De component ondersteunt de berichtuitwisseling integratiestijl op basis van notificaties. Afnemers die notificaties geleverd krijgen kunnen aan de hand daarvan de benodigde acties ondernemen (bijvoorbeeld het met behulp van ontvangen sleutelgegevens ophalen van detailgegevens)."/>
@@ -26,17 +26,17 @@
       value="2"/>
   <properties
       key="Beschikbaarheid (belangrijkste reden)"
-      value="2 : verlies van publiek respect; klachten van burgers;"/>
+      value="2 : verlies van publiek respect; klachten van burgers."/>
   <properties
       key="Integriteit"
       value="2"/>
   <properties
       key="Integriteit (belangrijkste reden)"
-      value="2 : verlies van publiek respect; klachten van burgers;"/>
+      value="2 : verlies van publiek respect; klachten van burgers."/>
   <properties
       key="Vertrouwelijkheid"
       value="2"/>
   <properties
       key="Vertrouwelijkheid (belangrijkste reden)"
-      value="2 : verlies van publiek respect; klachten van burgers significant verlies van motivatie van medewerkers;"/>
+      value="2 : verlies van publiek respect; klachten van burgers; significant verlies van motivatie van medewerkers."/>
 </archimate:ApplicationComponent>
