@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantcontacten service"
-    id="id-7001a074cc83405da51162ce47c557dd"/>
+    id="id-7001a074cc83405da51162ce47c557dd"
+    documentation="De Klantcontacten service omvat de CRUD operaties die worden gebruikt door de services die gebruikt worden in de interactieve dienstverleningscomponent.">
+  <properties
+      key="Object ID"
+      value="098bfa8d-fc6a-4394-81a6-70e6903015ed"/>
+</archimate:ApplicationService>

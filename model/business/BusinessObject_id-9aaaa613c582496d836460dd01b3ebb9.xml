@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bericht"
     id="id-9aaaa613c582496d836460dd01b3ebb9"
-    documentation="Een afgeronde hoeveelheid informatie (met een begin en een eind) die van een verzender aan een ontvanger beschikbaar wordt gesteld."/>
+    documentation="Een afgeronde hoeveelheid informatie (met een begin en een eind) die van een verzender aan een ontvanger beschikbaar wordt gesteld.">
+  <properties
+      key="Object ID"
+      value="a7ecabcf-d6c1-47bc-8397-25a2c879f32c"/>
+</archimate:BusinessObject>

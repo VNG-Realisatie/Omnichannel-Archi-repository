@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbaarstellen en verwerken klantcontacten"
-    id="id-c64d9037c81b40c08eb31b25f5691ecc"/>
+    name="Beschikbaar stellen en verwerken klantcontacten"
+    id="id-c64d9037c81b40c08eb31b25f5691ecc"
+    documentation="Klantcontacten tussen burgers of bedrijven en de organisatie worden verwerkt. De klantcontactgegevens (bijvoorbeeld de datum, tijd, kanaal en onderwerp) worden getoond via de beschikbare kanalen.">
+  <properties
+      key="Object ID"
+      value="fd4994f4-2fcc-4a1c-b331-6924d0567ea4"/>
+</archimate:BusinessProcess>

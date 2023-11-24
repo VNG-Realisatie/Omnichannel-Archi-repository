@@ -1,4 +1,8 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkgroep Generieke Notificatieservice"
-    id="id-2ff359e6bfc645428e45f05aea28b400"/>
+    id="id-2ff359e6bfc645428e45f05aea28b400">
+  <properties
+      key="Object ID"
+      value="f4dc9d5e-2a43-4c63-9626-42f92b6d0298"/>
+</archimate:BusinessCollaboration>

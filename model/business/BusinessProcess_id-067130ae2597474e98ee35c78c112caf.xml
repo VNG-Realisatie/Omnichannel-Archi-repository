@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbaarstelllen en verwerken berichten"
-    id="id-067130ae2597474e98ee35c78c112caf"/>
+    name="Beschikbaar stelllen en verwerken berichten"
+    id="id-067130ae2597474e98ee35c78c112caf"
+    documentation="Burgers of bedrijven informatie beschikbaar stellen over zaakgegevens, klantcontacten, of taken.">
+  <properties
+      key="Object ID"
+      value="b4edefd9-1149-4685-9970-6464b9d5475c"/>
+</archimate:BusinessProcess>

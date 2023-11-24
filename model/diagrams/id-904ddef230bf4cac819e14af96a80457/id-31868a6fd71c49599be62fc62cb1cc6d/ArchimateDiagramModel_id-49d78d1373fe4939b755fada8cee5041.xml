@@ -142,4 +142,10 @@
         xsi:type="archimate:Capability"
         href="Capability_id-4af2ac478ecd48759692f2060375f35b.xml#id-4af2ac478ecd48759692f2060375f35b"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="d6b0f3ae-32e2-4fea-b4bc-e052e419ebde"/>
 </archimate:ArchimateDiagramModel>

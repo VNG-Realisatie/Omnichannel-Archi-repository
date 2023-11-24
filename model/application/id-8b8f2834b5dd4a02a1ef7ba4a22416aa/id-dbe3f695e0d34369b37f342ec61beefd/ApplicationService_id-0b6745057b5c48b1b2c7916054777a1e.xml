@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanpassen profielgegevens"
-    id="id-0b6745057b5c48b1b2c7916054777a1e"/>
+    id="id-0b6745057b5c48b1b2c7916054777a1e"
+    documentation="Deze service biedt de klant de mogelijkheid om de profielgegevens aan te passen, zoals het e-mailadres, mobiele telefoonnummer en voorkeurskanalen.">
+  <properties
+      key="Object ID"
+      value="35266c22-7782-4de3-a356-5c88b6239c33"/>
+</archimate:ApplicationService>

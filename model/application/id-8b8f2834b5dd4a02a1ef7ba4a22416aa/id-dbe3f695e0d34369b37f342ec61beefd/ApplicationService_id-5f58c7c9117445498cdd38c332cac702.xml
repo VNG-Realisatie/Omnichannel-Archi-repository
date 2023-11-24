@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MijnZaken"
-    id="id-5f58c7c9117445498cdd38c332cac702"/>
+    id="id-5f58c7c9117445498cdd38c332cac702"
+    documentation="Deze service is een verzameling van services die gebruikt  worden in portalen of andere soorten interactiecomponenten. De MijnZaken service geeft een overzicht van lopende en afgeronde zaken, geeft details van de zaak en toont een overzicht van de contactmomenten die bij de zaak geregistreerd zijn.">
+  <properties
+      key="Object ID"
+      value="1fe81090-f24d-4e26-ac32-d9ba0b7b98b7"/>
+</archimate:ApplicationService>

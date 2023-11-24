@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens t.b.v. uitgevoerde taken"
     id="id-bce2635a7ba24fb7bad975b12db3caa0">
+  <properties
+      key="Object ID"
+      value="924417ea-0cfe-4ed8-add1-66b0de6dcb36"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-82a62d24e17e418b8733d1d84bfb8453.xml#id-82a62d24e17e418b8733d1d84bfb8453"/>

@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toevoegen zaakdocument"
-    id="id-21d2e0a11e4d4d68a0719f14357edd28"/>
+    id="id-21d2e0a11e4d4d68a0719f14357edd28"
+    documentation="Een veelvoorkomende taak is het toevoegen van een document dat door een burger of bedrijf moet worden toegevoegd aan het zaakdossier. Deze service biedt de mogelijk het document toe te voegen aan de betreffende zaak waarvoor de taak is gestart.">
+  <properties
+      key="Object ID"
+      value="5d153ad1-f627-4f42-a538-a6f49417e59b"/>
+</archimate:ApplicationService>

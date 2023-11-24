@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantcontactregistratiecomponent"
-    id="id-4cafe13ea05f4468b929de027a0f6454"/>
+    id="id-4cafe13ea05f4468b929de027a0f6454"
+    documentation="Component voor opslag en ontsluiting van klantcontactgegevens.">
+  <properties
+      key="Object ID"
+      value="c929ae52-4e70-458d-9af1-0d542944195b"/>
+</archimate:ApplicationComponent>

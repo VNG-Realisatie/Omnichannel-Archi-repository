@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dimpact"
-    id="id-62b4d3bff5e140e09d38b317b6013e0c"/>
+    id="id-62b4d3bff5e140e09d38b317b6013e0c">
+  <properties
+      key="Object ID"
+      value="3222c23a-0ac8-47bd-a2c0-51e37f7529d9"/>
+</archimate:BusinessActor>

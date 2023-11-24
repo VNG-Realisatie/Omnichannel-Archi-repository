@@ -206,4 +206,10 @@
           href="ApplicationService_id-47e3dc431de541f6812280ac69a77470.xml#id-47e3dc431de541f6812280ac69a77470"/>
     </children>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="9719b17b-5f0e-446c-afe2-538a090dffb2"/>
 </archimate:ArchimateDiagramModel>

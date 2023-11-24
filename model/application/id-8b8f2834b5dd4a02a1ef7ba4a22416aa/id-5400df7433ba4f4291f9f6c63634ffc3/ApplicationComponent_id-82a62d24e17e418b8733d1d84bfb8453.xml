@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interactieve dienstverleningscomponent"
-    id="id-82a62d24e17e418b8733d1d84bfb8453"/>
+    id="id-82a62d24e17e418b8733d1d84bfb8453">
+  <properties
+      key="Object ID"
+      value="a125d606-1c59-44ca-8268-6c6c093b108d"/>
+</archimate:ApplicationComponent>

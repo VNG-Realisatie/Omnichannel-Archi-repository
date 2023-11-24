@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zaken service"
-    id="id-26ed0a665414455d8f26e576eefcfdcf"/>
+    id="id-26ed0a665414455d8f26e576eefcfdcf"
+    documentation="Service die geleverd wordt door de Zakenregistratiecomponent voor het ophalen van zaakgegevens.">
+  <properties
+      key="Object ID"
+      value="1955c61f-d31b-480d-be2b-72fdddec68fb"/>
+</archimate:ApplicationService>

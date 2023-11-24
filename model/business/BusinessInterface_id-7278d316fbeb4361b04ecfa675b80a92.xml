@@ -1,4 +1,9 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaal kanaal"
-    id="id-7278d316fbeb4361b04ecfa675b80a92"/>
+    id="id-7278d316fbeb4361b04ecfa675b80a92"
+    documentation="Kanaal waarbij digitale interactie tussen burger of bedrijf en de organisatie plaats vindt. Dit is bijvoorbeeld een website of chatkanaal.">
+  <properties
+      key="Object ID"
+      value="369a0912-b523-49a3-82c9-5c2eeabbb64f"/>
+</archimate:BusinessInterface>

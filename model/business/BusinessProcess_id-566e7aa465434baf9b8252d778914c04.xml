@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificeren"
-    id="id-566e7aa465434baf9b8252d778914c04"/>
+    id="id-566e7aa465434baf9b8252d778914c04"
+    documentation="Burgers of bedrijven attenderen dat er informatie over zaken, taken of berichten beschikbaar is.">
+  <properties
+      key="Object ID"
+      value="ca37bdfe-0ef2-48cd-b386-2c52825650f4"/>
+</archimate:BusinessProcess>

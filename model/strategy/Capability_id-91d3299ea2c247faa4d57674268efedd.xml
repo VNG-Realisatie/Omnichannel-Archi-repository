@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht geven van berichten"
-    id="id-91d3299ea2c247faa4d57674268efedd"/>
+    id="id-91d3299ea2c247faa4d57674268efedd"
+    documentation="Vanuit de overheidsorganisatie wordt via een klantcontact informatie digitaal en elektronisch aan een burger of bedrijf verstuurd. De inhoud van de informatie wordt weergegeven als bericht. De organisatie kan een overzicht geven van de berichten die aan burgers of bedrijven zijn gestuurd of beschikbaar zijn gesteld.">
+  <properties
+      key="Object ID"
+      value="fcef16dc-7026-4aa0-b407-d3d0f5451823"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dienstenafnemer"
-    id="id-2efddf3c1c3744138b8850330e97e37b"/>
+    name="Dienstafnemer"
+    id="id-2efddf3c1c3744138b8850330e97e37b">
+  <properties
+      key="Object ID"
+      value="dad76594-12bc-49be-9cbc-ae845cd48df4"/>
+</archimate:BusinessRole>

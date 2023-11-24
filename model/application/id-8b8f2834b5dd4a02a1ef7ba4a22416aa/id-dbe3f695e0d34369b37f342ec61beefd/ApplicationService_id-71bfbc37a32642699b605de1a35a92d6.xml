@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht afgeronde zaken"
-    id="id-71bfbc37a32642699b605de1a35a92d6"/>
+    id="id-71bfbc37a32642699b605de1a35a92d6"
+    documentation="Dit overzicht toont de zaken die niet meer lopen. Dit kunnen afgeronde zaken (ook geannuleerde zaken vallen hieronder) maar ook gearchiveerde zaken.">
+  <properties
+      key="Object ID"
+      value="64af433b-d165-4ce2-8339-b8e785aca85e"/>
+</archimate:ApplicationService>

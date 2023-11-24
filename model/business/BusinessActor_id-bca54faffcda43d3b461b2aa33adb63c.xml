@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VNG"
-    id="id-bca54faffcda43d3b461b2aa33adb63c"/>
+    id="id-bca54faffcda43d3b461b2aa33adb63c">
+  <properties
+      key="Object ID"
+      value="d84511d4-fe3d-4d14-aea9-07aae444e860"/>
+</archimate:BusinessActor>

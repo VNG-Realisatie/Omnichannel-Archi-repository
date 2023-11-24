@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantgegevens en contactvoorkeuren"
     id="id-95b08032ab154789ba1f312a10cca3ec">
+  <properties
+      key="Object ID"
+      value="a687440a-ffff-4374-9f21-c664bd26fd90"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-82a62d24e17e418b8733d1d84bfb8453.xml#id-82a62d24e17e418b8733d1d84bfb8453"/>

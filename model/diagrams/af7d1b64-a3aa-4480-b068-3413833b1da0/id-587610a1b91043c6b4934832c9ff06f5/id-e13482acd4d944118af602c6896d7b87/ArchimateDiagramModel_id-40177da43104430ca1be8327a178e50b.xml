@@ -1249,4 +1249,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-61317842-5a62-4e32-9f9e-34e377436929.xml#id-61317842-5a62-4e32-9f9e-34e377436929"/>
   </children>
+  <properties
+      key="Object ID"
+      value="2463b1f6-b0c4-45e0-b3f7-8f1999daea89"/>
 </archimate:ArchimateDiagramModel>

@@ -194,4 +194,10 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-566e7aa465434baf9b8252d778914c04.xml#id-566e7aa465434baf9b8252d778914c04"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="9d8f5e5f-15e9-4537-b97e-2de5d9616041"/>
 </archimate:ArchimateDiagramModel>

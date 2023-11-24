@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantnotificatie"
-    id="id-5028b1fc336a479180b6ac4efce48a84"/>
+    id="id-5028b1fc336a479180b6ac4efce48a84">
+  <properties
+      key="Object ID"
+      value="21680476-e83d-4e7c-bd7d-25a5c000cbf7"/>
+</archimate:ApplicationService>

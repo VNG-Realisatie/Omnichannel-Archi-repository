@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht berichtgegevens"
-    id="id-9f769db24afa40f8acf4e70a53dc69a1"/>
+    id="id-9f769db24afa40f8acf4e70a53dc69a1"
+    documentation="Deze service toont de inhoudelijk weergave van een geselecteerd bericht inclusief de bijhorende documenten of bijlagen die horen bij het geselecteerde bericht.">
+  <properties
+      key="Object ID"
+      value="fdda2827-185b-417b-a3cf-d7cbf385e408"/>
+</archimate:ApplicationService>

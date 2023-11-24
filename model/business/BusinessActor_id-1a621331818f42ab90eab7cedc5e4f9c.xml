@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente"
-    id="id-1a621331818f42ab90eab7cedc5e4f9c"/>
+    id="id-1a621331818f42ab90eab7cedc5e4f9c">
+  <properties
+      key="Object ID"
+      value="4c57d759-5cf3-4b84-a9cd-b3c1bb776ea1"/>
+</archimate:BusinessActor>

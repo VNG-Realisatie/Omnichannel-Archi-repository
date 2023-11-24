@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbaarstellen en verwerken zaakgegevens"
-    id="id-40bcde94558449bca23078b6219dddd4"/>
+    name="Beschikbaar stellen en verwerken zaakgegevens"
+    id="id-40bcde94558449bca23078b6219dddd4"
+    documentation="Verzoeken van burgers of bedrijven worden op een zaakgerichte manier verwerkt. De zaakgegevens (bijvoorbeeld de zaakstatus of de zaakdocumenten) worden getoond via de beschikbare kanalen. Zaakgegevens die door burgers of bedrijven aan de organisatie worden aangeleverd, worden verwerkt.">
+  <properties
+      key="Object ID"
+      value="5eef73df-b93f-412e-87e9-8c88d2def28d"/>
+</archimate:BusinessProcess>

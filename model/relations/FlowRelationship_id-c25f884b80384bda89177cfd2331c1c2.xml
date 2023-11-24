@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verzoeken"
     id="id-c25f884b80384bda89177cfd2331c1c2">
+  <properties
+      key="Object ID"
+      value="6c4be15c-0c76-4759-8425-e75e5a80504e"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-82a62d24e17e418b8733d1d84bfb8453.xml#id-82a62d24e17e418b8733d1d84bfb8453"/>

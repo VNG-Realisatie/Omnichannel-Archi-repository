@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente Den Haag"
-    id="id-eb981b6e52b844d096d0b025e9dcbcfc"/>
+    id="id-eb981b6e52b844d096d0b025e9dcbcfc">
+  <properties
+      key="Object ID"
+      value="2c62b4ec-06dd-43c0-b960-e0373f0d17da"/>
+</archimate:BusinessActor>

@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Berichten service"
-    id="id-47e3dc431de541f6812280ac69a77470"/>
+    id="id-47e3dc431de541f6812280ac69a77470"
+    documentation="De Berichten service omvat de CRUD operaties die worden gebruikt door de services die gebruikt worden in de interactieve dienstverleningscomponent.">
+  <properties
+      key="Object ID"
+      value="82929534-0f3b-452d-941f-7fd6dba53964"/>
+</archimate:ApplicationService>

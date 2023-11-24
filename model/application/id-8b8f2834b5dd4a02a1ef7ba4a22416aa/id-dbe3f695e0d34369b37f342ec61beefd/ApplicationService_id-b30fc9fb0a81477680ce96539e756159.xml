@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Catalogi service"
-    id="id-b30fc9fb0a81477680ce96539e756159"/>
+    id="id-b30fc9fb0a81477680ce96539e756159"
+    documentation="Service die geleverd wordt door de Zaaktypecataloguscomponent voor het ophalen van het zaaktype en statusbenaming van de zaak.">
+  <properties
+      key="Object ID"
+      value="f62068d9-281f-4386-97da-1cec9713d9bf"/>
+</archimate:ApplicationService>

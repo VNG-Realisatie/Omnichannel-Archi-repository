@@ -12,4 +12,7 @@
   <properties
       key="Object ID"
       value="1e437d94-acfc-47dd-9326-2bc5914dc204"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
 </archimate:ApplicationComponent>

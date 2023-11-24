@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afronden taak"
-    id="id-64a2043b5fe1427481496a24654aec04"/>
+    id="id-64a2043b5fe1427481496a24654aec04"
+    documentation="Deze service wordt gebruikt voor het afronden van een taak. Met het afronden van de taak is de taak niet meer zichtbaar in het overzicht.">
+  <properties
+      key="Object ID"
+      value="ee2a181c-e1c3-4999-b277-2219ed4aa675"/>
+</archimate:ApplicationService>

@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbaarstellen en verwerken taken"
-    id="id-7d4af4acbe8d46c7b8207a145af37ffe"/>
+    name="Beschikbaar stellen en verwerken taken"
+    id="id-7d4af4acbe8d46c7b8207a145af37ffe"
+    documentation="Naar aanleiding van een klantcontact kan een taak uitgezet worden in de organisatie (interne taak). Ook kan naar aanleiding van een zaak een taak bij de burger of bedrijf uitgezet worden (klanttaak). De klanttaak wordt getoond via de beschikbare kanalen. Taken die een klant heeft afgerond worden door de organisatie verwerkt.">
+  <properties
+      key="Object ID"
+      value="16041f71-1239-40b4-8245-bcaf140c1eb8"/>
+</archimate:BusinessProcess>

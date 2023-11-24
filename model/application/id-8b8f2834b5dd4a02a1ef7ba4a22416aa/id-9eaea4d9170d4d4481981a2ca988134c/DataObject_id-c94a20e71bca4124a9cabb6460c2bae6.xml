@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interne taken"
-    id="id-c94a20e71bca4124a9cabb6460c2bae6"/>
+    id="id-c94a20e71bca4124a9cabb6460c2bae6">
+  <properties
+      key="Object ID"
+      value="567527b7-e749-4603-897b-5318ab5da28b"/>
+</archimate:DataObject>

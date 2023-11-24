@@ -169,4 +169,10 @@
           href="ApplicationService_id-5bc3eb6423e443b3b1475a0fd1e623d2.xml#id-5bc3eb6423e443b3b1475a0fd1e623d2"/>
     </children>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="13f42d4e-ba67-49b5-b55e-428ef07a906d"/>
 </archimate:ArchimateDiagramModel>

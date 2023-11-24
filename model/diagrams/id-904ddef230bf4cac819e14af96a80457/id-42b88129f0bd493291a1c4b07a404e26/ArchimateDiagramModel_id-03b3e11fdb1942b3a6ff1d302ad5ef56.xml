@@ -127,4 +127,10 @@
         width="593"
         height="193"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="f9c747e3-ae00-4bcf-9f99-38f7d8aaf084"/>
 </archimate:ArchimateDiagramModel>

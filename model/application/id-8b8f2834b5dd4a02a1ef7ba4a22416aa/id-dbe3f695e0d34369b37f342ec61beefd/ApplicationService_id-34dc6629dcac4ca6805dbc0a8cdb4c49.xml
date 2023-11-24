@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MijnTaken"
-    id="id-34dc6629dcac4ca6805dbc0a8cdb4c49"/>
+    id="id-34dc6629dcac4ca6805dbc0a8cdb4c49"
+    documentation="Deze service is een verzameling van services die gebruikt kunnen worden in portalen of andere soorten interactiecomponenten. De MijnTaken service geeft een overzicht van openstaande taken. Een openstaande taak kan door de service Afronden taak worden afgedaan. De afgeronde taak verdwijnt daarmee uit het overzicht. MijnTaken omvat ook een service voor het kunnen uploaden van een document dat hoort bij de zaak waarvoor de taak is uitgezet.">
+  <properties
+      key="Object ID"
+      value="20dd1f98-251b-4e6a-81b0-ff10eea1483c"/>
+</archimate:ApplicationService>

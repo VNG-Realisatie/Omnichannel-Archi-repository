@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MijnProfiel"
-    id="id-38288544af7344eea1d4e402a055ecdf"/>
+    id="id-38288544af7344eea1d4e402a055ecdf"
+    documentation="Deze service is een verzameling van services die gebruikt kunnen worden in portalen of andere soorten interactiecomponenten. De MijnProfiel service geeft persoonsgegevens van de klant weer die nodig zijn voor de communicatie tussen de klant en de overheidsorganisatie. Dit zijn zowel de contactgegevens (zoals e-mailadres of mobiele telefoonnummer) als de kanaalvoorkeuren (zoals e-mail, SMS of post) waarover de communicatie tussen de klant en de overheidsorganisaties plaatsvindt.">
+  <properties
+      key="Object ID"
+      value="6d12ea52-ff22-4706-a128-ab238c07a013"/>
+</archimate:ApplicationService>

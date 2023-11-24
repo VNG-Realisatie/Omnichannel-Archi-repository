@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht zaakgegevens"
-    id="id-88840d8fb6f148a2b1b4533c95cb3520"/>
+    id="id-88840d8fb6f148a2b1b4533c95cb3520"
+    documentation="Als een specifieke zaak vanuit het overzicht wordt geselecteerd, dan worden de detailgegevens van de betreffende zaak, inclusief de zaakdocument en de contactmomenten die tot de zaak behoren getoond.">
+  <properties
+      key="Object ID"
+      value="96c86c59-cdb3-4992-8555-d9d30f428181"/>
+</archimate:ApplicationService>

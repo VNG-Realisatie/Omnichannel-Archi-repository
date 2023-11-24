@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besluiten service"
-    id="id-9f45b393d85c47b39eaa576ee06d6132"/>
+    id="id-9f45b393d85c47b39eaa576ee06d6132"
+    documentation="Service die geleverd wordt door de Besluitenregistratiecomponent voor het ophalen van besluiten die horen bij de zaak.">
+  <properties
+      key="Object ID"
+      value="5260f116-68ed-484b-9c8a-ea99a107992d"/>
+</archimate:ApplicationService>

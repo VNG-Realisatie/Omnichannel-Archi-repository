@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documenten te koppelen aan zaken"
     id="id-944a14d6b3cb4b92b005bc67abf0b3c5">
+  <properties
+      key="Object ID"
+      value="86cb2e6d-ef17-4ab9-9869-1d447ac41dc5"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-82a62d24e17e418b8733d1d84bfb8453.xml#id-82a62d24e17e418b8733d1d84bfb8453"/>

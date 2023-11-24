@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="taak"
     id="id-6a151caec33b4c3682fa6e8261800354"
-    documentation="Eén handeling die op verzoek uitgevoerd wordt in het kader van een zaak."/>
+    documentation="Eén handeling die op verzoek uitgevoerd wordt in het kader van een zaak.">
+  <properties
+      key="Object ID"
+      value="d022159e-d59c-4f73-930e-573d66d625d9"/>
+</archimate:BusinessObject>

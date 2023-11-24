@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht profielgegevens"
-    id="id-6b4a6fe72541438cb71b5266533761e2"/>
+    id="id-6b4a6fe72541438cb71b5266533761e2"
+    documentation="Dit overzicht toont alle klantgegevens die nodig zijn voor de communicatie tussen de klant en de overheidsorganisatie.">
+  <properties
+      key="Object ID"
+      value="fa5e09d5-e627-473c-a116-cb617972faf2"/>
+</archimate:ApplicationService>

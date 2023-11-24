@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klanten service"
-    id="id-5bc3eb6423e443b3b1475a0fd1e623d2"/>
+    id="id-5bc3eb6423e443b3b1475a0fd1e623d2"
+    documentation="Service die geleverd wordt door de Klantregistratiecomponent voor het ophalen van klantgegevens.">
+  <properties
+      key="Object ID"
+      value="fe0383fc-758a-4b21-ac22-bb6136f6e405"/>
+</archimate:ApplicationService>

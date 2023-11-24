@@ -1,4 +1,9 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fysiek kanaal"
-    id="id-79c29065fcb54dde8de09be6d770417c"/>
+    id="id-79c29065fcb54dde8de09be6d770417c"
+    documentation="Kanaal waarbij fysieke interactie tussen burger of bedrijf en de organisatie plaats vindt. Dit is bijvoorbeeld een balie, telefoon of post.">
+  <properties
+      key="Object ID"
+      value="0aa18f44-4393-4aff-894e-ecdb9a69e689"/>
+</archimate:BusinessInterface>

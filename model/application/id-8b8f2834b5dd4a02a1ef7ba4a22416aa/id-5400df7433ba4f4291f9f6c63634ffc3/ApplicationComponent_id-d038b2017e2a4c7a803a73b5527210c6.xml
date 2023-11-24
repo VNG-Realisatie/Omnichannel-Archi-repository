@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Taakregistratiecomponent"
-    id="id-d038b2017e2a4c7a803a73b5527210c6"/>
+    id="id-d038b2017e2a4c7a803a73b5527210c6"
+    documentation="Component voor opslag en ontsluiting van taakgegevens.">
+  <properties
+      key="Object ID"
+      value="07ac2c7a-309b-4a3c-8df4-656692e794bd"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificeren"
-    id="id-3e45cc06e95c43f7b1d1039b4b388c42"/>
+    id="id-3e45cc06e95c43f7b1d1039b4b388c42"
+    documentation="Het op de hoogte stellen dat er berichten, taken of andere informatie beschikbaar is voor de burger of bedrijf. De organisatie is in staat om de burger of bedrijf hierop te attenderen.">
+  <properties
+      key="Object ID"
+      value="91b0ec99-dfbb-4128-a733-4cd1f67725e5"/>
+</archimate:Capability>

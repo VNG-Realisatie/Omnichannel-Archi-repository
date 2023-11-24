@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MijnBerichten"
-    id="id-007e87c0ea4b4c088d3dea9df8784240"/>
+    id="id-007e87c0ea4b4c088d3dea9df8784240"
+    documentation="Deze service is een verzameling van services die gebruikt kunnen worden in portalen of andere soorten interactiecomponenten. De MijnBerichten service geeft een overzicht van gelezen en ongelezen berichten en de inhoud van het bericht zelf die aan de klant zijn aangeboden.">
+  <properties
+      key="Object ID"
+      value="cb4bc182-7225-4520-9168-d5bf0418e7a6"/>
+</archimate:ApplicationService>

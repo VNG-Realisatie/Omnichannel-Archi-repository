@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantinteractie"
-    id="id-4af2ac478ecd48759692f2060375f35b"/>
+    id="id-4af2ac478ecd48759692f2060375f35b"
+    documentation="Tijdens de dienstverlening heeft een organisatie veelvuldig contact met burgers en bedrijven in allerlei vormen. De informatie-uitwisseling tussen burgers, bedrijven en organisatie wordt Klantinteractie genoemd. De Klantinteractie kan geïnitieerd worden vanuit een burger, bedrijf of de organisatie.">
+  <properties
+      key="Object ID"
+      value="f757062c-93f0-4c7d-b126-a50ded7d4bd2"/>
+</archimate:Capability>

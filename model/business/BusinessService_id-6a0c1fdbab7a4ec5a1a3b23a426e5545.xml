@@ -1,4 +1,9 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interactieve dienstverlening"
-    id="id-6a0c1fdbab7a4ec5a1a3b23a426e5545"/>
+    id="id-6a0c1fdbab7a4ec5a1a3b23a426e5545"
+    documentation="Vorm van dienstverlening waarbij de organisatie op een interactieve manier invulling geeft aan de levering van producten en diensten aan burgers of bedrijven. ">
+  <properties
+      key="Object ID"
+      value="0cdcb51c-aaad-4906-ba36-31cde1a6a533"/>
+</archimate:BusinessService>

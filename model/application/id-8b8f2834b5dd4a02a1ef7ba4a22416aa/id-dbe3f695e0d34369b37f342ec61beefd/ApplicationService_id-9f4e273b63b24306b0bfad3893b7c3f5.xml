@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht contactmomenten"
-    id="id-9f4e273b63b24306b0bfad3893b7c3f5"/>
+    id="id-9f4e273b63b24306b0bfad3893b7c3f5"
+    documentation="Dit overzicht toont alle contactmomenten die de klant met de overheidsorganisatie heeft gehad.">
+  <properties
+      key="Object ID"
+      value="a9564696-0c22-4483-8b01-831d3731a405"/>
+</archimate:ApplicationService>

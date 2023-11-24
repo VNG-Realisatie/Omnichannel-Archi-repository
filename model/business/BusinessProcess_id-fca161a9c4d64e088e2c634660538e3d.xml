@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tonen en verwerken berichten"
-    id="id-fca161a9c4d64e088e2c634660538e3d"/>
+    id="id-fca161a9c4d64e088e2c634660538e3d">
+  <properties
+      key="Object ID"
+      value="e10bf274-0b47-457f-8594-4d7efc0a6dae"/>
+</archimate:BusinessProcess>

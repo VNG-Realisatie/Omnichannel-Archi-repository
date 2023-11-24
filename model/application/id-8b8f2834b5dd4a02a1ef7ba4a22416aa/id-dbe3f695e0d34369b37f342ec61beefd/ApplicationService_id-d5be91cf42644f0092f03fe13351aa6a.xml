@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documenten service"
-    id="id-d5be91cf42644f0092f03fe13351aa6a"/>
+    id="id-d5be91cf42644f0092f03fe13351aa6a"
+    documentation="Service die geleverd wordt door de Documentenregistratiecomponent voor het ophalen van gerelateerde zaakdocumenten.">
+  <properties
+      key="Object ID"
+      value="9f0b2676-3c43-40dd-8226-4dcc01fe47df"/>
+</archimate:ApplicationService>

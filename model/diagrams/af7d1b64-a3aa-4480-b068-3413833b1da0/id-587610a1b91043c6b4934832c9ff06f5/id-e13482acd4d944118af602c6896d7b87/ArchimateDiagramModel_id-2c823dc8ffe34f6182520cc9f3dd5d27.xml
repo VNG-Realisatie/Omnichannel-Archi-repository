@@ -42,4 +42,7 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-0c9ec51a-ca73-4daa-9d37-fb6a0039af11.xml#id-0c9ec51a-ca73-4daa-9d37-fb6a0039af11"/>
   </children>
+  <properties
+      key="Object ID"
+      value="4b452e0c-a762-4f73-be1b-3df5d7879ba2"/>
 </archimate:ArchimateDiagramModel>

@@ -272,4 +272,10 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-ce10c2ca6f1048a99a994dc5d7a0309f.xml#id-ce10c2ca6f1048a99a994dc5d7a0309f"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="4c76c827-54ca-462c-8c8f-ed37c7a6d2ce"/>
 </archimate:ArchimateDiagramModel>

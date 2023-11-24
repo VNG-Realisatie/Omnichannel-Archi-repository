@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Berichtregistratiecomponent"
-    id="id-802c626c7a7348de928bf62906e942fc"/>
+    id="id-802c626c7a7348de928bf62906e942fc"
+    documentation="Component voor opslag en ontsluiting van berichtgegevens.">
+  <properties
+      key="Object ID"
+      value="6a4dfa4a-9985-4588-9050-092d43acc3de"/>
+</archimate:ApplicationComponent>

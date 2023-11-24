@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SVB"
-    id="id-eacfab6543b24610bbae1548fc19a430"/>
+    id="id-eacfab6543b24610bbae1548fc19a430">
+  <properties
+      key="Object ID"
+      value="53d26d0a-9218-436a-8552-fcab9c5e4b38"/>
+</archimate:BusinessActor>

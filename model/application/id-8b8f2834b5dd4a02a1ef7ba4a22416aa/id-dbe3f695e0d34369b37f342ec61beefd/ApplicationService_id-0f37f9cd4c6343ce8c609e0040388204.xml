@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht berichten"
-    id="id-0f37f9cd4c6343ce8c609e0040388204"/>
+    id="id-0f37f9cd4c6343ce8c609e0040388204"
+    documentation="Dit overzicht toont de gelezen en ongelezen berichten die aan de klant zijn aangeboden.">
+  <properties
+      key="Object ID"
+      value="3a2a16ef-b042-48aa-ad80-328017459f8a"/>
+</archimate:ApplicationService>

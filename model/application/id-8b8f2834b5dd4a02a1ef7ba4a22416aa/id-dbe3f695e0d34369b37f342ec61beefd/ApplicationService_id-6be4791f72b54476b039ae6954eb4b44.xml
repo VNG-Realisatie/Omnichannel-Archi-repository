@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Taken service"
-    id="id-6be4791f72b54476b039ae6954eb4b44"/>
+    id="id-6be4791f72b54476b039ae6954eb4b44"
+    documentation="De Taken service omvat de CRUD operaties die worden gebruikt door de services die gebruikt worden in de interactieve dienstverleningscomponent.">
+  <properties
+      key="Object ID"
+      value="ab134c5b-7cf0-4074-9a85-a03ec7f0838e"/>
+</archimate:ApplicationService>

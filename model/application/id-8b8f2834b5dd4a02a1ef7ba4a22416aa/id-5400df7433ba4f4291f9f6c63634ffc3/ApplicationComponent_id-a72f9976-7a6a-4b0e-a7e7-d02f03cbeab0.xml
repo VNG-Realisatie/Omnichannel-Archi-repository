@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besluitregistratiecomponent"
-    id="id-a72f9976-7a6a-4b0e-a7e7-d02f03cbeab0">
+    id="id-a72f9976-7a6a-4b0e-a7e7-d02f03cbeab0"
+    documentation="Component voor opslag en ontsluiting van besluitgegevens.">
   <properties
       key="Object ID"
       value="a72f9976-7a6a-4b0e-a7e7-d02f03cbeab0"/>

@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MijnContactmomenten"
-    id="id-ce65e2cc8dd748fca4402d058913fd13"/>
+    id="id-ce65e2cc8dd748fca4402d058913fd13"
+    documentation="Deze service is een verzameling van services die gebruikt kunnen worden in portalen of andere soorten interactiecomponenten. De MijnContactmomenten service geeft een overzicht van contactmomenten die de klant met de overheidsorganisatie heeft gehad. Dit zijn zowel de contactmomenten geïnitieerd vanuit de overheidsorganisatie als vanuit de klant zelf. In het overzicht is minimaal het kanaal, datum en onderwerp van het contact zichtbaar.">
+  <properties
+      key="Object ID"
+      value="1cd1128e-ff33-4331-be4b-f0c30dcba4b9"/>
+</archimate:ApplicationService>

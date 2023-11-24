@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documenten gekoppeld aan zaken"
     id="id-9b1978476a2c4433a681f7cc94d96b57">
+  <properties
+      key="Object ID"
+      value="7b79c382-46c2-4819-89ff-3545309b6237"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-0e99ec6c-283a-4ec9-8efa-e11468e6b878.xml#id-0e99ec6c-283a-4ec9-8efa-e11468e6b878"/>
