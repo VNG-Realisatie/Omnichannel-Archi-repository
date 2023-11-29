@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E-mail"
-    id="id-02beb10cdcca434699f480bcbd7862dc">
+    id="id-02beb10cdcca434699f480bcbd7862dc"
+    documentation="Versturen van informatie via e-mail.">
   <properties
       key="Object ID"
       value="4bb35346-3788-4162-ae7a-238e50141589"/>

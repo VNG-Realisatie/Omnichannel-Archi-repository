@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SMS"
-    id="id-c041166c352b43b98e0961aa94d18996">
+    id="id-c041166c352b43b98e0961aa94d18996"
+    documentation="Versturen van informatie via SMS.">
   <properties
       key="Object ID"
       value="add98926-bf5f-4f77-9c16-905fbbd09081"/>

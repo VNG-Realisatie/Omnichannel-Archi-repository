@@ -39,10 +39,4 @@
   <properties
       key="Vertrouwelijkheid (belangrijkste reden)"
       value="1 : interne negatieve publiciteit (imagoschade)."/>
-  <properties
-      key="Beschikbaarheid (belangrijkste reden)"
-      value="2 : verlies van publiek respect; klachten van burgers;"/>
-  <properties
-      key="Integriteit (belangrijkste reden)"
-      value="2 : verlies van publiek respect; klachten van burgers;"/>
 </archimate:ApplicationComponent>

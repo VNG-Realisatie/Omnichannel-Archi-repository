@@ -7,7 +7,7 @@
       value="7f226165-b36b-421a-90bb-813959361683"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-76b1f98b4b6649f5b0273a1ee32bb0c8.xml#id-76b1f98b4b6649f5b0273a1ee32bb0c8"/>
+      href="ApplicationComponent_id-79ce2248-aa64-4370-9459-b0435b095e3b.xml#id-79ce2248-aa64-4370-9459-b0435b095e3b"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-5bc3eb6423e443b3b1475a0fd1e623d2.xml#id-5bc3eb6423e443b3b1475a0fd1e623d2"/>

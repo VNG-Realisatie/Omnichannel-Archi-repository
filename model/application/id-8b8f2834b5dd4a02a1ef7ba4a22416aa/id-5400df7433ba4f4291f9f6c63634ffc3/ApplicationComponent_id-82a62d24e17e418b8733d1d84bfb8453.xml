@@ -1,8 +1,42 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interactieve dienstverleningscomponent"
-    id="id-82a62d24e17e418b8733d1d84bfb8453">
+    id="id-82a62d24e17e418b8733d1d84bfb8453"
+    documentation="Component dat interactieve dienstverlening ondersteunt. Dit kan zowel naar burgers, bedrijven en instellingen zijn als naar medewerkers zijn. ">
   <properties
       key="Object ID"
       value="a125d606-1c59-44ca-8268-6c6c093b108d"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Toelichting"
+      value="Component dat interactieve dienstverlening ondersteunt. Dit kan zowel naar burgers, bedrijven en instellingen zijn als naar medewerkers zijn. Dit kan ook een Mijngemeentecomponent zijn, maar ook een chatcomponent of een ander soort component dat digitale interactie met een klant ondersteunt."/>
+  <properties
+      key="BBN"
+      value="BBN 1"/>
+  <properties
+      key="BIV score BBN"
+      value="111"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : irritatie en ongemak bij burgers geventileerd in de media."/>
+  <properties
+      key="Integriteit"
+      value="1"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="1 : irritatie en ongemak bij burgers geventileerd in de media."/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="1"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="1 : irritatie en ongemak bij burgers geventileerd in de media."/>
 </archimate:ApplicationComponent>

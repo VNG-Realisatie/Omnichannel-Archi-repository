@@ -6,4 +6,37 @@
   <properties
       key="Object ID"
       value="07ac2c7a-309b-4a3c-8df4-656692e794bd"/>
+  <properties
+      key="GEMMA status"
+      value="In ontwikkeling"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het opslaan en naar andere applicaties ontsluiten van taakgegevens (zowel externe taken t.b.v. de klant als interne taken t.b.v. de medewerker). De component slaat deze gestructureerd en voorzien van de benodigde metadata op en stelt applicaties in staat deze te wijzigen, te verwijderen en aan de hand van een aantal zoekcriteria op te vragen."/>
+  <properties
+      key="BBN"
+      value="BBN 2"/>
+  <properties
+      key="BIV score BBN"
+      value="222"/>
+  <properties
+      key="Beschikbaarheid"
+      value="2"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers."/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : schade te herstellen door ambtelijke opschaling."/>
 </archimate:ApplicationComponent>

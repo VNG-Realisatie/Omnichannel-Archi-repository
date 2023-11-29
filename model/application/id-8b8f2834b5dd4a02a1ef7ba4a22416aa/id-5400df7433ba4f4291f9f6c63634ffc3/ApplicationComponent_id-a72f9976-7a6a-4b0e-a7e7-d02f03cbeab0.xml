@@ -6,4 +6,37 @@
   <properties
       key="Object ID"
       value="a72f9976-7a6a-4b0e-a7e7-d02f03cbeab0"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het opslaan en naar andere applicaties ontsluiten van besluitgegevens (in de volksmond besluiten). De component slaat deze gestructureerd en voorzien van de benodigde metadata op en stelt applicaties in staat deze te wijzigen, te verwijderen en aan de hand van een aantal zoekcriteria op te vragen. Opslag vindt plaats conform het RGBZ waarin objecten, gegevens daarvan en onderlinge relaties zijn beschreven."/>
+  <properties
+      key="BBN"
+      value="BBN 1 en BBN2 beschikbaarheids en integriteitsmaatregelen"/>
+  <properties
+      key="BIV score BBN"
+      value="221"/>
+  <properties
+      key="Beschikbaarheid"
+      value="2"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers."/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="1"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
 </archimate:ApplicationComponent>

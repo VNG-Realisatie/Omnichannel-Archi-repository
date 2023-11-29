@@ -1,8 +1,42 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantnotificatiecomponent"
-    id="id-e189e8d1f86949a6b80fa784c1025593">
+    id="id-e189e8d1f86949a6b80fa784c1025593"
+    documentation="De component ondersteunt het verzenden van notificaties (attenderingen) naar burgers, bedrijven of instellingen.">
   <properties
       key="Object ID"
       value="381f35c5-3f2a-4615-9cbc-4f7785d92cef"/>
+  <properties
+      key="GEMMA status"
+      value="In ontwikkeling"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het verzenden van notificaties (attenderingen) naar burgers, bedrijven of instellingen. Op basis van kanaalvoorkeur en bijhorende contactgegevens (uit Klantregistratiecomponent) wordt een notificatie naar de ontvanger verstuurd. Het resultaat wordt vastgelegd in de Klantcontactregistratiecomponent."/>
+  <properties
+      key="BBN"
+      value="BBN 1 en BBN2 beschikbaarheids en integriteitsmaatregelen"/>
+  <properties
+      key="BIV score BBN"
+      value="221"/>
+  <properties
+      key="Beschikbaarheid"
+      value="2"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers."/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="1"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="1 : irritatie en ongemak bij burgers geventileerd in de media."/>
 </archimate:ApplicationComponent>
