@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-264dbf4d774543ec9fcfcc4fd0db3182">
+    id="id-264dbf4d774543ec9fcfcc4fd0db3182"
+    documentation="Zodra er een klantgegevens wordt aangemaakt of wordt gewijzigd, wordt dit vanuit de klantregistratiecomponent gepubliceerd op een topic in de notificatierouteringscomponent.">
   <properties
       key="Object ID"
       value="f6f94e5f-2031-4ac3-95c1-3cf4ee8283ce"/>

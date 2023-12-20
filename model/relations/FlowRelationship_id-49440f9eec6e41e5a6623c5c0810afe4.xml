@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-49440f9eec6e41e5a6623c5c0810afe4">
+    id="id-49440f9eec6e41e5a6623c5c0810afe4"
+    documentation="Taakgegevens worden gecreëerd, gewijzigd of verwijderd.">
   <properties
       key="Object ID"
       value="492d2b99-16f3-450d-9281-7808e0b4607d"/>

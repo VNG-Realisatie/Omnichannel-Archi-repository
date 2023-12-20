@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-9bff8e72577143008c323d2f3219f675">
+    id="id-9bff8e72577143008c323d2f3219f675"
+    documentation="Zodra er een taak wordt aangemaakt of wordt gewijzigd, wordt dit vanuit de taakregistratiecomponent gepubliceerd op een topic in de notificatierouteringscomponent.">
   <properties
       key="Object ID"
       value="aa26cd73-7da6-4562-a570-3193720a9e6a"/>

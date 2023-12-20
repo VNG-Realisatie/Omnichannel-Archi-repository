@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dienstverlener"
-    id="id-a5cfb5ad5b424cfd94078e9d0f1fe5da">
+    id="id-a5cfb5ad5b424cfd94078e9d0f1fe5da"
+    documentation="De persoon of organisatie die voorziet in het leveren van een afgebakende prestatie (dienst) aan haar omgeving (de afnemers).">
   <properties
       key="Object ID"
       value="16fed611-9175-428a-a643-97dc3ef29625"/>

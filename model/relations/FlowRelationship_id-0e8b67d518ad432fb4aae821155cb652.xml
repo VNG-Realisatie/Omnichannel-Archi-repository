@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-0e8b67d518ad432fb4aae821155cb652">
+    id="id-0e8b67d518ad432fb4aae821155cb652"
+    documentation="Besluiten of besluitgegevens worden opgehaald">
   <properties
       key="Object ID"
       value="29fff60a-c125-4d89-b050-041a3a258bd1"/>

@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-da617409f41a4a8baef6b43608b0b81d">
+    id="id-da617409f41a4a8baef6b43608b0b81d"
+    documentation="Berichtgegevens worden opgehaald door de interactieve dienstverleningscomponent. Dit kan een lijst zijn met een overzicht van berichten of er worden detailgegevens van een bericht opgehaald.">
   <properties
       key="Object ID"
       value="983247f1-b026-4501-a753-6491d359116e"/>

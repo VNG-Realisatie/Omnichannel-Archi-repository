@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-1d3dd2c471524c6cb2fe2625bdc594a3">
+    id="id-1d3dd2c471524c6cb2fe2625bdc594a3"
+    documentation="Documenten die via de interactieve dienstverleningscomponent door een gebruiker worden ingediend, worden opgeslagen in de documentregistratiecomponent.">
   <properties
       key="Object ID"
       value="c8c8b6d6-5562-4104-8845-8b60ba4a3ac8"/>

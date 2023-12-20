@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-ee3c38a772024c37b7530843308cc336">
+    id="id-ee3c38a772024c37b7530843308cc336"
+    documentation="De zaakregistratiecomponent haalt zaaktypegegevens uit de zaaktypecataloguscomponent.">
   <properties
       key="Object ID"
       value="bf9a66d8-f195-481b-b946-d194f2953bf6"/>

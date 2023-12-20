@@ -1,7 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Burger"
-    id="id-f1051f8a-6f85-4c12-a490-43ba1410536b">
+    id="id-f1051f8a-6f85-4c12-a490-43ba1410536b"
+    documentation="Alle belanghebbenden van overheidsdienstverlening in de ruimste zin van het woord.">
   <properties
       key="Object ID"
       value="f1051f8a-6f85-4c12-a490-43ba1410536b"/>

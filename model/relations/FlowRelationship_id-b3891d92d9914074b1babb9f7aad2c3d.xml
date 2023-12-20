@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b3891d92d9914074b1babb9f7aad2c3d">
+    id="id-b3891d92d9914074b1babb9f7aad2c3d"
+    documentation="Het resultaat van een klantcontact wordt doorgegeven aan de outputmanagementcomponent.">
   <properties
       key="Object ID"
       value="d133955b-3c09-4afc-8e63-26f541c9e0d4"/>

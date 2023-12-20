@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-50bdc4bd53574d93b1f6a29f1bb1b6e4">
+    id="id-50bdc4bd53574d93b1f6a29f1bb1b6e4"
+    documentation="Zodra er een besluit wordt aangemaakt of een besluit wordt gewijzigd, wordt dit vanuit de besluitregistratiecomponent gepubliceerd op een topic in de notificatierouteringscomponent.">
   <properties
       key="Object ID"
       value="def21170-4b14-445a-a1c5-620a32b02339"/>

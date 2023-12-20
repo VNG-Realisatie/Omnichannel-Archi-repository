@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b55fe857409342fabd36f518e05c5bc4">
+    id="id-b55fe857409342fabd36f518e05c5bc4"
+    documentation="Klantgegevens worden opgehaald door de interactieve dienstverleningscomponent. Dit kan een lijst zijn met een overzicht van klantgegevens of er worden specifieke detailgegevens over een klant opgehaald.">
   <properties
       key="Object ID"
       value="5790384c-c8b5-42ef-a156-f73ac5e506c7"/>

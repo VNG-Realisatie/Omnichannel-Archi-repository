@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-8d4f9ce28740448283eaeff5a129c7b5">
+    id="id-8d4f9ce28740448283eaeff5a129c7b5"
+    documentation="Zaakgegevens worden opgehaald door de interactieve dienstverleningscomponent. Dit kan een lijst zijn met een overzicht van zaken (lopend of afgerond) of er worden detailgegevens over een zaak opgehaald.">
   <properties
       key="Object ID"
       value="79eb884e-565f-400b-a614-2a60066dccf5"/>

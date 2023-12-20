@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-d2c06e59101a4821826017eb1e07d761">
+    id="id-d2c06e59101a4821826017eb1e07d761"
+    documentation="Relevante zaakgegevens die nodig zijn om als output (brief/e-mail/sms/etc.) naar een burger, bedrijf of instelling moeten worden gestuurd, worden opgehaald door de outputmanagementcomponent.">
   <properties
       key="Object ID"
       value="e970281c-5ca5-4cc2-a153-936f4d694138"/>

@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-027cba723e9a401abb29d2c37ede2e40">
+    id="id-027cba723e9a401abb29d2c37ede2e40"
+    documentation="Gegevens die nodig zijn om als notificatie naar burger, bedrijf of instelling te verzenden, worden doorgegeven aan de klantnotificatiecomponent.">
   <properties
       key="Object ID"
       value="129999d5-b61c-4a1f-aa28-290598a8923b"/>

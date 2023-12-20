@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-bce260dde2b94ea6b0cbfb86b7d03e19">
+    id="id-bce260dde2b94ea6b0cbfb86b7d03e19"
+    documentation="De besluitregistratiecomponent haaltbesluittypegegevens uit de zaaktypecataloguscomponent.">
   <properties
       key="Object ID"
       value="9296c5a9-f26e-4aa7-bff6-a69dae95ce80"/>
