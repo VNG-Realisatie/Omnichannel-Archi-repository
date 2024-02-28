@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitzetten van taken"
     id="id-89c3cf8e393c47dca3a65939dc44c499"
-    documentation="Tijdens de behandeling van een aanvraag kan het nodig zijn dat een burger of bedrijf een activiteit moet uitvoeren voordat de organisatie veder kan met de behandeling van de aanvraag. De organisatie zet daarvoor een taak uit bij de burger of bedrijf. Ook kunnen taken binnen de organisatie uitgezet worden, als dat nodig is voor een verdere behandeling van de aanvraag.">
+    documentation="Tijdens de behandeling van een aanvraag kan het nodig zijn dat een burger of bedrijf een activiteit moet uitvoeren voordat de organisatie verder kan met de behandeling van de aanvraag. De organisatie zet daarvoor een taak uit bij de burger of bedrijf. Ook kunnen taken binnen de organisatie uitgezet worden, als dat nodig is voor een verdere behandeling van de (aan)vraag (bijvoorbeeld een terugbelnotitie aan een collega).">
   <properties
       key="Object ID"
       value="1f99360a-69af-485f-afac-75d21b222b8a"/>

@@ -468,14 +468,14 @@
         source="id-55da3f66659a49dda77ab0a6d5513a47"
         target="id-5a860ee124ec4e5fa0930433a9085615">
       <bendpoints
-          startY="-72"
-          endX="-144"
-          endY="-72"/>
+          startX="40"
+          startY="72"
+          endX="-104"
+          endY="72"/>
       <bendpoints
-          startX="152"
-          startY="-72"
-          endX="8"
-          endY="-72"/>
+          startX="144"
+          startY="72"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-027cba723e9a401abb29d2c37ede2e40.xml#id-027cba723e9a401abb29d2c37ede2e40"/>
@@ -597,14 +597,15 @@
         source="id-ab12815aef62423198bc8ce6f87197ca"
         target="id-55da3f66659a49dda77ab0a6d5513a47">
       <bendpoints
-          startY="-72"
-          endX="-144"
-          endY="-72"/>
+          startX="48"
+          startY="64"
+          endX="-96"
+          endY="64"/>
       <bendpoints
-          startX="136"
-          startY="-72"
-          endX="-8"
-          endY="-72"/>
+          startX="112"
+          startY="64"
+          endX="-32"
+          endY="64"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-7680fbba-e00f-49d8-b402-62666551a08a.xml#id-7680fbba-e00f-49d8-b402-62666551a08a"/>
@@ -631,14 +632,15 @@
         source="id-5a860ee124ec4e5fa0930433a9085615"
         target="id-55da3f66659a49dda77ab0a6d5513a47">
       <bendpoints
-          startY="-64"
-          endX="144"
-          endY="-64"/>
+          startX="-8"
+          startY="64"
+          endX="136"
+          endY="64"/>
       <bendpoints
-          startX="-136"
-          startY="-64"
-          endX="8"
-          endY="-64"/>
+          startX="-96"
+          startY="64"
+          endX="48"
+          endY="64"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-b3891d92d9914074b1babb9f7aad2c3d.xml#id-b3891d92d9914074b1babb9f7aad2c3d"/>

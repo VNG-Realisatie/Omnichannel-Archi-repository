@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaakbevraging service"
+    id="id-87cd879b0e954bbe9ba2451fde7332c2"
+    documentation="Geaggregeerde service die het mogelijk maakt om bevragingen met een beperkte set aan attributen op te vragen bij de onderliggende CRUD services."/>

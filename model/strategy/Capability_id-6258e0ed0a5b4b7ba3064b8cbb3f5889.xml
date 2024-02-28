@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overzicht geven van klantcontacten"
+    name="Overzicht en inzage  bieden van klantcontacten"
     id="id-6258e0ed0a5b4b7ba3064b8cbb3f5889"
-    documentation="De interactie tussen burgers of bedrijven en de overheidsorganisatie leidt tot klantcontacten. Een overzicht van deze klantcontacten kunnen aan zowel burgers, bedrijven als aan medewerkers getoond worden. In het overzicht is onder andere duidelijk op welk moment via welk kanaal contact met de burger of bedrijf geweest over welk onderwerp.">
+    documentation="De interactie tussen burgers of bedrijven en de overheidsorganisatie leidt tot klantcontacten. Een overzicht en detailinformatie van deze klantcontacten kunnen aan zowel burgers, bedrijven als aan medewerkers aangeboden worden. In het overzicht is onder andere duidelijk op welk moment via welk kanaal contact met de burger of bedrijf geweest over welk onderwerp.">
   <properties
       key="Object ID"
       value="71f7d1aa-1781-4ed3-b628-88a27370bd7a"/>
