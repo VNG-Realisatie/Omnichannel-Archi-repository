@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzicht en inzage bieden van zaken"
     id="id-2859f027d8d141c7855baeb178c4836d"
-    documentation="Voor het behandelen van verzoeken die een burger of bedrijf heeft ingediend bij een organisatie, worden zaken aangemaakt. De organisatie kan een overzicht bieden en detailinformatie vertsrekken van de lopende of afgeronde zaken die een burger of bedrijf bij die organisatie heeft.">
+    documentation="Verzoeken die een burger of bedrijf heeft ingediend bij een organisatie, worden op een zaakgerichte manier behandeld. De organisatie kan een overzicht bieden en detailinformatie vertsrekken van de lopende of afgeronde zaken die een burger of bedrijf bij die organisatie heeft.">
   <properties
       key="Object ID"
       value="c5d8cb14-678d-445d-b363-563a9c7c3322"/>
