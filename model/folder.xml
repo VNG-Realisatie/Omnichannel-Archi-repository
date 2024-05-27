@@ -1,6 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Projectmodel Referentiearchitectuur Omnichannel"
+    name="Omnichannel"
     id="id-c9af3c15abf340de8b8bf7cfe3f872e6"
     purpose="Dit model bevat de projectarchitectuur van de referentiearchitectuur Omnichannel."
     version="5.0.0">
@@ -19,9 +19,6 @@
   <properties
       key="Kernmodel ID"
       value="2b2b88ba-8efe-46d3-8b40-47af290bc418"/>
-  <properties
-      key="Versie"
-      value="0.5"/>
   <properties
       key="Object ID"
       value="3c0f6ff7-0d6b-4f84-adcc-93cb3153cecd"/>
