@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BAI03 - Aanvraag via medeweker"
+    name="BAI03 - Aanvraag via medewerker"
     id="id-a16d227a4e3f42f699fe5350ed675ace">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
