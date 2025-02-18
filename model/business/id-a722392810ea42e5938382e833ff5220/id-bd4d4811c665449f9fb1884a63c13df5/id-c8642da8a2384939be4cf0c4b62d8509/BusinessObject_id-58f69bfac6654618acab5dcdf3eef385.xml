@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gunning"
+    id="id-58f69bfac6654618acab5dcdf3eef385"
+    documentation="Gunning van een (enkel of meervoudige) onderhandse aanbesteding, of een nationale of Europese aanbesteding &#xA;Of voor levering personeel">
+  <properties
+      key="GGM-guid"
+      value="{3FB9B466-D147-42d7-99D1-2D14A007D16C}"/>
+  <properties
+      key="GGM-UML-type"
+      value="Class"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Let op"
+      value="&quot;ggm-&quot; properties worden beheerd in het GGM informatiemodel"/>
+  <properties
+      key="Object ID"
+      value="70e40543-6a99-433d-8a01-f4273e308410"/>
+  <properties
+      key="GEMMA URL"
+      value="https://gemmaonline.nl/index.php/GEMMA2/0.9/id-70e40543-6a99-433d-8a01-f4273e308410"/>
+</archimate:BusinessObject>

@@ -1,0 +1,23 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="boring"
+    id="id-9649ab705c724aab9a2eafc24afcc89e">
+  <properties
+      key="GGM-guid"
+      value="{E11FDCA7-7538-4353-83FF-72164D928452}"/>
+  <properties
+      key="GGM-UML-type"
+      value="Class"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Let op"
+      value="&quot;ggm-&quot; properties worden beheerd in het GGM informatiemodel"/>
+  <properties
+      key="Object ID"
+      value="6897cf81-2661-4676-80b2-588cb1f4e42d"/>
+  <properties
+      key="GEMMA URL"
+      value="https://gemmaonline.nl/index.php/GEMMA2/0.9/id-6897cf81-2661-4676-80b2-588cb1f4e42d"/>
+</archimate:BusinessObject>

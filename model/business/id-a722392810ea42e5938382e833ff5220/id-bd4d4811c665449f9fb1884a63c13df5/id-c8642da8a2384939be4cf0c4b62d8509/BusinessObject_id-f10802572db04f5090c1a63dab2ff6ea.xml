@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database"
+    id="id-f10802572db04f5090c1a63dab2ff6ea"
+    documentation="Een applicatiecomponent die een dataset bevat.">
+  <properties
+      key="GGM-guid"
+      value="{FFD22E11-7A3A-459a-B575-928C67E8D1F3}"/>
+  <properties
+      key="GGM-UML-type"
+      value="Class"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Let op"
+      value="&quot;ggm-&quot; properties worden beheerd in het GGM informatiemodel"/>
+  <properties
+      key="Object ID"
+      value="d548564c-a918-47e4-ae60-697f0ed3e7aa"/>
+  <properties
+      key="GEMMA URL"
+      value="https://gemmaonline.nl/index.php/GEMMA2/0.9/id-d548564c-a918-47e4-ae60-697f0ed3e7aa"/>
+</archimate:BusinessObject>
