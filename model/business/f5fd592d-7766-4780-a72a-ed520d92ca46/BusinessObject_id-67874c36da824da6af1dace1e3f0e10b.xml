@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GESPREKSKANAAL"
+    id="id-67874c36da824da6af1dace1e3f0e10b"
+    documentation="Het medium/communicatiekanaal waarop het GESPREK wordt gevoerd.">
+  <properties
+      key="Object ID"
+      value="f6c372d8-ba03-46ba-9198-c99a2dbc140f"/>
+</archimate:BusinessObject>

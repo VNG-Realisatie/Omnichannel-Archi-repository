@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-2cd8fa23cd824ab58d5bf60fb602f59e"
+    documentation="NATUIURLIJK PERSOON is een BETROKKENE">
+  <properties
+      key="Object ID"
+      value="f7c5d3d9-b5ff-464c-8e48-a266ce2adc3b"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-25dfa3bf29d64852ba1a8506ef1d6756.xml#id-25dfa3bf29d64852ba1a8506ef1d6756"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-16d96fb2c1f84820903ba2038f4d5eec.xml#id-16d96fb2c1f84820903ba2038f4d5eec"/>
+</archimate:SpecializationRelationship>

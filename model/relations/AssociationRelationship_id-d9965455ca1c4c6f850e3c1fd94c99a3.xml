@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft behandeling van"
+    id="id-d9965455ca1c4c6f850e3c1fd94c99a3"
+    documentation="0 of meer ZAAKen betreft behandeling van 0 of meer VERZOEKen"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="bc56794b-cbba-4270-83c3-fa39772672b4"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-703d15170e9d4e4c85cf630991183ea9.xml#id-703d15170e9d4e4c85cf630991183ea9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b7c863bc54a540d695e5702fbfc72b43.xml#id-b7c863bc54a540d695e5702fbfc72b43"/>
+</archimate:AssociationRelationship>

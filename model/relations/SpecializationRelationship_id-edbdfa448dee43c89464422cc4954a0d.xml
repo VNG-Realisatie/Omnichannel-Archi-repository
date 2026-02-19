@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-edbdfa448dee43c89464422cc4954a0d"
+    documentation="GESPREKSDEELNEMER is een BETROKKENE">
+  <properties
+      key="Object ID"
+      value="a3def5b8-8cd4-4528-add2-41a4a5789839"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2a82b907cbe24021bd054c408752d190.xml#id-2a82b907cbe24021bd054c408752d190"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-16d96fb2c1f84820903ba2038f4d5eec.xml#id-16d96fb2c1f84820903ba2038f4d5eec"/>
+</archimate:SpecializationRelationship>

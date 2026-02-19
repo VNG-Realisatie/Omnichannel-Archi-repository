@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-0890611ffb8848cfaa48b553d5f8fd74"
+    documentation="1 PLAN heeft 1 PARTIJ"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="a4cf2cda-557b-445e-a0f4-8f74e8c01584"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1e114f5624a645fdad2797f63ba5c2ef.xml#id-1e114f5624a645fdad2797f63ba5c2ef"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d47f8027712f4913a8346a6c74edf656.xml#id-d47f8027712f4913a8346a6c74edf656"/>
+</archimate:AssociationRelationship>

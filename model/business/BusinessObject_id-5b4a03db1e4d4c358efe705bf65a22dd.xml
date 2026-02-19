@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEAUTOMATISEERDE ACTOR"
+    id="id-5b4a03db1e4d4c358efe705bf65a22dd"
+    documentation="Systeemcomponent dat voor de overheidsorganisatie werkzaamheden uitvoert. ">
+  <properties
+      key="Object ID"
+      value="ef59a7cf-114b-4221-918c-6e06325ad76e"/>
+</archimate:BusinessObject>

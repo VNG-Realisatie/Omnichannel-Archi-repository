@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="id-f51c8dcd43424ef5a61f2f69e83283d8"
+    documentation="0 of 1 KLANTCONTACT betreft 0 of 1 TAAK"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="5bb48c20-35c5-481c-b1bd-db4898abe4e2"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6dfa4f8a5e154aeda9e94c0f98f56af2.xml#id-6dfa4f8a5e154aeda9e94c0f98f56af2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-26e35c22dbf848b89d993c46a13bacf7.xml#id-26e35c22dbf848b89d993c46a13bacf7"/>
+</archimate:AssociationRelationship>

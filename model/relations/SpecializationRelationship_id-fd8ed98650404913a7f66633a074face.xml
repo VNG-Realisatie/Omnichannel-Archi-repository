@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-fd8ed98650404913a7f66633a074face"
+    documentation="NATUURLIJK PERSOON is een GESPREKSDEELNEMER">
+  <properties
+      key="Object ID"
+      value="0da8584f-6ddf-42b7-9283-bf4f2c14e01d"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-25dfa3bf29d64852ba1a8506ef1d6756.xml#id-25dfa3bf29d64852ba1a8506ef1d6756"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2a82b907cbe24021bd054c408752d190.xml#id-2a82b907cbe24021bd054c408752d190"/>
+</archimate:SpecializationRelationship>

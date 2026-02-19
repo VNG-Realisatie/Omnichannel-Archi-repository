@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is met"
+    id="id-192ddc523b0c4f34839a58e9fdf5608d"
+    documentation="0 of meer GESPREKken is met 0 of meer ACTORen"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="c155c9aa-1c51-4cc4-ac06-df7d1185131d"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c858d3012df145c6ab3c985da4b73e3b.xml#id-c858d3012df145c6ab3c985da4b73e3b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a5dd1924298d4aa8a670f9679f07e3c6.xml#id-a5dd1924298d4aa8a670f9679f07e3c6"/>
+</archimate:AssociationRelationship>

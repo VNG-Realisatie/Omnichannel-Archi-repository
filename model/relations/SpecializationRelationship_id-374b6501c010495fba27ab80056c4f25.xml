@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-374b6501c010495fba27ab80056c4f25"
+    documentation="MEDEWERKER is een BETROKKENE">
+  <properties
+      key="Object ID"
+      value="2f71ac08-fbd6-4942-8862-f972dfddd233"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-684639d1fa474c16b25dc862f63e357c.xml#id-684639d1fa474c16b25dc862f63e357c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-16d96fb2c1f84820903ba2038f4d5eec.xml#id-16d96fb2c1f84820903ba2038f4d5eec"/>
+</archimate:SpecializationRelationship>

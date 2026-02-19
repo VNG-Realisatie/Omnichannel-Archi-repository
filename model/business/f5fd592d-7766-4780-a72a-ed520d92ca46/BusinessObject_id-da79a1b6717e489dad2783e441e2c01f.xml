@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEGEVENSPROFIEL"
+    id="id-da79a1b6717e489dad2783e441e2c01f"
+    documentation="Contactgegevens en persoonsgegevens die gezamenlijk een individu of organisatie identificeren en beschrijven, en die wordt gebruikt voor communicatie in de dienstverlening.">
+  <properties
+      key="Object ID"
+      value="c622cb38-a35b-4580-a4b4-accef9f150b0"/>
+</archimate:BusinessObject>

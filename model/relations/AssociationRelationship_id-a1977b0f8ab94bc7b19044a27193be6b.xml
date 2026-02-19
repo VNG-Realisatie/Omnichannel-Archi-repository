@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is met"
+    id="id-a1977b0f8ab94bc7b19044a27193be6b"
+    documentation="0 of 1 KLANTCONTACT is met 1 of meer PARTIJen"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="67f0e414-8601-4b8b-a817-4bc661cc89f3"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6dfa4f8a5e154aeda9e94c0f98f56af2.xml#id-6dfa4f8a5e154aeda9e94c0f98f56af2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d47f8027712f4913a8346a6c74edf656.xml#id-d47f8027712f4913a8346a6c74edf656"/>
+</archimate:AssociationRelationship>

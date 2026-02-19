@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-de58da2aa98d4bb79c67a64a657caf1b"
+    documentation="VESTIGING is een BETROKKENE">
+  <properties
+      key="Object ID"
+      value="504e1788-9358-42c7-a243-4e007b7a8d8b"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-461bd1f66b904d5898fd8f8d3579c0d4.xml#id-461bd1f66b904d5898fd8f8d3579c0d4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-16d96fb2c1f84820903ba2038f4d5eec.xml#id-16d96fb2c1f84820903ba2038f4d5eec"/>
+</archimate:SpecializationRelationship>

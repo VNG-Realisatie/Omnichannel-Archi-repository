@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hoort bij"
+    id="id-208ad13225ec4c25b26dbb63b4dbc6bb"
+    documentation="0 of meer TAAKen hoort bij 0 of 1 PLAN"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="c68df3b7-a2b4-4847-97f5-c0e9ec52092d"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-26e35c22dbf848b89d993c46a13bacf7.xml#id-26e35c22dbf848b89d993c46a13bacf7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1e114f5624a645fdad2797f63ba5c2ef.xml#id-1e114f5624a645fdad2797f63ba5c2ef"/>
+</archimate:AssociationRelationship>

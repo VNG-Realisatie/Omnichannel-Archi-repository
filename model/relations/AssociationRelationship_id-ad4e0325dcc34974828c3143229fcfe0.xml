@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="id-ad4e0325dcc34974828c3143229fcfe0"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="c404f89b-c112-4eb8-9d66-5b05d82a112c"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6dfa4f8a5e154aeda9e94c0f98f56af2.xml#id-6dfa4f8a5e154aeda9e94c0f98f56af2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1534e9f0c1184eb7807da00e767e5226.xml#id-1534e9f0c1184eb7807da00e767e5226"/>
+</archimate:AssociationRelationship>

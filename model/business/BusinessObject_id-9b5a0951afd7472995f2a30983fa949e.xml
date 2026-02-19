@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONTACTPERSOON"
+    id="id-9b5a0951afd7472995f2a30983fa949e"
+    documentation="Natuurlijk persoon die werkte voor een organisatie, of natuurlijk persoon die een andere persoon vertegenwoordigde.">
+  <properties
+      key="Object ID"
+      value="c33d61c1-bae0-472f-be58-17f28cbf0598"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-beb2bd959a524c22b487d444e45c2abf"
+    documentation="ORGANISATORISCHE EENHEID is een GESPREKSDEELNEMER">
+  <properties
+      key="Object ID"
+      value="f8d29b71-772e-4f27-a25e-2ce471c5d071"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f8ed8b74446b40708e785d8d4eecc67b.xml#id-f8ed8b74446b40708e785d8d4eecc67b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2a82b907cbe24021bd054c408752d190.xml#id-2a82b907cbe24021bd054c408752d190"/>
+</archimate:SpecializationRelationship>

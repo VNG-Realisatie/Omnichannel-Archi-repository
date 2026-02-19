@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GESPREKSBIJDRAGE"
+    id="id-6e3ed1ca76a54b558ed223a9832cd3e7"
+    documentation="Wat een GESPREKSDEELNEMER toevoegt aan het GESPREK.">
+  <properties
+      key="Object ID"
+      value="d5cf2930-44a0-4b60-883e-936288e9fc4e"/>
+</archimate:BusinessObject>

@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-991daf76d43d4a2b85037d3c34e93ea8"
+    documentation="1 GESPREK heeft 1 of meer GESPREKSBIJDRAGEn"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="f5847738-23af-4333-9239-a1e0384f68a2"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c858d3012df145c6ab3c985da4b73e3b.xml#id-c858d3012df145c6ab3c985da4b73e3b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6e3ed1ca76a54b558ed223a9832cd3e7.xml#id-6e3ed1ca76a54b558ed223a9832cd3e7"/>
+</archimate:AssociationRelationship>

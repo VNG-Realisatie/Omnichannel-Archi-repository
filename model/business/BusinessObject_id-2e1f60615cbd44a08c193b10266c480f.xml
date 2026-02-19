@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RESULTAAT"
+    id="id-2e1f60615cbd44a08c193b10266c480f"
+    documentation="Een gedefinieerde, concrete uitkomst van een ZAAK zoals het verlenen of weigeren van een vergunning, een toekenning of een afwijzing, en is het het 'antwoord' op de aanleiding van die ZAAK.">
+  <properties
+      key="Object ID"
+      value="380e38c3-f88a-49bb-a99c-ca8ca1bd301d"/>
+</archimate:BusinessObject>

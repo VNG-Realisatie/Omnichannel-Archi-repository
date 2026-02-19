@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-f0e4c5b6daac443aa4f397882257f2de"
+    documentation="1 of meer GESPREKSDEELNEMERs heeft 1 GESPREKSROL in 1 GESPREK">
+  <properties
+      key="Object ID"
+      value="e90cc60a-92e4-4b9c-b9eb-be3b10c8782f"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e2de4e91c62b48c8848d714374db45e7.xml#id-e2de4e91c62b48c8848d714374db45e7"/>
+  <target
+      xsi:type="archimate:AssociationRelationship"
+      href="AssociationRelationship_id-d4a7a487be1b4e51b183c7a641d23dd0.xml#id-d4a7a487be1b4e51b183c7a641d23dd0"/>
+</archimate:AssociationRelationship>

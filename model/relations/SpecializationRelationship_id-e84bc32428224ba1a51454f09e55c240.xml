@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-e84bc32428224ba1a51454f09e55c240"
+    documentation="ORGANISATORISCHE EENHEID is een BETROKKENE">
+  <properties
+      key="Object ID"
+      value="b7d4266a-5fbd-471d-b6fb-4a6efb012a2a"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f8ed8b74446b40708e785d8d4eecc67b.xml#id-f8ed8b74446b40708e785d8d4eecc67b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-16d96fb2c1f84820903ba2038f4d5eec.xml#id-16d96fb2c1f84820903ba2038f4d5eec"/>
+</archimate:SpecializationRelationship>

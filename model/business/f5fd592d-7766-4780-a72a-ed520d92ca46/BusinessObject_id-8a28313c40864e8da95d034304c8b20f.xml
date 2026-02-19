@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BERICHT"
+    id="id-8a28313c40864e8da95d034304c8b20f"
+    documentation="Digitale post dat een overheidsorganisatie naar een burger, bedrijf of instelling stuurt, waarin informatie en/of documenten worden aangeboden die de burger, het bedrijf of de instelling in de persoonlijke digitale postbus ontvangt.">
+  <properties
+      key="Object ID"
+      value="92237796-31f7-42a8-8f12-e9e841ad2ffb"/>
+</archimate:BusinessObject>

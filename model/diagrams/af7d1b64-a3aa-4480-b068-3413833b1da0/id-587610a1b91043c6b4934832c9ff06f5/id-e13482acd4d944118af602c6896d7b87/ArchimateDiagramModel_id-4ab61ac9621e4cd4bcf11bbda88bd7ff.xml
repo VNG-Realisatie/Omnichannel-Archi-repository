@@ -113,38 +113,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e110aa7bf1714e60ae693a8efba8d7eb"
-        lineColor="#4f4f4f"
-        fillColor="#fefeb4"
-        textPosition="1"
-        type="1">
-      <bounds
-          x="419"
-          y="120"
-          width="121"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-df2676c1-70bc-11e4-67ab-0050568a6153.xml#id-df2676c1-70bc-11e4-67ab-0050568a6153"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-20d3754442e14b6ba3b2f0f536f1e884"
-        lineColor="#4f4f4f"
-        fillColor="#fefeb4"
-        textPosition="1"
-        type="1">
-      <bounds
-          x="683"
-          y="36"
-          width="121"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-71c50a65-70f3-11e4-67ab-0050568a6153.xml#id-71c50a65-70f3-11e4-67ab-0050568a6153"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-53f64976e3364020bd5029c557104b22"
         lineColor="#4f4f4f"
         fillColor="#fefeb4"

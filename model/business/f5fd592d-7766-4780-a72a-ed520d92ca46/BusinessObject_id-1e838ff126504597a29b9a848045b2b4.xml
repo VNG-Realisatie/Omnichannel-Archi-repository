@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="THEMA"
+    id="id-1e838ff126504597a29b9a848045b2b4"
+    documentation="Een afgebakend beleidsterrein of maatschappelijk vraagstuk waarop de overheid zich richt en waarvoor doelen, beleid en maatregelen zijn ontwikkeld. Het gaat om een breed, samenhangend onderwerp.">
+  <properties
+      key="Object ID"
+      value="55fd4719-db4c-4ab1-9650-be3d2ffbe455"/>
+</archimate:BusinessObject>

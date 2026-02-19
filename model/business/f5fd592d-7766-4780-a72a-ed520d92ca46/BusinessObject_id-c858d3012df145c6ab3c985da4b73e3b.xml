@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GESPREK"
+    id="id-c858d3012df145c6ab3c985da4b73e3b"
+    documentation="Een digitale dialoog tussen een burger, bedrijf of instelling en (een) overheidsorganisatie(s).">
+  <properties
+      key="Object ID"
+      value="f985d864-24e4-449f-a3d9-c663b40fefdb"/>
+</archimate:BusinessObject>

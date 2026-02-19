@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hoort bij"
+    id="id-bd6bffac68a44f3cbcbd92549bb90909"
+    documentation="1 of meer GEGEVENSPROFIELen hoort bij 1 PARTIJ"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="dfb7119c-d4fa-4644-9249-936bb79ffc2a"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-da79a1b6717e489dad2783e441e2c01f.xml#id-da79a1b6717e489dad2783e441e2c01f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d47f8027712f4913a8346a6c74edf656.xml#id-d47f8027712f4913a8346a6c74edf656"/>
+</archimate:AssociationRelationship>

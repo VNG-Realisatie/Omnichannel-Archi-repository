@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PLAN"
+    id="id-1e114f5624a645fdad2797f63ba5c2ef"
+    documentation="Een gestructureerde en vastgelegde beschrijving van doelen, keuzes, activiteiten en middelen, waarin wordt uitgewerkt wat de burger wil bereiken, hoe dat gebeurt, wanneer en met welke inzet.">
+  <properties
+      key="Object ID"
+      value="8d320aa7-f6cb-4a33-8ed3-5484f4ffb593"/>
+</archimate:BusinessObject>

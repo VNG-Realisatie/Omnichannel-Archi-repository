@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ORGANISATIE"
+    id="id-3beb4aee5af647718725c136c35e465d"
+    documentation="Geformaliseerde entiteit die geen natuurlijk persoon is en maatschappelijke activiteiten uitvoert.">
+  <properties
+      key="Object ID"
+      value="3b977513-a59f-442b-b490-72dde98528bf"/>
+</archimate:BusinessObject>

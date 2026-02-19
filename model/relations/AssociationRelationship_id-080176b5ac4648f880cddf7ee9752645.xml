@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="id-080176b5ac4648f880cddf7ee9752645"
+    documentation="0 of meer AGENDA-AFSPRAAKen betreft 0 of 1 PLAN"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="7af0930a-3813-4851-ab80-b5c5ca323cf0"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1534e9f0c1184eb7807da00e767e5226.xml#id-1534e9f0c1184eb7807da00e767e5226"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1e114f5624a645fdad2797f63ba5c2ef.xml#id-1e114f5624a645fdad2797f63ba5c2ef"/>
+</archimate:AssociationRelationship>

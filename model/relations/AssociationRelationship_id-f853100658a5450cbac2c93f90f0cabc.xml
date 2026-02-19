@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-f853100658a5450cbac2c93f90f0cabc"
+    documentation="0 of meer TAAKen heeft 0 of meer ENKELVOUDIG INFORMATIEOBJECT"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="b209ee95-cda2-42c6-9da8-bc26a3028d74"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-26e35c22dbf848b89d993c46a13bacf7.xml#id-26e35c22dbf848b89d993c46a13bacf7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-db3fc27d0b484a43bc230c35740db198.xml#id-db3fc27d0b484a43bc230c35740db198"/>
+</archimate:AssociationRelationship>

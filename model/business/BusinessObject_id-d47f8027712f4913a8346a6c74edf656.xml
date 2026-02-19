@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PARTIJ"
+    id="id-d47f8027712f4913a8346a6c74edf656"
+    documentation="Persoon of organisatie waarmee de overheidsorganisatie een relatie heeft.">
+  <properties
+      key="Object ID"
+      value="c526d9f2-e2a7-4732-8151-a970fa1f5332"/>
+</archimate:BusinessObject>

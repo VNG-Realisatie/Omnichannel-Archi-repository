@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via"
+    id="id-e2a4f69f041344518ae9c8f99ce0a84f"
+    documentation="1 of meer GESPREKSBIJDRAGEn wordt gelezen door 1 GESPREKSDEELNEMER via 1 GESPREKSKANAAL">
+  <properties
+      key="Object ID"
+      value="0990b6bf-ead5-4f20-a6d9-a82c35b15fe8"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-67874c36da824da6af1dace1e3f0e10b.xml#id-67874c36da824da6af1dace1e3f0e10b"/>
+  <target
+      xsi:type="archimate:AssociationRelationship"
+      href="AssociationRelationship_id-355b6aba6d34497da3316a95ff863fbc.xml#id-355b6aba6d34497da3316a95ff863fbc"/>
+</archimate:AssociationRelationship>

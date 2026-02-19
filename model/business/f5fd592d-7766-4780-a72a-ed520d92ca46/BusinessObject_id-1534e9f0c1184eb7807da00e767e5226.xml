@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AGENDA-AFSPRAAK"
+    id="id-1534e9f0c1184eb7807da00e767e5226"
+    documentation="Een gepland contactmoment waarop er een gesproken interactie plaatsvindt tussen een burger, bedrijf of instelling en een overheidsorganisatie.">
+  <properties
+      key="Object ID"
+      value="f1ff3aee-f31c-4d56-b7a2-21267547c232"/>
+</archimate:BusinessObject>

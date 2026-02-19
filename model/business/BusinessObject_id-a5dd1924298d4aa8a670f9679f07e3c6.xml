@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACTOR"
+    id="id-a5dd1924298d4aa8a670f9679f07e3c6"
+    documentation="Iets dat of iemand die voor de overheidsorganisatie werkzaamheden uitvoert.">
+  <properties
+      key="Object ID"
+      value="aa6a85a9-c61f-4695-ac2e-01f753add219"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZAAKTYPE"
+    id="id-cd8e7e571830421193245f61a6f31fca"
+    documentation="Specificatie van de wijze van besturing van, en vast te leggen informatie over een bedrijfsproces dat als zaak uitgevoerd wordt. ">
+  <properties
+      key="Object ID"
+      value="5d66ff3c-fcdd-4463-82bd-7a8ffc68737a"/>
+</archimate:BusinessObject>

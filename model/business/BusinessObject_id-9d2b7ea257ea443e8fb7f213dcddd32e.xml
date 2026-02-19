@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TAAKSTATUS"
+    id="id-9d2b7ea257ea443e8fb7f213dcddd32e"
+    documentation="Een aanduiding van de stand van zaken van een TAAK op basis van betekenisvol behaald resultaat voor de initiator van de TAAK.">
+  <properties
+      key="Object ID"
+      value="2536c38e-7b63-41d5-902a-fa5db7775ee5"/>
+</archimate:BusinessObject>

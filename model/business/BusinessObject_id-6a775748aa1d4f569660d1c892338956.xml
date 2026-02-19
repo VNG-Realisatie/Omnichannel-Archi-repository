@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BERICHTTYPE"
+    id="id-6a775748aa1d4f569660d1c892338956"
+    documentation="Specificatie van vast te leggen informatie over een BERICHT.">
+  <properties
+      key="Object ID"
+      value="a2c657fc-55d3-4fcf-ba6e-8b1f42db74de"/>
+</archimate:BusinessObject>

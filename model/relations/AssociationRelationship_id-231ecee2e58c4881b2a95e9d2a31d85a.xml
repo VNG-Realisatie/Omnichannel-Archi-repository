@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is van"
+    id="id-231ecee2e58c4881b2a95e9d2a31d85a"
+    documentation="0 of meer ZAAKen is van 1 ZAAKTYPE"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="958ef258-c505-4bbe-9336-187b25e54a76"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-703d15170e9d4e4c85cf630991183ea9.xml#id-703d15170e9d4e4c85cf630991183ea9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-cd8e7e571830421193245f61a6f31fca.xml#id-cd8e7e571830421193245f61a6f31fca"/>
+</archimate:AssociationRelationship>

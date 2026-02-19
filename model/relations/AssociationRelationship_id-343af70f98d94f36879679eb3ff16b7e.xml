@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is onderdeel van"
+    id="id-343af70f98d94f36879679eb3ff16b7e"
+    documentation="1 of meer ZAAKen is onderdeel van 0 of 1 PLAN"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="abf064d3-3753-4e24-b1df-7f0100a39bc0"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-703d15170e9d4e4c85cf630991183ea9.xml#id-703d15170e9d4e4c85cf630991183ea9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1e114f5624a645fdad2797f63ba5c2ef.xml#id-1e114f5624a645fdad2797f63ba5c2ef"/>
+</archimate:AssociationRelationship>
