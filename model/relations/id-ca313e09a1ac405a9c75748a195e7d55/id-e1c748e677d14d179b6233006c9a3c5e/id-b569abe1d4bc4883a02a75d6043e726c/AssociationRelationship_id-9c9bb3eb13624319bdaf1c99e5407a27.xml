@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is uitkomst van"
     id="id-9c9bb3eb13624319bdaf1c99e5407a27"
-    documentation="1 BESLUIT is uitkomst van 1 ZAAK"
+    documentation="0 of 1 BESLUIT is uitkomst van 1 ZAAK"
     directed="true">
   <properties
       key="GGM-guid"

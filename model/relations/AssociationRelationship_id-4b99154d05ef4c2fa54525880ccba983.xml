@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="betreft levering van"
     id="id-4b99154d05ef4c2fa54525880ccba983"
+    documentation="1 VERZOEK betreft levering van 1 of meer PRODUCTen"
     directed="true">
   <properties
       key="Object ID"

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsobjectenmodel - kernmodel"
     id="id-bf8aaebe44a44367ac9005c8d42e5fb0"
-    documentation="Deze view is het kernmodel van de bedrijfsobjecten van de MijnServices. Het geeft een overzicht van de onderlinge relatie tussen de verschillende bedrijfsobjecten. Niet alle bedrijfsobjecten van de MijnServices staan in deze view. Voor elk kern-bedrijfsobject in deze view is een aparte detailview gemaakt waarin dat kern-bedrijfsobject centraal staat. In de detailview zijn aanvullende bedrijfsobjecten opgenomen.">
+    documentation="Deze view is het kernmodel van de bedrijfsobjecten van de MijnServices. Het geeft een overzicht van de onderlinge relatie tussen de verschillende bedrijfsobjecten. Niet alle bedrijfsobjecten van de MijnServices staan in deze view. Elk van de donkergele kern-bedrijfsobject in deze view is een MijnService en daarvoor is een aparte detailview gemaakt waarin dat kern-bedrijfsobject centraal staat. In de detailview zijn aanvullende bedrijfsobjecten opgenomen.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-482803d65ec449d59f381d88aa480aee"
@@ -519,7 +519,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-80ed8954016a497084690f86f59b9360"
       targetConnections="id-8b76ffe9ad1c4cc8930a9871e263b226 id-ec94ce68cdb94cffb98dccc19ccbd1e0 id-7d25a58930d04f8ca1342243db1218ee"
-      fillColor="#ffff80"
       textPosition="1">
     <features
         name="deriveElementLineColor"
