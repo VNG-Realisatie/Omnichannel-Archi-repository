@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overzicht en inzage bieden van agenda-afspraken"
+    id="id-ef8569283ceb47a492ae7d81f1651795"
+    documentation="De overheidsorganisatie kan een overzicht en inzage bieden in de agenda-afspraken die een inwoner of ondernemer heeft of heeft gehad bij de overheidsorganisatie.">
+  <properties
+      key="Object ID"
+      value="834a164c-f09d-4497-b150-b65aa92d0304"/>
+</archimate:Capability>

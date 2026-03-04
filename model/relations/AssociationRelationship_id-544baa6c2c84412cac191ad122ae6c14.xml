@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vindt plaats op"
     id="id-544baa6c2c84412cac191ad122ae6c14"
+    documentation="0 of meer AGENDA-AFSPRAAKen vindt plaats op 1 AFSPRAAKLOCATIE"
     directed="true">
   <properties
       key="Object ID"

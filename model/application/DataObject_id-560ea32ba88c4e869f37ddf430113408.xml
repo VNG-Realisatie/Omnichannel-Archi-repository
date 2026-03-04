@@ -1,7 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Agenda-afspraak"
-    id="id-560ea32ba88c4e869f37ddf430113408">
+    id="id-560ea32ba88c4e869f37ddf430113408"
+    documentation="Een gepland contactmoment waarop er een gesproken interactie plaatsvindt tussen een burger, bedrijf of instelling en een overheidsorganisatie.">
   <properties
       key="Object ID"
       value="b10f72e4-4897-424d-b1a7-4d682cc9b71e"/>

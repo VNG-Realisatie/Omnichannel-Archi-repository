@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capabilities MijnAgenda"
+    id="id-861b47c5f7864ac1bac6232f5305a70a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-856c327947cb4250a3f5216b25f4a827"
+      lineColor="#4f4f4f"
+      fillColor="#f9c268">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4a720f8074b94e13984a2dc3b0dfc4d4"
+        source="id-856c327947cb4250a3f5216b25f4a827"
+        target="id-4d18407adc8e42e9a0e8de51e0826175">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c0c07b06295f4aeabbe0432d1e0cf18a.xml#id-c0c07b06295f4aeabbe0432d1e0cf18a"/>
+    </sourceConnections>
+    <bounds
+        x="208"
+        y="136"
+        width="161"
+        height="129"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4d18407adc8e42e9a0e8de51e0826175"
+        targetConnections="id-4a720f8074b94e13984a2dc3b0dfc4d4"
+        textPosition="1">
+      <bounds
+          x="16"
+          y="32"
+          width="129"
+          height="81"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-ef8569283ceb47a492ae7d81f1651795.xml#id-ef8569283ceb47a492ae7d81f1651795"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-4af2ac478ecd48759692f2060375f35b.xml#id-4af2ac478ecd48759692f2060375f35b"/>
+  </children>
+  <properties
+      key="Object ID"
+      value="d28f6644-129f-4867-8cd6-c4a32b6e3285"/>
+</archimate:ArchimateDiagramModel>

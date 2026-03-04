@@ -1,7 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afspraken API"
-    id="id-da953c8790ad491da766df319fb454fa">
+    id="id-da953c8790ad491da766df319fb454fa"
+    documentation="De Afspraken API standaardiseert het opvragen van gegevens van agenda-afspraken.">
   <properties
       key="Object ID"
       value="c09b743b-6cd2-40d1-af47-f8aa45042528"/>

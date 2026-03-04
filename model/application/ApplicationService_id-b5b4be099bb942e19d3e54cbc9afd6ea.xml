@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnAgenda"
+    id="id-b5b4be099bb942e19d3e54cbc9afd6ea"
+    documentation="Deze service is een verzameling van services die gebruikt worden in portalen of andere soorten interactiecomponenten. De MijnAgenda service geeft een overzicht van komende en plaatsgevonden agenda-afspraken zaken en geeft details van de agenda-afspraak. ">
+  <properties
+      key="Object ID"
+      value="96daf488-12a6-4d64-972e-d1ddd24a3d39"/>
+</archimate:ApplicationService>

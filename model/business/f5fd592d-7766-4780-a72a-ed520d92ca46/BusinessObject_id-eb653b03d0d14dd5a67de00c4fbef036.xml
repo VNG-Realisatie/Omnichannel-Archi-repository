@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AFSPRAAKLOCATIE"
+    id="id-eb653b03d0d14dd5a67de00c4fbef036"
+    documentation="De specifieke plaats waar een afspraak plaatsvindt, zoals een fysiek bezoekadres, een online afspraak met een URL of een telefonische afspraak.">
+  <properties
+      key="Object ID"
+      value="c38df418-e614-4fd8-bf04-75b1f7a653eb"/>
+</archimate:BusinessObject>

@@ -1,16 +1,17 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is van"
-    id="id-a94ccf3249e744d18388e9d0acab3c98"
+    name="is met"
+    id="id-b63476b7cc984deeb1676a3d0c9b443a"
+    documentation="0 of meeer AGENDA-AFSPRAAKen is met 1 of MEER ACTORen"
     directed="true">
   <properties
       key="Object ID"
-      value="4c0186ad-d31b-4d52-8177-e2393c2c163d"/>
+      value="53617323-997a-4f8e-acaa-67c81b0138f9"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-1534e9f0c1184eb7807da00e767e5226.xml#id-1534e9f0c1184eb7807da00e767e5226"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-965c4de26b424fd4828e4c10835138d3.xml#id-965c4de26b424fd4828e4c10835138d3"/>
+      href="BusinessObject_id-a5dd1924298d4aa8a670f9679f07e3c6.xml#id-a5dd1924298d4aa8a670f9679f07e3c6"/>
 </archimate:AssociationRelationship>
