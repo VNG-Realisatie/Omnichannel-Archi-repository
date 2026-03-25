@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GESPREKSDEELNEMER"
-    id="id-2a82b907cbe24021bd054c408752d190"
-    documentation="Een burger, bedrijf of instelling die deelneemt aan een GESPREK.">
-  <properties
-      key="Object ID"
-      value="493f8fa0-cbab-4146-a340-06fdca5152cd"/>
-</archimate:BusinessObject>

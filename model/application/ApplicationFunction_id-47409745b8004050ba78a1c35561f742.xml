@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonen gesprekken en plaatsen gespreksbijdrage"
+    id="id-47409745b8004050ba78a1c35561f742"
+    documentation="Functie voor het tonen van gesprekken en het plaatsen van bijdragen binnen die gesprekken.">
+  <properties
+      key="Object ID"
+      value="5c7a2683-ee6e-4db2-9432-4d19fde977ac"/>
+</archimate:ApplicationFunction>

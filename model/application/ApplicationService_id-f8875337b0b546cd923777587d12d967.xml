@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnGesprekken"
+    id="id-f8875337b0b546cd923777587d12d967"
+    documentation="Deze service betreft een gestandaardiseerde manier binnen de persoonlijke MijnOmgeving digitale interactieve communicatie tussen geauthenticeerde burgers, bedrijven of instellingen en overheidsorganisatie te faciliteren met zaakafhandelcomponenten of andere ondersteunende componenten van de overheidsorganisatie.">
+  <properties
+      key="Object ID"
+      value="a24c7714-e399-44ed-989f-3148a3ad1e27"/>
+</archimate:ApplicationService>

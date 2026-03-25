@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BURGER"
-    id="id-358df2339f3046488619ff1141fd8cdb"
-    documentation="Iedere inwoner van een land.">
-  <properties
-      key="Object ID"
-      value="6acd1787-a7d3-4823-9d8e-0943fdb235e2"/>
-</archimate:BusinessObject>

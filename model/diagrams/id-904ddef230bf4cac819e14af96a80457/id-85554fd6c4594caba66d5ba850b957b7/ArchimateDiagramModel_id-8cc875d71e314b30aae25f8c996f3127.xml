@@ -8,9 +8,6 @@
       id="id-6b5a49b0e1fd4974b355ebe0faabfcb6"
       targetConnections="id-3387c4dfee2f4926a8e9b64437dcbf7d id-eb97c61885b247ecae7c0f6c2ff15ab8"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1eaaa07dec224650a0254c59809dcb96"
@@ -121,9 +118,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-38eea1932bb44768bd60d233f89df224"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3387c4dfee2f4926a8e9b64437dcbf7d"
@@ -155,9 +149,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4ee983e9236640a690f412d91b89aace"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-eb97c61885b247ecae7c0f6c2ff15ab8"
@@ -181,9 +172,6 @@
       id="id-9d7153428c7649d6902d4993a25c12cc"
       targetConnections="id-1eaaa07dec224650a0254c59809dcb96"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <bounds
         x="232"
         y="320"
@@ -198,9 +186,6 @@
       id="id-ee9fbf5410a04851b6d844b5d38d4693"
       targetConnections="id-adf419153e2545868a9665d54b6d3533"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <bounds
         x="744"
         y="320"
@@ -215,9 +200,6 @@
       id="id-03eea8b6183f451ca3722f908da558cc"
       targetConnections="id-f091808f10e54fed88bc3a20a8a24ee7"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <bounds
         x="744"
         y="160"
@@ -232,9 +214,6 @@
       id="id-aae85265749849609f5605d73336c34f"
       targetConnections="id-db9c556eb47e4adf9adfec3eb545e0a5"
       textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <bounds
         x="232"
         y="480"

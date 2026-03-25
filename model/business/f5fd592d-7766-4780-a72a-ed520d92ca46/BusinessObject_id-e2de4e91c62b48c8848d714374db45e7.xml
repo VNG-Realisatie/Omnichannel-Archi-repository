@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GESPREKSROL"
-    id="id-e2de4e91c62b48c8848d714374db45e7"
-    documentation="De rol die een GESPREKSDEELNEMER in een GESPREK heeft.">
-  <properties
-      key="Object ID"
-      value="7df95207-2161-49ef-94ef-958a35f6aeae"/>
-</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document"
+    id="id-2fa34c97e2194bea9584e76a649c9ca4"
+    documentation="Documenten (ook wel Informatieobjecten genoemd in het RGBZ), ontstaan in een proces (worden ontvangen of geproduceerd) en worden zoveel als mogelijk opgeslagen in de Documentregistratiecomponent. Dit enerzijds om de documenten per proces netjes bij elkaar te hebben staan. Anderzijds om de procesapplicatie niet te belasten met de opslag van documenten. Documenten worden maar één keer opgeslagen.">
+  <properties
+      key="Object ID"
+      value="56ce9e89-5490-43e5-8c3a-c926729d9dc7"/>
+</archimate:DataObject>

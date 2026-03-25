@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gesprek"
+    id="id-a00c58a45baf4c8ba773dcaacef2da8a"
+    documentation="Een registratie van een digitale dialoog tussen een burger, bedrijf of instelling en (een) overheidsorganisatie(s).">
+  <properties
+      key="Object ID"
+      value="2f9174a5-af3b-4fac-85df-0c87afc38d0c"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gesprekken API"
+    id="id-9346166dfaa64b0e98072c23f7205237"
+    documentation="De Gesprekken API standaardiseert het creëren en lezen van gesprekken en gespreksbijdragen.">
+  <properties
+      key="Object ID"
+      value="30707b30-6468-4708-affe-99ac8b9e82d8"/>
+</archimate:ApplicationInterface>

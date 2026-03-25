@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gesprekregistratiecomponent"
+    id="id-66b2bafba43d40daac11c45ae878ea7d"
+    documentation="Component waarin digitaal gevoerde gesprekken tussen burger, bedrijf of instelling en de overheidsorganisatie worden vastgelegd.">
+  <properties
+      key="Object ID"
+      value="11156d6f-6c43-40bf-8c64-d81eb94cc32c"/>
+</archimate:ApplicationComponent>

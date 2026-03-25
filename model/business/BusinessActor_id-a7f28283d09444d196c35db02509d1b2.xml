@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerker"
+    id="id-a7f28283d09444d196c35db02509d1b2"
+    documentation="Een medewerker van de organisatie die zaken behandelt uit hoofde van zijn of haar functie binnen een ORGANISATORISCHE EENHEID.">
+  <properties
+      key="Object ID"
+      value="5e629f8c-e558-41fd-a5be-40e5cefd27ff"/>
+</archimate:BusinessActor>
