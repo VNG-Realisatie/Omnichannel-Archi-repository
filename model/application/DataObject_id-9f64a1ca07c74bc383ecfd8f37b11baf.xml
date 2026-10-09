@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taak"
+    id="id-9f64a1ca07c74bc383ecfd8f37b11baf"
+    documentation="Een registratie van taakgegevens.">
+  <properties
+      key="Object ID"
+      value="e11b06d3-c09f-42e7-8076-86e3b99d21c7"/>
+</archimate:DataObject>

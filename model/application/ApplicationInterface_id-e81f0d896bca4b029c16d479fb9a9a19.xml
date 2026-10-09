@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berichten API"
+    id="id-e81f0d896bca4b029c16d479fb9a9a19"
+    documentation="De Berichten API standaardiseert het creëren, bijwerken, lezen en verwijderen van berichten.">
+  <properties
+      key="Object ID"
+      value="08768ed9-5ac4-4b03-bf0e-7bc05906745c"/>
+</archimate:ApplicationInterface>

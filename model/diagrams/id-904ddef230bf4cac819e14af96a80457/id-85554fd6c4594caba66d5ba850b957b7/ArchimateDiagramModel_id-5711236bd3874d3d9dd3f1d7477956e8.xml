@@ -1,0 +1,51 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capabilities MijnTaken"
+    id="id-5711236bd3874d3d9dd3f1d7477956e8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-989667e1d8084bb6b4ee34ce154e2c59"
+      lineColor="#4f4f4f"
+      fillColor="#f9c268">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d6fd18ccf78a4d4eb4162811aed4a68b"
+        source="id-989667e1d8084bb6b4ee34ce154e2c59"
+        target="id-c08cdb0e543f413e996c7227b1227354">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-1a1c458ec9594eab836f213ed509e211.xml#id-1a1c458ec9594eab836f213ed509e211"/>
+    </sourceConnections>
+    <bounds
+        x="320"
+        y="144"
+        width="161"
+        height="129"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c08cdb0e543f413e996c7227b1227354"
+        targetConnections="id-d6fd18ccf78a4d4eb4162811aed4a68b"
+        lineColor="#4f4f4f"
+        fillColor="#f9c268"
+        textPosition="1">
+      <bounds
+          x="16"
+          y="32"
+          width="129"
+          height="81"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-89c3cf8e393c47dca3a65939dc44c499.xml#id-89c3cf8e393c47dca3a65939dc44c499"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-4af2ac478ecd48759692f2060375f35b.xml#id-4af2ac478ecd48759692f2060375f35b"/>
+  </children>
+  <properties
+      key="Object ID"
+      value="afef9d12-5d40-4c25-aba0-fe6248f96fe6"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+</archimate:ArchimateDiagramModel>

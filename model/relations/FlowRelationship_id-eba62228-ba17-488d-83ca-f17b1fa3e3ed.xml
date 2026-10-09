@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inzien zaakdocumenten"
     id="id-eba62228-ba17-488d-83ca-f17b1fa3e3ed">
   <properties
       key="Object ID"

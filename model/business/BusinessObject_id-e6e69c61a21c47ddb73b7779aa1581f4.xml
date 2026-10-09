@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRODUCTTYPE"
+    id="id-e6e69c61a21c47ddb73b7779aa1581f4"
+    documentation="Een classificatie van een product die de overheid aan burgers en bedrijven levert, zoals vergunningen, uitkeringen of informatieverstrekking.">
+  <properties
+      key="Object ID"
+      value="d6fe1782-0abb-4a27-93f1-a78812ac8320"/>
+</archimate:BusinessObject>

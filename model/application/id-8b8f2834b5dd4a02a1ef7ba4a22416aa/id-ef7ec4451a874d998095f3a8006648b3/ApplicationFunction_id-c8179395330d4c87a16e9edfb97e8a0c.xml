@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonen overzicht en inzage van gelezen en ongelezen berichten"
+    id="id-c8179395330d4c87a16e9edfb97e8a0c"
+    documentation="Functie voor het tonen van een overzicht van en inzien van detailgegevens over afspraken die een burger, bedrijf of instelling met de overheidsorganisatie heeft (gehad).">
+  <properties
+      key="Object ID"
+      value="9fe32eaf-c632-456f-8d9a-9a524ff9643b"/>
+</archimate:ApplicationFunction>

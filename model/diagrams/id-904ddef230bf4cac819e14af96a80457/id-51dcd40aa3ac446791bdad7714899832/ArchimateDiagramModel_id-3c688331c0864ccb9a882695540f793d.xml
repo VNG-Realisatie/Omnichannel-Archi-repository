@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsobjectenmodel MijnAgenda"
-    id="id-3c688331c0864ccb9a882695540f793d">
+    id="id-3c688331c0864ccb9a882695540f793d"
+    documentation="Deze view toont de samenhang tussen de bedrijfsobjecten in de context van een agenda-afspraak.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ed3fce85cbac409195c1bad98df26502"
@@ -253,6 +254,26 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-d47f8027712f4913a8346a6c74edf656.xml#id-d47f8027712f4913a8346a6c74edf656"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-9f0ffb645f714402906ec586f71e6f31"
+      name="Out of scope"
+      lineWidth="2"
+      textAlignment="1"
+      alpha="0"
+      borderType="1">
+    <features
+        name="lineStyle"
+        value="1"/>
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="144"
+        y="112"
+        width="913"
+        height="145"/>
   </children>
   <properties
       key="Object ID"

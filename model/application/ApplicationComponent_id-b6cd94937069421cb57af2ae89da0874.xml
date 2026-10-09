@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PostGuard"
+    id="id-b6cd94937069421cb57af2ae89da0874">
+  <profiles
+      href="folder.xml#id-a86a5f93be20416286c22515a1cc5695"/>
+</archimate:ApplicationComponent>

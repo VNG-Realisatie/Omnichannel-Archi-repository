@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnGesprekken API"
+    id="id-79db03d986ea4e8e8cecec4c8c48f186"
+    documentation="Proces API voor het kunnen voeren van digitale gesprekken. De API maakt gebruik van de Gesprekken API, Documenten API en de  Zaken API.">
+  <properties
+      key="Object ID"
+      value="2b7dfa73-aa74-49bf-9795-0db9a006b265"/>
+</archimate:ApplicationInterface>

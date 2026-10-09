@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Routeren van procesoutput naar SMS"
+    id="id-e3635da911984c24b2fa949deaa74165"
+    documentation="Applicatieservice voor het routeren van procesoutput (kleine berichten) naar SMS-broker."/>

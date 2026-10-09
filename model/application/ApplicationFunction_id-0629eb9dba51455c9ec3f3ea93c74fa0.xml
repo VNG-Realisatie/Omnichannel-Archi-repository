@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastleggen contactmoment"
+    id="id-0629eb9dba51455c9ec3f3ea93c74fa0"
+    documentation="Na het verzenden van een notificatie registreert de OMC het contactmoment via de Contactmomenten API (onderdeel van Open Klant / Klantinteracties). Dit geldt zowel voor succesvolle als mislukte bezorgingen. De eindpuntconfiguratie (ZGW_ENDPOINT_CONTACTMOMENTEN) bepaalt waar deze registraties naartoe worden gestuurd. In workflow v2 maakt de OMC gebruik van de nieuwere Klantcontacten v2.0 API. De inhoud van het contactmoment wordt bepaald door de UxMessages die in de applicatieconfiguratie zijn gedefinieerd, zoals &quot;Notificatie verzonden&quot; of &quot;We konden uw notificatie niet afleveren.&quot;"/>

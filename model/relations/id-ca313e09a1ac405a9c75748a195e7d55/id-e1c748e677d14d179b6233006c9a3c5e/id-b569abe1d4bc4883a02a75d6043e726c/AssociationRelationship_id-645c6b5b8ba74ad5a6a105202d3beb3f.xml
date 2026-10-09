@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="heeft betrekking op"
+    name="betreft"
     id="id-645c6b5b8ba74ad5a6a105202d3beb3f"
     documentation="0 of 1 KLANTCONTACT betreft 0 of 1 ZAAK"
     directed="true">

@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnTaken API"
+    id="id-8417373ed84a439aaaff96a060856495"
+    documentation="Proces API voor het kunnen uitvoeren van taken. De API maakt gebruik van de Taken API, Zaken API en de Documenten API.">
+  <properties
+      key="Object ID"
+      value="486c7889-59ec-49cf-82b0-ff3cea963aa1"/>
+</archimate:ApplicationInterface>

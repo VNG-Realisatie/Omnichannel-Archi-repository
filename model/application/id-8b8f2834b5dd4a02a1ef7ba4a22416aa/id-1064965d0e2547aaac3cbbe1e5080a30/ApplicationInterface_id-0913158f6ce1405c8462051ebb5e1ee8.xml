@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taken API"
+    id="id-0913158f6ce1405c8462051ebb5e1ee8"
+    documentation="De Taken API standaardiseert het creëren, bijwerken, lezen en verwijderen van taakgegevens.">
+  <properties
+      key="Object ID"
+      value="27bd30a7-e533-4133-91d4-abd9be6b555d"/>
+</archimate:ApplicationInterface>

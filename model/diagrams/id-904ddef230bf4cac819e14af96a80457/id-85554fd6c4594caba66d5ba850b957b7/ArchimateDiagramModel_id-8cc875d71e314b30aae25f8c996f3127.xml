@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsobjectenmodel MijnTaken"
-    id="id-8cc875d71e314b30aae25f8c996f3127">
+    name="Bedrijfsobjectenmodel MijnTaken - SOLL"
+    id="id-8cc875d71e314b30aae25f8c996f3127"
+    documentation="Deze view toont de samenhang tussen de bedrijfsobjecten in de context van een taak.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b5a49b0e1fd4974b355ebe0faabfcb6"
@@ -64,25 +65,9 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-067381505653415ab1f468d58426fd6c"
-        textPosition="2"
-        source="id-6b5a49b0e1fd4974b355ebe0faabfcb6"
-        target="id-6748bfe6901242a395114892ffffa24c">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-104d7d28a9ae4d5497f5ecc7f58f7b7d.xml#id-104d7d28a9ae4d5497f5ecc7f58f7b7d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-25036d6b62e84a0781fffdb83cbb489b"
-        textPosition="0"
         source="id-6b5a49b0e1fd4974b355ebe0faabfcb6"
         target="id-6748bfe6901242a395114892ffffa24c">
-      <bendpoints
-          startX="-48"
-          startY="80"
-          endX="-48"
-          endY="-80"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-824e154084fd42b2954b777cac43a854.xml#id-824e154084fd42b2954b777cac43a854"/>
@@ -93,14 +78,14 @@
         source="id-6b5a49b0e1fd4974b355ebe0faabfcb6"
         target="id-695ac0f6e85845f08ee87917f241f97e">
       <bendpoints
-          startX="48"
-          startY="80"
-          endX="-208"
-          endY="-80"/>
+          startX="128"
+          startY="24"
+          endX="-128"
+          endY="-136"/>
       <bendpoints
-          startX="256"
-          startY="80"
-          endY="-80"/>
+          startX="128"
+          startY="160"
+          endX="-128"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0435c6031c384edcaa2b04822f2c03fd.xml#id-0435c6031c384edcaa2b04822f2c03fd"/>
@@ -226,7 +211,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6748bfe6901242a395114892ffffa24c"
-      targetConnections="id-067381505653415ab1f468d58426fd6c id-25036d6b62e84a0781fffdb83cbb489b"
+      targetConnections="id-25036d6b62e84a0781fffdb83cbb489b"
       textPosition="1">
     <bounds
         x="488"

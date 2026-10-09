@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capabilities MijnZaken"
+    id="id-0122053bc61949539c3c7c1418bac8a0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-062134739f7c44daa519c2b601ec17f2"
+      lineColor="#4f4f4f"
+      fillColor="#f9c268">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-516614d567554c3e945c249bd5fec82c"
+        source="id-062134739f7c44daa519c2b601ec17f2"
+        target="id-91c1463826764be0807c0db0a3c91fe2">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-4abd7c2e9416454090b3a5dbaf6a92e3.xml#id-4abd7c2e9416454090b3a5dbaf6a92e3"/>
+    </sourceConnections>
+    <bounds
+        x="328"
+        y="328"
+        width="161"
+        height="129"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-91c1463826764be0807c0db0a3c91fe2"
+        targetConnections="id-516614d567554c3e945c249bd5fec82c"
+        lineColor="#4f4f4f"
+        fillColor="#f9c268"
+        textPosition="1">
+      <bounds
+          x="16"
+          y="32"
+          width="129"
+          height="81"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-2859f027d8d141c7855baeb178c4836d.xml#id-2859f027d8d141c7855baeb178c4836d"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-4af2ac478ecd48759692f2060375f35b.xml#id-4af2ac478ecd48759692f2060375f35b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

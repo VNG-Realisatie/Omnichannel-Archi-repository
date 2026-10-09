@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verifiëren van digitaal adres"
+    id="id-7795566feb174337a2b33927ebb40b75"
+    documentation="Applicatieservice voor het verifiëren van een door de burger of bedrijf opgegeven digitaal adres."/>

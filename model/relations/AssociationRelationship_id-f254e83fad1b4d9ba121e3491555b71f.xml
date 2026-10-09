@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="heeft"
     id="id-f254e83fad1b4d9ba121e3491555b71f"
+    documentation="0 of 1 BERICHT heeft 0 of meer ENKELVOUDIGE INFORMATIEOBJECTen"
     directed="true">
   <properties
       key="Object ID"

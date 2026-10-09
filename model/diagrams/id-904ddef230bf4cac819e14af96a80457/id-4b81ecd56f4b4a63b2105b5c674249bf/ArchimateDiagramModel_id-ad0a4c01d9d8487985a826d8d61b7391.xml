@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsobjectenmodel MijnGesprekken"
-    id="id-ad0a4c01d9d8487985a826d8d61b7391">
+    id="id-ad0a4c01d9d8487985a826d8d61b7391"
+    documentation="Deze view toont de samenhang tussen de bedrijfsobjecten in de context van een digitaal gesprek.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7c2f9afa384844cda715f9b50d128028"
